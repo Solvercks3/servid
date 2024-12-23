@@ -1,0 +1,216 @@
+[20:18:17] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[20:18:17] [main/WARN]: Warnings were found!
+ - Mod 'Alloy Forgery' (alloy_forgery) 2.4.1+1.21 recommends version 14.0.0 or later of roughlyenoughitems, which is missing!
+	 - You should install version 14.0.0 or later of roughlyenoughitems for the optimal experience.
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[20:18:17] [main/INFO]: Loading 97 mods:
+	- alloy_forgery 2.4.1+1.21
+	- appleskin 3.0.6+mc1.21
+	- architectury 13.0.8
+	- artifacts 12.0.6
+	   |-- com_electronwill_night-config_core 3.8.0
+	   |-- com_electronwill_night-config_toml 3.8.0
+	   \-- expandability 12.0.0
+	- athena 4.0.1
+	- biolith 3.0.0
+	- cardinal-components 6.1.1
+	   |-- cardinal-components-base 6.1.1
+	   |-- cardinal-components-block 6.1.1
+	   |-- cardinal-components-chunk 6.1.1
+	   |-- cardinal-components-entity 6.1.1
+	   |-- cardinal-components-item 6.1.1
+	   |-- cardinal-components-level 6.1.1
+	   |-- cardinal-components-scoreboard 6.1.1
+	   \-- cardinal-components-world 6.1.1
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- clumps 19.0.0.1
+	- deeperdarker 1.3.3
+	   \-- customportalapi 0.0.1-beta66-1.21
+	- elevatorid 1.21-1.11.1
+	- elytraslot 9.0.1+1.21.1
+	- etherology 1.21-0.1.4
+	   |-- mixinsquared 0.2.0-beta.6
+	   \-- mm 2.3
+	- fabric-api 0.110.0+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.70+b559734419
+	   |-- fabric-biome-api-v1 13.0.30+be1ed2d719
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a719
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8c19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.18+b559734419
+	   |-- fabric-convention-tags-v1 2.1.2+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.9.2+e60e56d419
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.0+da19b51a19
+	   |-- fabric-data-generation-api-v1 20.2.24+16c4ae2519
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b9919
+	   |-- fabric-entity-events-v1 1.7.0+2122d82819
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.1.1+d5debaed19
+	   |-- fabric-item-group-api-v1 4.1.6+6823f7cd19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.5.0+01d9a51c19
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.13+6573ed8c19
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6b19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.13+6508971219
+	   |-- fabric-registry-sync-v0 5.2.0+34f5d91419
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
+	   |-- fabric-renderer-indigo 1.7.0+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.71+df3654b319
+	   |-- fabric-rendering-v1 5.0.5+df16efd019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.88+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.2+95bead5f19
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- fabricshieldlib 1.7.2-1.21.1
+	   |-- midnightlib 1.5.8
+	   \-- mm 2.3
+	- forgeconfigapiport 21.1.3
+	   |-- com_electronwill_night-config_core 3.8.0
+	   \-- com_electronwill_night-config_toml 3.8.0
+	- geckolib 4.7
+	- jade 15.9.2+fabric
+	- java 21
+	- jei 19.21.0.247
+	- journeymap 1.21.1-6.0.0-beta.32
+	   |-- ar_com_hjg_pngj 2.1.0
+	   |-- commonnetworking 1.0.16-1.21.1
+	   \-- journeymap-api-fabric 2.0.0-1.21.1-SNAPSHOT
+	- justenoughprofessions 4.0.3
+	- lootr 1.21-1.10.34.86
+	- minecraft 1.21.1
+	- modernfix 5.19.6+mc1.21.1
+	- naturescompass 1.21.1-2.2.7-fabric
+	- oritech 0.12.3
+	   \-- team_reborn_energy 4.1.0
+	- owo 0.12.12+1.21
+	   |-- blue_endless_jankson 1.2.2
+	   |-- io_wispforest_endec 0.1.5
+	   |-- io_wispforest_endec_gson 0.1.3
+	   |-- io_wispforest_endec_jankson 0.1.3
+	   \-- io_wispforest_endec_netty 0.1.2
+	- polymorph 1.0.7+1.21.1
+	- storagedrawers 13.8.5
+	- structory 1.3.9
+	- terralith 2.5.7
+	- toms_storage 2.0.12
+	- trinkets 3.10.0
+[20:18:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servid/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:18:18] [main/INFO]: Compatibility level set to JAVA_21
+[20:18:18] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:18:18] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:18:18] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:18:18] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:18:18] [main/INFO]: Loaded configuration file for ModernFix 5.19.6+mc1.21.1: 54 options available, 0 override(s) found
+[20:18:18] [main/INFO]: Applying Nashorn fix
+[20:18:19] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[20:18:19] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[20:18:19] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[20:18:19] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[20:18:19] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[20:18:19] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:18:21] [main/WARN]: mixin.perf.reduce_blockstate_cache_rebuilds optimization from ModernFix has been cancelled because it crashes on world load with Etherology.
+[20:18:21] [main/WARN]: Cancelled mixin org.embeddedt.modernfix.common.mixin.perf.reduce_blockstate_cache_rebuilds.BlockBehaviourInvoker. Check debug logs for more information.
+[20:18:23] [main/WARN]: mixin.perf.reduce_blockstate_cache_rebuilds optimization from ModernFix has been cancelled because it crashes on world load with Etherology.
+[20:18:23] [main/WARN]: Cancelled mixin org.embeddedt.modernfix.common.mixin.perf.reduce_blockstate_cache_rebuilds.BlocksMixin. Check debug logs for more information.
+[20:18:23] [main/WARN]: mixin.perf.reduce_blockstate_cache_rebuilds optimization from ModernFix has been cancelled because it crashes on world load with Etherology.
+[20:18:23] [main/WARN]: Cancelled mixin org.embeddedt.modernfix.common.mixin.perf.reduce_blockstate_cache_rebuilds.BlockStateBaseMixin. Check debug logs for more information.
+[20:18:31] [main/INFO]: Vanilla bootstrap took 10436 milliseconds
+[20:18:32] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
+[20:18:32] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
+[20:18:32] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
+[20:18:32] [main/ERROR]: No data fixer registered for artifacts:mimic
+[20:18:32] [main/INFO]: Biolith for Fabric is initializing...
+[20:18:32] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
+[20:18:32] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
+[20:18:32] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
+[20:18:32] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
+[20:18:32] [main/ERROR]: No data fixer registered for deeperdarker:shattered
+[20:18:32] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
+[20:18:32] [main/ERROR]: No data fixer registered for deeperdarker:sludge
+[20:18:32] [main/ERROR]: No data fixer registered for deeperdarker:stalker
+[20:18:32] [main/ERROR]: No data fixer registered for crystallized_amber
+[20:18:32] [main/ERROR]: No data fixer registered for sculk_jaw
+[20:18:36] [main/INFO]: ExpandAbility here, who dis?
+[20:18:36] [main/INFO]: Fabric Shield Lib Initialized!
+[20:18:36] [main/INFO]: Initializing ServerSide Packet Registries
+[20:18:36] [main/INFO]: Definitely not up to no good
+[20:18:36] [main/INFO]: Running Oritech registrations...
+[20:18:37] [main/INFO]: Begin Oritech initialization
+[20:18:37] [main/INFO]: who invited dafuqs
+[20:18:37] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[20:18:37] [main/INFO]: New compacting rule 4 minecraft:snowball = 1 minecraft:snow_block
+[20:18:37] [main/INFO]: New compacting rule 4 minecraft:glowstone_dust = 1 minecraft:glowstone
+[20:18:37] [main/INFO]: New compacting rule 4 minecraft:brick = 1 minecraft:bricks
+[20:18:37] [main/INFO]: New compacting rule 4 minecraft:nether_brick = 1 minecraft:nether_bricks
+[20:18:37] [main/INFO]: New compacting rule 9 minecraft:nether_wart = 1 minecraft:nether_wart_block
+[20:18:37] [main/INFO]: New compacting rule 4 minecraft:quartz = 1 minecraft:quartz_block
+[20:18:37] [main/INFO]: New compacting rule 9 minecraft:melon_slice = 1 minecraft:melon
+[20:18:37] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[20:18:37] [main/INFO]: Tom's Storage Setup starting
+[20:18:37] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:18:38] [main/INFO]: Found new data pack etherology, loading it automatically
+[20:18:38] [main/INFO]: Found new data pack oritech, loading it automatically
+[20:18:41] [main/INFO]: Loaded 2282 recipes
+[20:18:42] [main/INFO]: Loaded 2068 advancements
+[20:19:03] [main/INFO]: Applied 1613 biome modifications to 159 of 164 new biomes in 104.3 ms
+[20:19:03] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:19:03] [Server thread/INFO]: Loading properties
+[20:19:03] [Server thread/INFO]: Default game type: SURVIVAL
+[20:19:03] [Server thread/INFO]: Generating keypair
+[20:19:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:19:03] [Server thread/INFO]: Using epoll channel type
+[20:19:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:19:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:19:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:19:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:19:04] [Server thread/INFO]: Preparing level "world"
+[20:19:04] [Server thread/INFO]: Ignoring world 'deeperdarker:otherside'; unknown dimension type: deeperdarker:otherside
+[20:19:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Server thread/INFO]: Time elapsed: 932 ms
+[20:19:05] [Server thread/INFO]: Done (1.615s)! For help, type "help"
+[20:19:05] [Server thread/WARN]: Dedicated server took 49.504 seconds to load
+[20:19:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[20:19:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[20:19:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[20:19:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[20:19:05] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[20:19:05] [Server thread/INFO]: Start loading plugin from Oritech: rearth.oritech.init.compat.jade.OritechJadePlugin
+[20:19:05] [Server thread/INFO]: Registering Jade providers
+[20:19:05] [Server thread/INFO]: Start loading plugin from Tom's Simple Storage Mod: com.tom.storagemod.jade.JadePlugin
+[20:19:05] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[20:19:05] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@483b71c3 for service interface journeymap.api.services.ClientPlatformService
+[20:19:05] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@4e008870 for service interface journeymap.api.services.CommonPlatformService
+[20:20:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c4fff4c[id=96ecdbd9-974d-34e4-8d4d-8d587237377a,name=Solvercks,properties={}] lost connection: Timed out
+[20:21:48] [Server thread/INFO]: Solvercks[/127.4.88.138:53651] logged in with entity id 21 at (187.5, 77.0, -50.5)
+[20:21:48] [Server thread/INFO]: Sending server config values to client
+[20:21:48] [Server thread/INFO]: Solvercks joined the game
+[20:21:50] [Server thread/INFO]: Receiving client config
+[20:25:48] [Server thread/INFO]: Solvercks has made the advancement [Stone Age]
+[20:26:10] [Server thread/INFO]: Solvercks has made the advancement [Getting an Upgrade]
+[20:26:42] [Server thread/INFO]: Solvercks has made the advancement [Monster Hunter]
+[20:27:37] [Server thread/INFO]: Made Solvercks a server operator
