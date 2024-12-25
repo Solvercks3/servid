@@ -1,10 +1,10 @@
-[17:23:18] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[17:23:18] [main/WARN]: Warnings were found!
+[17:47:12] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[17:47:14] [main/WARN]: Warnings were found!
  - Mod 'Alloy Forgery' (alloy_forgery) 2.4.1+1.21 recommends version 14.0.0 or later of roughlyenoughitems, which is missing!
 	 - You should install version 14.0.0 or later of roughlyenoughitems for the optimal experience.
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[17:23:18] [main/INFO]: Loading 97 mods:
+[17:47:14] [main/INFO]: Loading 97 mods:
 	- alloy_forgery 2.4.1+1.21
 	- appleskin 3.0.6+mc1.21
 	- architectury 13.0.8
@@ -117,97 +117,95 @@
 	- terralith 2.5.7
 	- toms_storage 2.0.12
 	- trinkets 3.10.0
-[17:23:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servid/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[17:23:18] [main/INFO]: Compatibility level set to JAVA_21
-[17:23:18] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:23:18] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:23:18] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:23:18] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:23:19] [main/INFO]: Loaded configuration file for ModernFix 5.19.6+mc1.21.1: 54 options available, 0 override(s) found
-[17:23:19] [main/INFO]: Applying Nashorn fix
-[17:23:19] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[17:23:19] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[17:23:19] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[17:23:19] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[17:23:19] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[17:23:19] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[17:23:20] [main/WARN]: mixin.perf.reduce_blockstate_cache_rebuilds optimization from ModernFix has been cancelled because it crashes on world load with Etherology.
-[17:23:20] [main/WARN]: Cancelled mixin org.embeddedt.modernfix.common.mixin.perf.reduce_blockstate_cache_rebuilds.BlockBehaviourInvoker. Check debug logs for more information.
-[17:23:21] [main/WARN]: mixin.perf.reduce_blockstate_cache_rebuilds optimization from ModernFix has been cancelled because it crashes on world load with Etherology.
-[17:23:21] [main/WARN]: Cancelled mixin org.embeddedt.modernfix.common.mixin.perf.reduce_blockstate_cache_rebuilds.BlocksMixin. Check debug logs for more information.
-[17:23:21] [main/WARN]: mixin.perf.reduce_blockstate_cache_rebuilds optimization from ModernFix has been cancelled because it crashes on world load with Etherology.
-[17:23:21] [main/WARN]: Cancelled mixin org.embeddedt.modernfix.common.mixin.perf.reduce_blockstate_cache_rebuilds.BlockStateBaseMixin. Check debug logs for more information.
-[17:23:27] [main/INFO]: Vanilla bootstrap took 6623 milliseconds
-[17:23:27] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
-[17:23:27] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
-[17:23:27] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
-[17:23:27] [main/ERROR]: No data fixer registered for artifacts:mimic
-[17:23:27] [main/INFO]: Biolith for Fabric is initializing...
-[17:23:28] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
-[17:23:28] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
-[17:23:28] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
-[17:23:28] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
-[17:23:28] [main/ERROR]: No data fixer registered for deeperdarker:shattered
-[17:23:28] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
-[17:23:28] [main/ERROR]: No data fixer registered for deeperdarker:sludge
-[17:23:28] [main/ERROR]: No data fixer registered for deeperdarker:stalker
-[17:23:28] [main/ERROR]: No data fixer registered for crystallized_amber
-[17:23:28] [main/ERROR]: No data fixer registered for sculk_jaw
-[17:23:30] [main/INFO]: ExpandAbility here, who dis?
-[17:23:30] [main/INFO]: Fabric Shield Lib Initialized!
-[17:23:30] [main/INFO]: Initializing ServerSide Packet Registries
-[17:23:30] [main/INFO]: Definitely not up to no good
-[17:23:30] [main/INFO]: Running Oritech registrations...
-[17:23:30] [main/INFO]: Begin Oritech initialization
-[17:23:30] [main/INFO]: idwtialsimmoedm - I didn't want to install a library so I made my own enchantment descriptions mod
-[17:23:31] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
-[17:23:31] [main/INFO]: New compacting rule 4 minecraft:snowball = 1 minecraft:snow_block
-[17:23:31] [main/INFO]: New compacting rule 4 minecraft:glowstone_dust = 1 minecraft:glowstone
-[17:23:31] [main/INFO]: New compacting rule 4 minecraft:brick = 1 minecraft:bricks
-[17:23:31] [main/INFO]: New compacting rule 4 minecraft:nether_brick = 1 minecraft:nether_bricks
-[17:23:31] [main/INFO]: New compacting rule 9 minecraft:nether_wart = 1 minecraft:nether_wart_block
-[17:23:31] [main/INFO]: New compacting rule 4 minecraft:quartz = 1 minecraft:quartz_block
-[17:23:31] [main/INFO]: New compacting rule 9 minecraft:melon_slice = 1 minecraft:melon
-[17:23:31] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
-[17:23:31] [main/INFO]: Tom's Storage Setup starting
-[17:23:31] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:23:33] [main/INFO]: Loaded 2282 recipes
-[17:23:34] [main/INFO]: Loaded 2068 advancements
-[17:23:54] [main/INFO]: Applied 1613 biome modifications to 159 of 164 new biomes in 162.9 ms
-[17:23:54] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:23:54] [Server thread/INFO]: Loading properties
-[17:23:54] [Server thread/INFO]: Default game type: SURVIVAL
-[17:23:54] [Server thread/INFO]: Generating keypair
-[17:23:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:23:54] [Server thread/INFO]: Using epoll channel type
-[17:23:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:23:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:23:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:23:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:23:54] [Server thread/INFO]: Preparing level "world"
-[17:23:55] [Server thread/INFO]: Ignoring world 'deeperdarker:otherside'; unknown dimension type: deeperdarker:otherside
-[17:23:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:23:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:23:55] [Worker-Main-2/INFO]: Preparing spawn area: 8%
-[17:23:55] [Server thread/INFO]: Time elapsed: 607 ms
-[17:23:55] [Server thread/INFO]: Done (1.214s)! For help, type "help"
-[17:23:55] [Server thread/WARN]: Dedicated server took 38.795 seconds to load
-[17:23:55] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[17:23:55] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[17:23:55] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[17:23:55] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[17:23:55] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[17:23:55] [Server thread/INFO]: Start loading plugin from Oritech: rearth.oritech.init.compat.jade.OritechJadePlugin
-[17:23:55] [Server thread/INFO]: Registering Jade providers
-[17:23:55] [Server thread/INFO]: Start loading plugin from Tom's Simple Storage Mod: com.tom.storagemod.jade.JadePlugin
-[17:23:55] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[17:23:55] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@26ccfce5 for service interface journeymap.api.services.ClientPlatformService
-[17:23:55] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@5086cd40 for service interface journeymap.api.services.CommonPlatformService
-[17:24:25] [Server thread/INFO]: Solvercks[/127.4.88.138:38515] logged in with entity id 8 at (263.7929529861034, 94.0, -131.69999998807907)
-[17:24:25] [Server thread/INFO]: Sending server config values to client
-[17:24:26] [Server thread/INFO]: Solvercks joined the game
-[17:24:26] [Server thread/INFO]: Receiving client config
-[17:24:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f5bd43b[id=8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d,name=tonisancho5,properties={}] lost connection: Timed out
-[17:25:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@281b2b1a[id=876fec98-35aa-352e-9ead-85375c0461a7,name=pollito,properties={}] lost connection: Timed out
-[17:27:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@1cd3a9e8[id=8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d,name=tonisancho5,properties={}] lost connection: Timed out
-[17:31:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a8934d8[id=8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d,name=tonisancho5,properties={}] lost connection: Timed out
+[17:47:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servid/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:47:15] [main/INFO]: Compatibility level set to JAVA_21
+[17:47:15] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:47:15] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:47:15] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:47:15] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:47:16] [main/INFO]: Loaded configuration file for ModernFix 5.19.6+mc1.21.1: 54 options available, 0 override(s) found
+[17:47:16] [main/INFO]: Applying Nashorn fix
+[17:47:16] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[17:47:16] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[17:47:16] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[17:47:16] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[17:47:16] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[17:47:16] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17:47:18] [main/WARN]: mixin.perf.reduce_blockstate_cache_rebuilds optimization from ModernFix has been cancelled because it crashes on world load with Etherology.
+[17:47:18] [main/WARN]: Cancelled mixin org.embeddedt.modernfix.common.mixin.perf.reduce_blockstate_cache_rebuilds.BlockBehaviourInvoker. Check debug logs for more information.
+[17:47:20] [main/WARN]: mixin.perf.reduce_blockstate_cache_rebuilds optimization from ModernFix has been cancelled because it crashes on world load with Etherology.
+[17:47:20] [main/WARN]: Cancelled mixin org.embeddedt.modernfix.common.mixin.perf.reduce_blockstate_cache_rebuilds.BlocksMixin. Check debug logs for more information.
+[17:47:20] [main/WARN]: mixin.perf.reduce_blockstate_cache_rebuilds optimization from ModernFix has been cancelled because it crashes on world load with Etherology.
+[17:47:20] [main/WARN]: Cancelled mixin org.embeddedt.modernfix.common.mixin.perf.reduce_blockstate_cache_rebuilds.BlockStateBaseMixin. Check debug logs for more information.
+[17:47:27] [main/INFO]: Vanilla bootstrap took 9284 milliseconds
+[17:47:27] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
+[17:47:27] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
+[17:47:27] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
+[17:47:27] [main/ERROR]: No data fixer registered for artifacts:mimic
+[17:47:27] [main/INFO]: Biolith for Fabric is initializing...
+[17:47:28] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
+[17:47:28] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
+[17:47:28] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
+[17:47:28] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
+[17:47:28] [main/ERROR]: No data fixer registered for deeperdarker:shattered
+[17:47:28] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
+[17:47:28] [main/ERROR]: No data fixer registered for deeperdarker:sludge
+[17:47:28] [main/ERROR]: No data fixer registered for deeperdarker:stalker
+[17:47:28] [main/ERROR]: No data fixer registered for crystallized_amber
+[17:47:28] [main/ERROR]: No data fixer registered for sculk_jaw
+[17:47:31] [main/INFO]: ExpandAbility here, who dis?
+[17:47:31] [main/INFO]: Fabric Shield Lib Initialized!
+[17:47:31] [main/INFO]: Initializing ServerSide Packet Registries
+[17:47:31] [main/INFO]: Definitely not up to no good
+[17:47:31] [main/INFO]: Running Oritech registrations...
+[17:47:32] [main/INFO]: Begin Oritech initialization
+[17:47:32] [main/INFO]: assume less - mald more
+[17:47:32] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[17:47:32] [main/INFO]: New compacting rule 4 minecraft:snowball = 1 minecraft:snow_block
+[17:47:32] [main/INFO]: New compacting rule 4 minecraft:glowstone_dust = 1 minecraft:glowstone
+[17:47:32] [main/INFO]: New compacting rule 4 minecraft:brick = 1 minecraft:bricks
+[17:47:32] [main/INFO]: New compacting rule 4 minecraft:nether_brick = 1 minecraft:nether_bricks
+[17:47:32] [main/INFO]: New compacting rule 9 minecraft:nether_wart = 1 minecraft:nether_wart_block
+[17:47:32] [main/INFO]: New compacting rule 4 minecraft:quartz = 1 minecraft:quartz_block
+[17:47:32] [main/INFO]: New compacting rule 9 minecraft:melon_slice = 1 minecraft:melon
+[17:47:32] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[17:47:32] [main/INFO]: Tom's Storage Setup starting
+[17:47:32] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:47:36] [main/INFO]: Loaded 2282 recipes
+[17:47:36] [main/INFO]: Loaded 2068 advancements
+[17:47:57] [main/INFO]: Applied 1613 biome modifications to 159 of 164 new biomes in 64.24 ms
+[17:47:57] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:47:57] [Server thread/INFO]: Loading properties
+[17:47:57] [Server thread/INFO]: Default game type: SURVIVAL
+[17:47:57] [Server thread/INFO]: Generating keypair
+[17:47:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:47:57] [Server thread/INFO]: Using epoll channel type
+[17:47:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:47:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:47:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:47:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:47:57] [Server thread/INFO]: Preparing level "world"
+[17:47:58] [Server thread/INFO]: Ignoring world 'deeperdarker:otherside'; unknown dimension type: deeperdarker:otherside
+[17:47:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:47:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:47:58] [Worker-Main-1/INFO]: Preparing spawn area: 8%
+[17:47:59] [Server thread/INFO]: Time elapsed: 642 ms
+[17:47:59] [Server thread/INFO]: Done (1.428s)! For help, type "help"
+[17:47:59] [Server thread/WARN]: Dedicated server took 48.319 seconds to load
+[17:47:59] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[17:47:59] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[17:47:59] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[17:47:59] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[17:47:59] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[17:47:59] [Server thread/INFO]: Start loading plugin from Oritech: rearth.oritech.init.compat.jade.OritechJadePlugin
+[17:47:59] [Server thread/INFO]: Registering Jade providers
+[17:47:59] [Server thread/INFO]: Start loading plugin from Tom's Simple Storage Mod: com.tom.storagemod.jade.JadePlugin
+[17:47:59] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[17:47:59] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@16007d78 for service interface journeymap.api.services.ClientPlatformService
+[17:47:59] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@34dfa6f5 for service interface journeymap.api.services.CommonPlatformService
+[17:49:45] [Server thread/INFO]: Solvercks[/127.220.59.249:60051] logged in with entity id 16 at (237.81584376166836, 109.0, -149.93040290790884)
+[17:49:45] [Server thread/INFO]: Sending server config values to client
+[17:49:45] [Server thread/INFO]: Solvercks joined the game
+[17:49:45] [Server thread/INFO]: Receiving client config
+[17:53:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@66129c95[id=8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d,name=tonisancho5,properties={}] lost connection: Timed out
+[17:55:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@6020623c[id=8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d,name=tonisancho5,properties={}] lost connection: Timed out
