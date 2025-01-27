@@ -325,6 +325,7 @@
       "minecraft:vindicator": "2025-01-27 18:18:33 +0000",
       "minecraft:spider": "2025-01-27 18:48:10 +0000",
       "minecraft:zombie": "2025-01-27 17:47:28 +0000",
+      "minecraft:creeper": "2025-01-27 20:15:15 +0000",
       "minecraft:zombie_villager": "2025-01-27 19:37:13 +0000"
     },
     "done": false
@@ -475,6 +476,24 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-27 19:44:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "opened_50": "2025-01-27 20:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-27 20:18:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-01-27 20:12:18 +0000"
     },
     "done": true
   },

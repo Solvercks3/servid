@@ -337,6 +337,7 @@
       "minecraft:cherry_grove": "2025-01-27 19:46:03 +0000",
       "minecraft:sunflower_plains": "2025-01-27 19:47:29 +0000",
       "minecraft:river": "2025-01-27 17:39:12 +0000",
+      "minecraft:dripstone_caves": "2025-01-27 20:11:33 +0000",
       "minecraft:plains": "2025-01-27 17:59:03 +0000"
     },
     "done": false
@@ -363,6 +364,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-27 17:36:25 +0000",
       "apple": "2025-01-27 18:26:22 +0000",
+      "bread": "2025-01-27 20:13:24 +0000",
       "cooked_chicken": "2025-01-27 17:33:14 +0000",
       "cooked_cod": "2025-01-27 19:53:15 +0000"
     },

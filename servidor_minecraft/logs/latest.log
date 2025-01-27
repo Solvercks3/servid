@@ -4109,3 +4109,11 @@ net.minecraft.nbt.NbtAccounterException: Tried to read NBT tag that was too big;
 [27Jan2025 20:07:56.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Zombie
 [27Jan2025 20:08:22.656] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at 90, 117, -654, minecraft:overworld
 [27Jan2025 20:10:39.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Close Quarters]
+[27Jan2025 20:15:35.499] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Earl Tabby the Odd-Smelling'/40444, l='ServerLevel[world]', x=165.70, y=122.00, z=-578.70] died: Earl Tabby the Odd-Smelling was slain by tonisancho5
+[27Jan2025 20:16:21.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Half-Century]
+[27Jan2025 20:18:13.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Into Fire]
+[27Jan2025 20:18:50.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 was doomed to fall
+[27Jan2025 20:19:03.406] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: tonisancho5 claimed a grave belonging to tonisancho5 at 181, 124, -581, minecraft:overworld
+[27Jan2025 20:20:13.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 was frozen solid by Cryomancer's
+[27Jan2025 20:20:23.246] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: tonisancho5 claimed a grave belonging to tonisancho5 at 179, 134, -574, minecraft:overworld
+[27Jan2025 20:20:31.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to tonisancho5]
