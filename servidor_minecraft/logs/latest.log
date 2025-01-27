@@ -4105,3 +4105,4 @@ net.minecraft.nbt.NbtAccounterException: Tried to read NBT tag that was too big;
 [27Jan2025 19:49:58.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to tonisancho5]
 [27Jan2025 19:50:03.144] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at 183, 141, -575, minecraft:overworld
 [27Jan2025 19:50:52.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
+[27Jan2025 19:56:35.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [People Are Strange]

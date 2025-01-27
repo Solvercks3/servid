@@ -116,6 +116,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-01-27 19:56:35 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2025-01-27 17:23:27 +0000"
@@ -261,7 +267,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-27 19:54:50 +0000",
       "minecraft:skeleton": "2025-01-27 18:28:10 +0000",
+      "minecraft:vindicator": "2025-01-27 19:56:41 +0000",
       "minecraft:spider": "2025-01-27 18:27:35 +0000",
       "minecraft:zombie": "2025-01-27 17:42:06 +0000"
     },
@@ -331,11 +339,18 @@
     },
     "done": true
   },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-01-27 20:00:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-27 17:36:25 +0000",
       "apple": "2025-01-27 18:26:22 +0000",
-      "cooked_chicken": "2025-01-27 17:33:14 +0000"
+      "cooked_chicken": "2025-01-27 17:33:14 +0000",
+      "cooked_cod": "2025-01-27 19:53:15 +0000"
     },
     "done": false
   },
