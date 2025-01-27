@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "moredelight:combat/stone_knife": {
+    "criteria": {
+      "has_stone": "2025-01-27 18:27:53 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipe/magnet_card": {
     "criteria": {
       "has_wct": "2025-01-27 17:28:13 +0000"
@@ -104,6 +110,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-27 18:27:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-01-27 18:34:28 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2025-01-27 17:28:13 +0000"
@@ -189,7 +207,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-01-27 17:36:45 +0000"
+      "apple": "2025-01-27 17:36:45 +0000",
+      "golden_apple": "2025-01-27 18:39:00 +0000"
     },
     "done": false
   },
@@ -236,6 +255,7 @@
     "criteria": {
       "biomeswevegone:orchard": "2025-01-27 17:34:09 +0000",
       "biomeswevegone:crag_gardens": "2025-01-27 17:39:19 +0000",
+      "biomeswevegone:prairie": "2025-01-27 18:44:55 +0000",
       "biomeswevegone:allium_shrubland": "2025-01-27 17:28:14 +0000"
     },
     "done": false
@@ -257,6 +277,7 @@
       "minecraft:pillager": "2025-01-27 18:10:56 +0000",
       "minecraft:skeleton": "2025-01-27 18:11:06 +0000",
       "minecraft:vindicator": "2025-01-27 18:18:33 +0000",
+      "minecraft:spider": "2025-01-27 18:48:10 +0000",
       "minecraft:zombie": "2025-01-27 17:47:28 +0000"
     },
     "done": false

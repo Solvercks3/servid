@@ -4022,3 +4022,36 @@ net.minecraft.nbt.NbtAccounterException: Tried to read NBT tag that was too big;
 [27Jan2025 18:15:07.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Amateur Archaeologist]
 [27Jan2025 18:19:01.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Diamonds!]
 [27Jan2025 18:20:15.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Close Quarters]
+[27Jan2025 18:24:50.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 was doomed to fall by Archevoker
+[27Jan2025 18:25:09.302] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: tonisancho5 claimed a grave belonging to tonisancho5 at 36, 137, 468, minecraft:overworld
+[27Jan2025 18:27:53.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Stone Age]
+[27Jan2025 18:28:20.612] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[27Jan2025 18:28:20.613] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[27Jan2025 18:28:20.613] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:28:20.614] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[27Jan2025 18:28:20.614] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:28:20.752] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[27Jan2025 18:28:20.753] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:28:20.753] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[27Jan2025 18:28:20.753] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:28:57.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Zombie
+[27Jan2025 18:29:30.043] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at -580, 69, -43, minecraft:overworld
+[27Jan2025 18:31:50.089] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[27Jan2025 18:31:50.090] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[27Jan2025 18:31:50.090] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:31:50.091] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[27Jan2025 18:31:50.091] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:34:28.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [People Are Strange]
+[27Jan2025 18:43:03.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Zombie
+[27Jan2025 18:45:13.441] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[27Jan2025 18:45:13.442] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[27Jan2025 18:45:13.446] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[27Jan2025 18:45:13.446] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[27Jan2025 18:45:13.450] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[27Jan2025 18:45:13.450] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[27Jan2025 18:45:13.450] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[27Jan2025 18:45:13.450] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[27Jan2025 18:45:13.450] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[27Jan2025 18:48:43.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 was doomed to fall by Sparky the Honest
+[27Jan2025 18:49:03.584] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: tonisancho5 claimed a grave belonging to tonisancho5 at -212, 27, -262, minecraft:overworld
+[27Jan2025 18:49:24.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Sparky the Honest'/26058, l='ServerLevel[world]', x=-210.29, y=25.00, z=-267.56] died: Sparky the Honest was slain by tonisancho5
