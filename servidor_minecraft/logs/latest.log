@@ -4167,3 +4167,12 @@ java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnac
 	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [27Jan2025 20:57:41.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Take Aim]
+[27Jan2025 21:04:55.497] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Quade the Legendary'/48456, l='ServerLevel[world]', x=182.16, y=123.00, z=-577.83] died: Quade the Legendary was slain by tonisancho5
+[27Jan2025 21:05:07.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 was slain by Viscount Aaron the Bishop using    [Viscount Aaron the Bishop's Lucky Cobblestone Slicer of the Ancient Library]
+[27Jan2025 21:05:16.200] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: tonisancho5 claimed a grave belonging to tonisancho5 at 180, 124, -584, minecraft:overworld
+[27Jan2025 21:05:44.043] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Viscount Aaron the Bishop'/51247, l='ServerLevel[world]', x=176.19, y=125.00, z=-587.19] died: Viscount Aaron the Bishop was slain by tonisancho5
+[27Jan2025 21:05:47.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [It's Chargin' Time !]
+[27Jan2025 21:05:50.060] [Server thread/INFO] [AE2:S/]: Assigning ME player id 0 to Minecraft profile 96ecdbd9-974d-34e4-8d4d-8d587237377a (Solvercks)
+[27Jan2025 21:07:00.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tonisancho5: Teleported tonisancho5 to Solvercks]
+[27Jan2025 21:08:53.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Meteorite Hunter]
+[27Jan2025 21:10:53.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Unknown Technology]

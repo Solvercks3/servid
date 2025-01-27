@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2025-01-27 21:05:47 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipe/magnet_card": {
     "criteria": {
       "has_wct": "2025-01-27 17:23:27 +0000"
@@ -254,6 +260,12 @@
     },
     "done": true
   },
+  "ae2:main/compass": {
+    "criteria": {
+      "compass": "2025-01-27 21:08:53 +0000"
+    },
+    "done": true
+  },
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_legs": "2025-01-27 17:59:58 +0000",
@@ -427,6 +439,15 @@
       "common_legs": "2025-01-27 17:48:26 +0000"
     },
     "done": false
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-01-27 21:10:53 +0000",
+      "silicon": "2025-01-27 21:10:53 +0000",
+      "engineering": "2025-01-27 21:10:53 +0000",
+      "logic": "2025-01-27 21:10:53 +0000"
+    },
+    "done": true
   },
   "apotheosis:progression/root": {
     "criteria": {
