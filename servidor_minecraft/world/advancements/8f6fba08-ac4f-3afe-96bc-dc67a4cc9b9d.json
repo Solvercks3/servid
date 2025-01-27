@@ -5,11 +5,30 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-27 17:38:03 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipe/magnet_card": {
     "criteria": {
       "has_wct": "2025-01-27 17:28:13 +0000"
     },
     "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-27 17:50:08 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-01-27 17:42:18 +0000",
+      "opened_chest": "2025-01-27 17:38:03 +0000"
+    },
+    "done": false
   },
   "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
     "criteria": {
@@ -20,6 +39,12 @@
   "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
       "has_wct": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-27 18:12:35 +0000"
     },
     "done": true
   },
@@ -34,6 +59,18 @@
     "criteria": {
       "has_wit": "2025-01-27 17:28:13 +0000",
       "has_wct": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2025-01-27 17:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-27 17:47:58 +0000"
     },
     "done": true
   },
@@ -80,6 +117,18 @@
     },
     "done": false
   },
+  "lootr:10loot": {
+    "criteria": {
+      "opened_10": "2025-01-27 17:50:52 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2025-01-27 17:57:16 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipe/quantum_bridge_card": {
     "criteria": {
       "has_wit": "2025-01-27 17:28:13 +0000",
@@ -108,9 +157,21 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "opened_25": "2025-01-27 18:20:15 +0000"
+    },
+    "done": true
+  },
   "occultism:chalks/root": {
     "criteria": {
       "always": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-01-27 17:42:18 +0000"
     },
     "done": true
   },
@@ -120,18 +181,70 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-01-27 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-01-27 17:36:45 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-01-27 17:42:23 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "rare_legs": "2025-01-27 18:05:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-27 17:57:13 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:wiki": {
     "criteria": {
       "instant_granted": "2025-01-27 17:28:13 +0000"
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-27 17:47:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "uncommon_legs": "2025-01-27 18:05:40 +0000",
+      "kill_apothic_invader": "2025-01-27 18:11:34 +0000",
+      "uncommon_hand": "2025-01-27 18:15:56 +0000",
+      "uncommon_feet": "2025-01-27 18:11:49 +0000"
+    },
+    "done": false
+  },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:orchard": "2025-01-27 17:34:09 +0000",
+      "biomeswevegone:crag_gardens": "2025-01-27 17:39:19 +0000",
       "biomeswevegone:allium_shrubland": "2025-01-27 17:28:14 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-01-27 17:41:11 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -139,9 +252,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-01-27 18:10:56 +0000",
+      "minecraft:skeleton": "2025-01-27 18:11:06 +0000",
+      "minecraft:vindicator": "2025-01-27 18:18:33 +0000",
+      "minecraft:zombie": "2025-01-27 17:47:28 +0000"
+    },
+    "done": false
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-27 18:14:48 +0000"
     },
     "done": true
   },
@@ -151,9 +279,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-01-27 17:41:11 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/root": {
     "criteria": {
       "biomeswevegone:allium_shrubland": "2025-01-27 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-27 18:15:07 +0000"
     },
     "done": true
   },
@@ -163,9 +303,29 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-27 17:47:28 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2025-01-27 17:53:31 +0000",
+      "minecraft:river": "2025-01-27 17:39:12 +0000",
+      "minecraft:plains": "2025-01-27 17:40:05 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-27 17:48:59 +0000"
     },
     "done": true
   },
@@ -175,9 +335,23 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-01-27 17:48:59 +0000",
+      "bread": "2025-01-27 18:19:23 +0000",
+      "cooked_cod": "2025-01-27 18:04:20 +0000"
+    },
+    "done": false
+  },
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/haven": {
+    "criteria": {
+      "affixed": "2025-01-27 17:38:09 +0000"
     },
     "done": true
   },
@@ -188,9 +362,49 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-27 17:48:59 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-27 18:19:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_helm": "2025-01-27 18:14:32 +0000",
+      "common_hand": "2025-01-27 17:57:06 +0000",
+      "common_chest": "2025-01-27 17:50:11 +0000",
+      "common_legs": "2025-01-27 17:42:36 +0000",
+      "common_feet": "2025-01-27 18:11:49 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "affixed": "2025-01-27 17:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-27 17:39:03 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-01-27 17:41:11 +0000"
     },
     "done": true
   },

@@ -3771,3 +3771,254 @@ java.lang.IllegalStateException: No key values in MapLike[{"replace":false,"remo
 [27Jan2025 17:38:19.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Ancient Gateway]
 [27Jan2025 17:38:23.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement ['X' Marks the Spot]
 [27Jan2025 17:38:23.996] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
+[27Jan2025 17:38:33.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9039ms or 180 ticks behind
+[27Jan2025 17:38:43.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [World Tier: Haven]
+[27Jan2025 17:39:12.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[27Jan2025 17:39:40.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[27Jan2025 17:39:42.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Amateur Archaeologist]
+[27Jan2025 17:40:00.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5341ms or 106 ticks behind
+[27Jan2025 17:40:07.104] [c2me-worker-0/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeons_arise:kisegi_sanctuary/kisegi_sanctuary_main_0
+net.minecraft.nbt.NbtAccounterException: Tried to read NBT tag that was too big; tried to allocate: 209715194 + 48 bytes where max allowed: 209715200
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtAccounter.accountBytes(NbtAccounter.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:55) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readTagSafe(NbtIo.java:193) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readUnnamedTag(NbtIo.java:187) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.read(NbtIo.java:121) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readCompressed(NbtIo.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.readStructure(StructureTemplateManager.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.load(StructureTemplateManager.java:232) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.loadFromResource(StructureTemplateManager.java:136) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.tryLoad(StructureTemplateManager.java:114) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3606) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2278) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.compute(LocalCache.java:4262) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.computeIfAbsent(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.get(StructureTemplateManager.java:104) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.getOrCreate(StructureTemplateManager.java:92) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-8.0.16.jar%23102!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getTemplate(SinglePoolElement.java:94) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getBoundingBox(SinglePoolElement.java:134) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement.addPieces(JigsawPlacement.java:306) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.structures.JigsawStructure.findGenerationPoint(JigsawStructure.java:100) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.findValidGenerationPoint(Structure.java:197) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.generate(Structure.java:96) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.tryGenerateStructure(ChunkGenerator.java:555) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.lambda$createStructures$14(ChunkGenerator.java:517) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.createStructures(ChunkGenerator.java:473) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStatusTasks.generateStructureStarts(ChunkStatusTasks.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStep.apply(ChunkStep.java:33) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.50+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.statuses.VanillaWorldGenerationDelegate.lambda$upgradeToThis$8(VanillaWorldGenerationDelegate.java:137) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.50.jar%231118!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.c2me.base.common.scheduler.ScheduledTask.run(ScheduledTask.java:22) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.flowsched.executor.WorkerThread.pollTasks(WorkerThread.java:57) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.flowsched.executor.WorkerThread.run(WorkerThread.java:27) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+[27Jan2025 17:40:09.307] [c2me-worker-0/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeons_arise:infested_temple/infested_temple_main_0
+net.minecraft.nbt.NbtAccounterException: Tried to read NBT tag that was too big; tried to allocate: 209715171 + 36 bytes where max allowed: 209715200
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtAccounter.accountBytes(NbtAccounter.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:64) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readTagSafe(NbtIo.java:193) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readUnnamedTag(NbtIo.java:187) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.read(NbtIo.java:121) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readCompressed(NbtIo.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.readStructure(StructureTemplateManager.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.load(StructureTemplateManager.java:232) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.loadFromResource(StructureTemplateManager.java:136) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.tryLoad(StructureTemplateManager.java:114) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3606) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2278) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.compute(LocalCache.java:4262) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.computeIfAbsent(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.get(StructureTemplateManager.java:104) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.getOrCreate(StructureTemplateManager.java:92) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-8.0.16.jar%23102!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getTemplate(SinglePoolElement.java:94) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getBoundingBox(SinglePoolElement.java:134) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement.addPieces(JigsawPlacement.java:306) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.structures.JigsawStructure.findGenerationPoint(JigsawStructure.java:100) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.findValidGenerationPoint(Structure.java:197) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.generate(Structure.java:96) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.tryGenerateStructure(ChunkGenerator.java:555) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.lambda$createStructures$14(ChunkGenerator.java:517) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.createStructures(ChunkGenerator.java:473) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStatusTasks.generateStructureStarts(ChunkStatusTasks.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStep.apply(ChunkStep.java:33) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.50+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.statuses.VanillaWorldGenerationDelegate.lambda$upgradeToThis$8(VanillaWorldGenerationDelegate.java:137) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.50.jar%231118!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.c2me.base.common.scheduler.ScheduledTask.run(ScheduledTask.java:22) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.flowsched.executor.WorkerThread.pollTasks(WorkerThread.java:57) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.flowsched.executor.WorkerThread.run(WorkerThread.java:27) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+[27Jan2025 17:40:11.455] [c2me-worker-0/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeons_arise:keep_kayra/keep_kayra_main_0
+net.minecraft.nbt.NbtAccounterException: Tried to read NBT tag that was too big; tried to allocate: 209715189 + 12 bytes where max allowed: 209715200
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtAccounter.accountBytes(NbtAccounter.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.IntTag$1.readAccounted(IntTag.java:39) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.IntTag$1.load(IntTag.java:30) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.IntTag$1.load(IntTag.java:27) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readTagSafe(NbtIo.java:193) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readUnnamedTag(NbtIo.java:187) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.read(NbtIo.java:121) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readCompressed(NbtIo.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.readStructure(StructureTemplateManager.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.load(StructureTemplateManager.java:232) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.loadFromResource(StructureTemplateManager.java:136) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.tryLoad(StructureTemplateManager.java:114) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3606) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2278) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.compute(LocalCache.java:4262) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.computeIfAbsent(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.get(StructureTemplateManager.java:104) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.getOrCreate(StructureTemplateManager.java:92) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-8.0.16.jar%23102!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getTemplate(SinglePoolElement.java:94) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getBoundingBox(SinglePoolElement.java:134) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/dungeons_arise@2.1.64/net.aurelj.dungeons_arise.structures.ModifiedJigsawPlacement.addPieces(ModifiedJigsawPlacement.java:87) ~[DungeonsArise-1.21.x-2.1.64-release.jar%23616!/:?]
+	at TRANSFORMER/dungeons_arise@2.1.64/net.aurelj.dungeons_arise.structures.WDAGenericStructures.findGenerationPoint(WDAGenericStructures.java:129) ~[DungeonsArise-1.21.x-2.1.64-release.jar%23616!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.findValidGenerationPoint(Structure.java:197) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.generate(Structure.java:96) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.tryGenerateStructure(ChunkGenerator.java:555) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.lambda$createStructures$14(ChunkGenerator.java:517) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.createStructures(ChunkGenerator.java:473) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStatusTasks.generateStructureStarts(ChunkStatusTasks.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStep.apply(ChunkStep.java:33) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.50+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.statuses.VanillaWorldGenerationDelegate.lambda$upgradeToThis$8(VanillaWorldGenerationDelegate.java:137) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.50.jar%231118!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.c2me.base.common.scheduler.ScheduledTask.run(ScheduledTask.java:22) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.flowsched.executor.WorkerThread.pollTasks(WorkerThread.java:57) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.flowsched.executor.WorkerThread.run(WorkerThread.java:27) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+[27Jan2025 17:40:37.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Acquire Hardware]
+[27Jan2025 17:41:05.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[27Jan2025 17:41:11.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has reached the goal [Quaint Scribe]
+[27Jan2025 17:41:21.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to tonisancho5]
+[27Jan2025 17:42:06.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Monster Hunter]
+[27Jan2025 17:42:18.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Barrel Booty]
+[27Jan2025 17:42:23.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Tools of the Trade]
+[27Jan2025 17:43:13.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to tonisancho5]
+[27Jan2025 17:43:37.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Barrel Booty]
+[27Jan2025 17:44:00.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Isn't It Iron Pick]
+[27Jan2025 17:44:12.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Suit Up]
+[27Jan2025 17:45:05.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Tools of the Trade]
+[27Jan2025 17:47:28.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Monster Hunter]
+[27Jan2025 17:47:44.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Acquire Hardware]
+[27Jan2025 17:47:58.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Isn't It Iron Pick]
+[27Jan2025 17:48:50.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Delightful Decade]
+[27Jan2025 17:50:08.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Suit Up]
+[27Jan2025 17:50:52.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Delightful Decade]
+[27Jan2025 17:53:12.468] [c2me-worker-0/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [32, -11], pos: BlockPos{x=519, y=54, z=-173}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / betterjungletemples:jungle_temple]
+[27Jan2025 17:53:12.469] [c2me-worker-0/WARN] [net.minecraft.server.level.WorldGenRegion/]: Detected fluid scheduled tick access in a far chunk [32, -11], pos: BlockPos{x=519, y=54, z=-173}, status: minecraft:features, currently generating: [31, -13]
+[27Jan2025 17:53:12.469] [c2me-worker-0/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [32, -11], pos: BlockPos{x=518, y=54, z=-171}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / betterjungletemples:jungle_temple]
+[27Jan2025 17:53:12.469] [c2me-worker-0/WARN] [net.minecraft.server.level.WorldGenRegion/]: Detected fluid scheduled tick access in a far chunk [32, -11], pos: BlockPos{x=518, y=54, z=-171}, status: minecraft:features, currently generating: [31, -13]
+[27Jan2025 17:53:19.258] [c2me-worker-0/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [32, -11], pos: BlockPos{x=519, y=54, z=-173}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / betterjungletemples:jungle_temple]
+[27Jan2025 17:53:19.258] [c2me-worker-0/WARN] [net.minecraft.server.level.WorldGenRegion/]: Detected fluid scheduled tick access in a far chunk [32, -11], pos: BlockPos{x=519, y=54, z=-173}, status: minecraft:features, currently generating: [32, -13]
+[27Jan2025 17:53:19.258] [c2me-worker-0/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [32, -11], pos: BlockPos{x=518, y=54, z=-171}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / betterjungletemples:jungle_temple]
+[27Jan2025 17:53:19.258] [c2me-worker-0/WARN] [net.minecraft.server.level.WorldGenRegion/]: Detected fluid scheduled tick access in a far chunk [32, -11], pos: BlockPos{x=518, y=54, z=-171}, status: minecraft:features, currently generating: [32, -13]
+[27Jan2025 17:54:30.194] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[27Jan2025 17:54:30.195] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:54:30.197] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[27Jan2025 17:54:30.197] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:54:34.433] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[27Jan2025 17:54:34.433] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:54:34.536] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:54:34.536] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[27Jan2025 17:54:34.537] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:54:34.537] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[27Jan2025 17:57:13.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Ice Bucket Challenge]
+[27Jan2025 17:57:16.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [The First Explosion (of many?)]
+[27Jan2025 17:58:09.940] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[27Jan2025 17:58:09.941] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[27Jan2025 17:58:09.941] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[27Jan2025 17:58:09.941] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[27Jan2025 17:58:09.942] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[27Jan2025 17:58:09.943] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[27Jan2025 17:58:13.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3827ms or 76 ticks behind
+[27Jan2025 17:58:22.091] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:58:22.093] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:58:22.287] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:58:22.288] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:58:22.288] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:58:22.289] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:58:27.293] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:58:27.406] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:58:27.407] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:58:27.407] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:58:27.408] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 17:59:50.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Not a Jigsaw]
+[27Jan2025 18:00:01.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Ice Bucket Challenge]
+[27Jan2025 18:00:29.532] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:00:32.936] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:00:32.938] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:00:32.938] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:00:58.221] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:00:58.222] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:00:58.423] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:00:58.519] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:00:58.520] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:01:07.160] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:01:07.160] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:01:07.363] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:01:07.515] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:01:07.516] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:03:52.156] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:03:52.169] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:03:52.169] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:03:52.475] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:03:52.476] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:03:52.476] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:03:52.477] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:03:52.477] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:03:52.477] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:03:55.109] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:03:55.109] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:04:00.571] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:04:00.580] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:04:00.581] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:04:00.581] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:04:10.898] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:04:10.900] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:04:11.581] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:04:11.582] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:04:11.582] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:04:11.582] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:04:11.583] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:04:11.583] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[27Jan2025 18:05:37.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Sweet Dreams]
+[27Jan2025 18:11:34.797] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Ditbieere the Doominator'/14112, l='ServerLevel[world]', x=34.49, y=153.00, z=530.64] died: Ditbieere the Doominator was slain by tonisancho5
+[27Jan2025 18:12:35.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Not Today, Thank You]
+[27Jan2025 18:14:32.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [World Tier: Frontier]
+[27Jan2025 18:14:48.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Voluntary Exile]
+[27Jan2025 18:15:07.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Amateur Archaeologist]
+[27Jan2025 18:19:01.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Diamonds!]
+[27Jan2025 18:20:15.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Close Quarters]
