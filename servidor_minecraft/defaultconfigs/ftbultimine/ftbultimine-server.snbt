@@ -1,0 +1,8 @@
+{
+  misc: {
+		merge_tags: [
+			"minecraft:base_stone_overworld"
+			"c:ores/*"
+		]
+	}
+}

@@ -1,0 +1,216 @@
+{
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-01-27 17:28:13 +0000",
+      "has_wct": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-01-27 17:28:13 +0000",
+      "has_wct": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-01-27 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "mffs:grant_book_on_first_join": {
+    "criteria": {
+      "guidebook": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2025-01-27 17:28:14 +0000",
+      "in_mite_fortress": "2025-01-27 17:28:14 +0000"
+    },
+    "done": false
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-01-27 17:28:13 +0000",
+      "has_wpt": "2025-01-27 17:28:13 +0000",
+      "has_wct": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "moredelight:main/get_cooked_rice_with": {
+    "criteria": {
+      "cooked_rice_with_milk_cream_and_chicken_cuts": "2025-01-27 17:28:13 +0000",
+      "cooked_rice_with_milk_cream_and_beef": "2025-01-27 17:28:13 +0000",
+      "cooked_rice_with_milk_cream_and_porkchop": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "occultism:chalks/root": {
+    "criteria": {
+      "always": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "theurgy:book_root": {
+    "criteria": {
+      "theurgy_present": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:orchard": "2025-01-27 17:34:09 +0000",
+      "biomeswevegone:allium_shrubland": "2025-01-27 17:28:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-27 17:33:34 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "dumplings_delight:root": {
+    "criteria": {
+      "root": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:allium_shrubland": "2025-01-27 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "logged_in": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-01-27 17:28:13 +0000",
+      "has_wpt": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "moredelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-27 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "moredelight:combat/wooden_knife": {
+    "criteria": {
+      "has_wood": "2025-01-27 17:30:56 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
