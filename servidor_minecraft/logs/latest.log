@@ -4180,3 +4180,5 @@ java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnac
 [27Jan2025 21:27:23.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Phantom
 [27Jan2025 21:34:36.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks lost connection: Disconnected
 [27Jan2025 21:34:36.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks left the game
+[27Jan2025 21:50:11.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 lost connection: Disconnected
+[27Jan2025 21:50:11.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 left the game
