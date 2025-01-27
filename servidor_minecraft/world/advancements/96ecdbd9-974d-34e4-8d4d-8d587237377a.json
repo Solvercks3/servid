@@ -241,6 +241,7 @@
       "biomeswevegone:orchard": "2025-01-27 17:38:18 +0000",
       "biomeswevegone:tropical_rainforest": "2025-01-27 17:53:26 +0000",
       "biomeswevegone:crag_gardens": "2025-01-27 17:41:22 +0000",
+      "biomeswevegone:prairie": "2025-01-27 19:47:32 +0000",
       "biomeswevegone:zelkova_forest": "2025-01-27 18:26:45 +0000",
       "biomeswevegone:allium_shrubland": "2025-01-27 17:23:28 +0000"
     },
@@ -311,6 +312,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sparse_jungle": "2025-01-27 17:50:44 +0000",
+      "minecraft:cherry_grove": "2025-01-27 19:46:03 +0000",
+      "minecraft:sunflower_plains": "2025-01-27 19:47:29 +0000",
       "minecraft:river": "2025-01-27 17:39:12 +0000",
       "minecraft:plains": "2025-01-27 17:59:03 +0000"
     },
