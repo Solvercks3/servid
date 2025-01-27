@@ -278,6 +278,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-27 18:10:56 +0000",
       "minecraft:skeleton": "2025-01-27 18:11:06 +0000",
+      "minecraft:phantom": "2025-01-27 19:28:05 +0000",
       "minecraft:vindicator": "2025-01-27 18:18:33 +0000",
       "minecraft:spider": "2025-01-27 18:48:10 +0000",
       "minecraft:zombie": "2025-01-27 17:47:28 +0000"
@@ -341,6 +342,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sparse_jungle": "2025-01-27 17:53:31 +0000",
+      "minecraft:sunflower_plains": "2025-01-27 19:30:18 +0000",
       "minecraft:river": "2025-01-27 17:39:12 +0000",
       "minecraft:plains": "2025-01-27 17:40:05 +0000"
     },
