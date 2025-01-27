@@ -4117,3 +4117,53 @@ net.minecraft.nbt.NbtAccounterException: Tried to read NBT tag that was too big;
 [27Jan2025 20:20:13.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 was frozen solid by Cryomancer's
 [27Jan2025 20:20:23.246] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: tonisancho5 claimed a grave belonging to tonisancho5 at 179, 134, -574, minecraft:overworld
 [27Jan2025 20:20:31.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to tonisancho5]
+[27Jan2025 20:46:03.642] [Server thread/ERROR] [snownee.jade.Jade/]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.getContainerSize()" because the return value of "net.neoforged.neoforge.items.wrapper.InvWrapper.getInv()" is null
+[27Jan2025 20:46:03.643] [Server thread/ERROR] [snownee.jade.Jade/]: See JadeErrorOutput.txt for more information
+[27Jan2025 20:46:03.643] [Server thread/ERROR] [snownee.jade.Jade/]: 
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.getContainerSize()" because the return value of "net.neoforged.neoforge.items.wrapper.InvWrapper.getInv()" is null
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.items.wrapper.InvWrapper.getSlots(InvWrapper.java:38) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.util.JadeForgeUtils$1.getSlotCount(JadeForgeUtils.java:38) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23697!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.util.JadeForgeUtils$1.getSlotCount(JadeForgeUtils.java:35) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23697!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.addon.universal.ItemIterator$SlottedItemIterator.populate(ItemIterator.java:72) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23697!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.addon.universal.ItemCollector.update(ItemCollector.java:67) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23697!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.addon.universal.ItemStorageProvider$Extension.getGroups(ItemStorageProvider.java:313) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23697!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.util.CommonProxy.getServerExtensionData(CommonProxy.java:583) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23697!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.addon.universal.ItemStorageProvider.putData(ItemStorageProvider.java:208) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23697!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.addon.universal.ItemStorageProvider.appendServerData(ItemStorageProvider.java:243) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23697!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23697!/:15.9.2+neoforge]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:111) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:825) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[27Jan2025 20:49:02.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Chest Slayer]
+[27Jan2025 20:50:28.346] [Server thread/ERROR] [snownee.jade.Jade/]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnaceBlockEntityAccess.getCookingProgress()" because "access" is null
+[27Jan2025 20:50:28.347] [Server thread/ERROR] [snownee.jade.Jade/]: See JadeErrorOutput.txt for more information
+[27Jan2025 20:50:28.347] [Server thread/ERROR] [snownee.jade.Jade/]: 
+java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnaceBlockEntityAccess.getCookingProgress()" because "access" is null
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:44) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23697!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:21) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23697!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.api.StreamServerDataProvider.appendServerData(StreamServerDataProvider.java:16) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23697!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23697!/:15.9.2+neoforge]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:111) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:825) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[27Jan2025 20:57:41.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Take Aim]

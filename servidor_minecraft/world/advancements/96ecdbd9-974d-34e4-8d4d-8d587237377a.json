@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-27 20:49:02 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipe/magnet_card": {
     "criteria": {
       "has_wct": "2025-01-27 17:23:27 +0000"
@@ -219,7 +225,8 @@
   },
   "apotheosis:progression/summit": {
     "criteria": {
-      "rare_legs": "2025-01-27 17:59:58 +0000"
+      "rare_legs": "2025-01-27 17:59:58 +0000",
+      "rare_hand": "2025-01-27 20:52:01 +0000"
     },
     "done": false
   },
@@ -232,6 +239,12 @@
   "the_bumblezone:wiki": {
     "criteria": {
       "instant_granted": "2025-01-27 17:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-27 20:57:41 +0000"
     },
     "done": true
   },
