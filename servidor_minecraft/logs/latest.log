@@ -4106,3 +4106,6 @@ net.minecraft.nbt.NbtAccounterException: Tried to read NBT tag that was too big;
 [27Jan2025 19:50:03.144] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at 183, 141, -575, minecraft:overworld
 [27Jan2025 19:50:52.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
 [27Jan2025 19:56:35.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [People Are Strange]
+[27Jan2025 20:07:56.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Zombie
+[27Jan2025 20:08:22.656] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at 90, 117, -654, minecraft:overworld
+[27Jan2025 20:10:39.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Close Quarters]

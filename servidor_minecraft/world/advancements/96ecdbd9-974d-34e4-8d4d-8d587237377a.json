@@ -169,6 +169,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "opened_25": "2025-01-27 20:10:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-27 17:32:20 +0000"
@@ -238,7 +244,8 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_legs": "2025-01-27 17:59:58 +0000",
-      "uncommon_hand": "2025-01-27 17:40:29 +0000"
+      "uncommon_hand": "2025-01-27 17:40:29 +0000",
+      "uncommon_helm": "2025-01-27 20:11:03 +0000"
     },
     "done": false
   },
@@ -270,6 +277,7 @@
       "minecraft:pillager": "2025-01-27 19:54:50 +0000",
       "minecraft:skeleton": "2025-01-27 18:28:10 +0000",
       "minecraft:vindicator": "2025-01-27 19:56:41 +0000",
+      "minecraft:enderman": "2025-01-27 20:09:12 +0000",
       "minecraft:spider": "2025-01-27 18:27:35 +0000",
       "minecraft:zombie": "2025-01-27 17:42:06 +0000"
     },
@@ -278,6 +286,12 @@
   "mekanism:root": {
     "criteria": {
       "automatic": "2025-01-27 17:23:27 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-01-27 20:03:52 +0000"
     },
     "done": true
   },
@@ -393,6 +407,7 @@
   },
   "apotheosis:progression/frontier": {
     "criteria": {
+      "common_helm": "2025-01-27 20:11:03 +0000",
       "common_hand": "2025-01-27 17:40:29 +0000",
       "common_legs": "2025-01-27 17:48:26 +0000"
     },
