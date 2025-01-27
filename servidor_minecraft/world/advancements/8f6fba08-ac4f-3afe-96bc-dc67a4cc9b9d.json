@@ -253,10 +253,12 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:maple_taiga": "2025-01-27 18:58:16 +0000",
       "biomeswevegone:orchard": "2025-01-27 17:34:09 +0000",
       "biomeswevegone:crag_gardens": "2025-01-27 17:39:19 +0000",
       "biomeswevegone:prairie": "2025-01-27 18:44:55 +0000",
-      "biomeswevegone:allium_shrubland": "2025-01-27 17:28:14 +0000"
+      "biomeswevegone:allium_shrubland": "2025-01-27 17:28:14 +0000",
+      "biomeswevegone:coconino_meadow": "2025-01-27 18:58:13 +0000"
     },
     "done": false
   },
