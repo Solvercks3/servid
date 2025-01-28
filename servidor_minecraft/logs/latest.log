@@ -4690,3 +4690,4 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException
 [28Jan2025 19:47:57.803] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at 158, -51, -926, minecraft:overworld
 [28Jan2025 19:48:43.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peluxiito lost connection: Disconnected
 [28Jan2025 19:48:43.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito left the game
+[28Jan2025 19:57:17.738] [Server thread/WARN] [EMI/]: [EMI] Client requested fill but screen handler has changed, aborting
