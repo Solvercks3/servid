@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-01-27 20:12:18 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "opened_50": "2025-01-27 20:16:21 +0000"
@@ -488,12 +494,6 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-01-27 20:18:13 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/root": {
-    "criteria": {
-      "copper": "2025-01-27 20:12:18 +0000"
     },
     "done": true
   },

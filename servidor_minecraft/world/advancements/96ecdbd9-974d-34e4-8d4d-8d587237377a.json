@@ -5,48 +5,11 @@
     },
     "done": true
   },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-01-27 17:38:23 +0000"
-    },
-    "done": true
-  },
-  "moredelight:combat/stone_knife": {
-    "criteria": {
-      "has_stone": "2025-01-27 17:31:48 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-01-27 20:49:02 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/charger": {
-    "criteria": {
-      "certus": "2025-01-27 21:05:47 +0000"
-    },
-    "done": true
-  },
   "ae2wtlib:recipe/magnet_card": {
     "criteria": {
       "has_wct": "2025-01-27 17:23:27 +0000"
     },
     "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-01-27 17:44:12 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_barrel": "2025-01-27 17:43:37 +0000",
-      "opened_chest": "2025-01-27 17:38:23 +0000"
-    },
-    "done": false
   },
   "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
     "criteria": {
@@ -74,30 +37,6 @@
     },
     "done": true
   },
-  "ars_additions:find_ruined_portal": {
-    "criteria": {
-      "find_ruined_portal": "2025-01-27 17:38:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-01-27 17:44:00 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:programming_puzzle": {
-    "criteria": {
-      "0": "2025-01-27 17:59:50 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_coliseum": {
-    "criteria": {
-      "location0": "2025-01-27 17:23:28 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:biomeswevegone/root": {
     "criteria": {
       "tick": "2025-01-27 17:23:27 +0000"
@@ -122,34 +61,9 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-27 17:31:48 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_campsite": {
-    "criteria": {
-      "location0": "2025-01-27 19:56:35 +0000"
-    },
-    "done": true
-  },
   "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2025-01-27 17:23:27 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_all_structures": {
-    "criteria": {
-      "in_goliath_honey_fountain": "2025-01-27 17:23:28 +0000",
-      "in_mite_fortress": "2025-01-27 17:23:28 +0000"
-    },
-    "done": false
-  },
-  "lootr:10loot": {
-    "criteria": {
-      "opened_10": "2025-01-27 17:48:50 +0000"
     },
     "done": true
   },
@@ -181,27 +95,9 @@
     },
     "done": true
   },
-  "lootr:25loot": {
-    "criteria": {
-      "opened_25": "2025-01-27 20:10:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-01-27 17:32:20 +0000"
-    },
-    "done": true
-  },
   "occultism:chalks/root": {
     "criteria": {
       "always": "2025-01-27 17:23:27 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-01-27 17:43:37 +0000"
     },
     "done": true
   },
@@ -211,21 +107,294 @@
     },
     "done": true
   },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-01-27 17:23:27 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-01-27 17:23:27 +0000"
+    },
+    "done": true
+  },
+  "dumplings_delight:root": {
+    "criteria": {
+      "root": "2025-01-27 17:23:27 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-27 17:23:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-01-27 17:23:27 +0000"
+    },
+    "done": true
+  },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "logged_in": "2025-01-27 17:23:27 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-01-27 17:23:27 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-01-27 17:23:27 +0000",
+      "has_wpt": "2025-01-27 17:23:27 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-01-27 17:23:27 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-01-27 17:23:27 +0000"
+    },
+    "done": true
+  },
+  "moredelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-27 17:23:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-01-27 17:23:28 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2025-01-27 17:23:28 +0000",
+      "in_mite_fortress": "2025-01-27 17:23:28 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:orchard": "2025-01-27 17:38:18 +0000",
+      "biomeswevegone:tropical_rainforest": "2025-01-27 17:53:26 +0000",
+      "biomeswevegone:crag_gardens": "2025-01-27 17:41:22 +0000",
+      "biomeswevegone:prairie": "2025-01-27 19:47:32 +0000",
+      "biomeswevegone:zelkova_forest": "2025-01-27 18:26:45 +0000",
+      "biomeswevegone:allium_shrubland": "2025-01-27 17:23:28 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:allium_shrubland": "2025-01-27 17:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-27 17:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-27 17:31:25 +0000"
+    },
+    "done": true
+  },
+  "moredelight:combat/wooden_knife": {
+    "criteria": {
+      "has_wood": "2025-01-27 17:31:26 +0000"
+    },
+    "done": true
+  },
+  "moredelight:combat/stone_knife": {
+    "criteria": {
+      "has_stone": "2025-01-27 17:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-27 17:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-27 17:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-01-27 17:36:25 +0000",
+      "apple": "2025-01-27 18:26:22 +0000",
+      "bread": "2025-01-27 20:13:24 +0000",
+      "cooked_chicken": "2025-01-27 17:33:14 +0000",
+      "cooked_cod": "2025-01-27 19:53:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-27 17:33:14 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-27 17:33:15 +0000"
+    },
+    "done": true
+  },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2025-01-27 17:38:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-27 17:38:23 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-01-27 17:43:37 +0000",
+      "opened_chest": "2025-01-27 17:38:23 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:progression/haven": {
+    "criteria": {
+      "affixed": "2025-01-27 17:38:43 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "affixed": "2025-01-27 17:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2025-01-27 17:50:44 +0000",
+      "minecraft:cherry_grove": "2025-01-27 19:46:03 +0000",
+      "minecraft:sunflower_plains": "2025-01-27 19:47:29 +0000",
+      "minecraft:river": "2025-01-27 17:39:12 +0000",
+      "minecraft:dripstone_caves": "2025-01-27 20:11:33 +0000",
+      "minecraft:plains": "2025-01-27 17:59:03 +0000"
+    },
+    "done": false
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_shipwreck": "2025-01-27 17:39:12 +0000"
+    },
+    "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-27 17:39:42 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "uncommon_legs": "2025-01-27 17:59:58 +0000",
+      "kill_apothic_invader": "2025-01-28 18:05:26 +0000",
+      "uncommon_hand": "2025-01-27 17:40:29 +0000",
+      "uncommon_helm": "2025-01-27 20:11:03 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_helm": "2025-01-27 20:11:03 +0000",
+      "common_hand": "2025-01-27 17:40:29 +0000",
+      "common_legs": "2025-01-27 17:48:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-27 17:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-01-27 19:54:50 +0000",
+      "minecraft:skeleton": "2025-01-27 18:28:10 +0000",
+      "minecraft:vindicator": "2025-01-27 19:56:41 +0000",
+      "minecraft:enderman": "2025-01-27 20:09:12 +0000",
+      "minecraft:spider": "2025-01-27 18:27:35 +0000",
+      "minecraft:zombie": "2025-01-27 17:42:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-27 17:42:06 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-01-27 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-27 17:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-27 17:44:12 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-01-27 17:45:05 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2025-01-27 17:47:38 +0000"
     },
     "done": true
   },
-  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+  "lootr:10loot": {
     "criteria": {
-      "apple": "2025-01-27 18:22:53 +0000"
+      "opened_10": "2025-01-27 17:48:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
+  "pneumaticcraft:programming_puzzle": {
     "criteria": {
-      "requirement": "2025-01-27 17:45:05 +0000"
+      "0": "2025-01-27 17:59:50 +0000"
     },
     "done": true
   },
@@ -242,140 +411,21 @@
     },
     "done": true
   },
-  "the_bumblezone:wiki": {
-    "criteria": {
-      "instant_granted": "2025-01-27 17:23:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-01-27 20:57:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-01-27 17:40:37 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/compass": {
-    "criteria": {
-      "compass": "2025-01-27 21:08:53 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:progression/ascent": {
-    "criteria": {
-      "uncommon_legs": "2025-01-27 17:59:58 +0000",
-      "uncommon_hand": "2025-01-27 17:40:29 +0000",
-      "uncommon_helm": "2025-01-27 20:11:03 +0000"
-    },
-    "done": false
-  },
-  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
-    "criteria": {
-      "biomeswevegone:orchard": "2025-01-27 17:38:18 +0000",
-      "biomeswevegone:tropical_rainforest": "2025-01-27 17:53:26 +0000",
-      "biomeswevegone:crag_gardens": "2025-01-27 17:41:22 +0000",
-      "biomeswevegone:prairie": "2025-01-27 19:47:32 +0000",
-      "biomeswevegone:zelkova_forest": "2025-01-27 18:26:45 +0000",
-      "biomeswevegone:allium_shrubland": "2025-01-27 17:23:28 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-27 18:05:37 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "killed_something": "2025-01-27 17:31:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2025-01-27 19:54:50 +0000",
-      "minecraft:skeleton": "2025-01-27 18:28:10 +0000",
-      "minecraft:vindicator": "2025-01-27 19:56:41 +0000",
-      "minecraft:enderman": "2025-01-27 20:09:12 +0000",
-      "minecraft:spider": "2025-01-27 18:27:35 +0000",
-      "minecraft:zombie": "2025-01-27 17:42:06 +0000"
+      "apple": "2025-01-27 18:22:53 +0000"
     },
     "done": false
   },
-  "mekanism:root": {
+  "dungeons_arise:find_illager_campsite": {
     "criteria": {
-      "automatic": "2025-01-27 17:23:27 +0000"
-    },
-    "done": true
-  },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2025-01-27 20:03:52 +0000"
-    },
-    "done": true
-  },
-  "dumplings_delight:root": {
-    "criteria": {
-      "root": "2025-01-27 17:23:27 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/adventure/root": {
-    "criteria": {
-      "biomeswevegone:allium_shrubland": "2025-01-27 17:23:28 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-01-27 17:39:42 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-01-27 17:23:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-01-27 17:42:06 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2025-01-27 17:23:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:sparse_jungle": "2025-01-27 17:50:44 +0000",
-      "minecraft:cherry_grove": "2025-01-27 19:46:03 +0000",
-      "minecraft:sunflower_plains": "2025-01-27 19:47:29 +0000",
-      "minecraft:river": "2025-01-27 17:39:12 +0000",
-      "minecraft:dripstone_caves": "2025-01-27 20:11:33 +0000",
-      "minecraft:plains": "2025-01-27 17:59:03 +0000"
-    },
-    "done": false
-  },
-  "biomeswevegone:biomeswevegone/husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-01-27 17:33:15 +0000"
-    },
-    "done": true
-  },
-  "modern_industrialization:guidebook": {
-    "criteria": {
-      "logged_in": "2025-01-27 17:23:27 +0000"
+      "location0": "2025-01-27 19:56:35 +0000"
     },
     "done": true
   },
@@ -385,60 +435,41 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "mekanism:materials": {
     "criteria": {
-      "cooked_porkchop": "2025-01-27 17:36:25 +0000",
-      "apple": "2025-01-27 18:26:22 +0000",
-      "bread": "2025-01-27 20:13:24 +0000",
-      "cooked_chicken": "2025-01-27 17:33:14 +0000",
-      "cooked_cod": "2025-01-27 19:53:15 +0000"
-    },
-    "done": false
-  },
-  "occultism:occultism/root": {
-    "criteria": {
-      "occultism_present": "2025-01-27 17:23:27 +0000"
+      "material": "2025-01-27 20:03:52 +0000"
     },
     "done": true
   },
-  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+  "lootr:25loot": {
     "criteria": {
-      "locate_shipwreck": "2025-01-27 17:39:12 +0000"
-    },
-    "done": false
-  },
-  "apotheosis:progression/haven": {
-    "criteria": {
-      "affixed": "2025-01-27 17:38:43 +0000"
+      "opened_25": "2025-01-27 20:10:39 +0000"
     },
     "done": true
   },
-  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "has_wit": "2025-01-27 17:23:27 +0000",
-      "has_wpt": "2025-01-27 17:23:27 +0000"
+      "kill_mimic": "2025-01-27 20:49:02 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "consumed_item": "2025-01-27 17:33:14 +0000"
+      "shot_arrow": "2025-01-27 20:57:41 +0000"
     },
     "done": true
   },
-  "betterdeserttemples:root": {
+  "ae2:main/charger": {
     "criteria": {
-      "always": "2025-01-27 17:23:27 +0000"
+      "certus": "2025-01-27 21:05:47 +0000"
     },
     "done": true
   },
-  "apotheosis:progression/frontier": {
+  "ae2:main/compass": {
     "criteria": {
-      "common_helm": "2025-01-27 20:11:03 +0000",
-      "common_hand": "2025-01-27 17:40:29 +0000",
-      "common_legs": "2025-01-27 17:48:26 +0000"
+      "compass": "2025-01-27 21:08:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "ae2:main/presses": {
     "criteria": {
@@ -446,36 +477,6 @@
       "silicon": "2025-01-27 21:10:53 +0000",
       "engineering": "2025-01-27 21:10:53 +0000",
       "logic": "2025-01-27 21:10:53 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:progression/root": {
-    "criteria": {
-      "affixed": "2025-01-27 17:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-01-27 17:31:25 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
-    "criteria": {
-      "has_wt": "2025-01-27 17:23:27 +0000"
-    },
-    "done": true
-  },
-  "moredelight:main/root": {
-    "criteria": {
-      "seeds": "2025-01-27 17:23:27 +0000"
-    },
-    "done": true
-  },
-  "moredelight:combat/wooden_knife": {
-    "criteria": {
-      "has_wood": "2025-01-27 17:31:26 +0000"
     },
     "done": true
   },
