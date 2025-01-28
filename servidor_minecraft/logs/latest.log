@@ -4063,3 +4063,34 @@ net.minecraft.nbt.NbtAccounterException: Tried to read NBT tag that was too big;
 [28Jan2025 18:49:25.714] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at -86, 69, -910, eternal_starlight:starlight
 [28Jan2025 18:50:40.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Tangled
 [28Jan2025 18:50:58.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to tonisancho5]
+[28Jan2025 18:51:11.344] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at -91, 57, -896, eternal_starlight:starlight
+[28Jan2025 18:51:27.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peluxiito: Teleported Peluxiito to Solvercks]
+[28Jan2025 18:51:41.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Tangled Skull
+[28Jan2025 18:51:50.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito has made the advancement [Delightful Decade]
+[28Jan2025 18:51:51.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to Peluxiito]
+[28Jan2025 18:52:03.543] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at -90, 57, -887, eternal_starlight:starlight
+[28Jan2025 18:53:31.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 died of a severe poison
+[28Jan2025 18:53:39.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks died of a severe poison
+[28Jan2025 18:53:41.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tonisancho5: Teleported tonisancho5 to Solvercks]
+[28Jan2025 18:53:42.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 died of a severe poison
+[28Jan2025 18:53:42.767] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Did not backup data (grave data empty)
+[28Jan2025 18:53:50.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to tonisancho5]
+[28Jan2025 18:54:05.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito was slain by Tangled
+[28Jan2025 18:54:05.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks died of a severe poison
+[28Jan2025 18:54:05.886] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Did not backup data (grave data empty)
+[28Jan2025 18:54:20.195] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at -104, 57, -865, eternal_starlight:starlight
+[28Jan2025 18:54:21.320] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Peluxiito claimed a grave belonging to Peluxiito at -163, 57, -897, eternal_starlight:starlight
+[28Jan2025 18:54:22.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito was slain by Tangled
+[28Jan2025 18:54:26.224] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: tonisancho5 claimed a grave belonging to tonisancho5 at -109, 57, -882, eternal_starlight:starlight
+[28Jan2025 18:54:41.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito was slain by Tangled
+[28Jan2025 18:54:41.261] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Did not backup data (grave data empty)
+[28Jan2025 18:54:47.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks died of a severe poison
+[28Jan2025 18:54:53.574] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Peluxiito claimed a grave belonging to Peluxiito at -166, 57, -902, eternal_starlight:starlight
+[28Jan2025 18:55:03.016] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at -143, 58, -857, eternal_starlight:starlight
+[28Jan2025 18:55:13.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito was slain by Tangled
+[28Jan2025 18:56:03.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=57, z=-908} BlockPos{x=-161, y=57, z=-909}
+[28Jan2025 18:56:18.021] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Peluxiito claimed a grave belonging to Peluxiito at -169, 57, -883, eternal_starlight:starlight
+[28Jan2025 18:56:25.805] [Server thread/ERROR] [apotheosis/]: Attempted to spawn a boss in dimension eternal_starlight:starlight using configured boss spawn rule NEEDS_SURFACE/0.05 but no bosses were made available.
+[28Jan2025 18:56:35.954] [Server thread/ERROR] [apotheosis/]: Attempted to spawn a boss in dimension eternal_starlight:starlight using configured boss spawn rule NEEDS_SURFACE/0.05 but no bosses were made available.
+[28Jan2025 18:56:59.921] [Server thread/ERROR] [apotheosis/]: Attempted to spawn a boss in dimension eternal_starlight:starlight using configured boss spawn rule NEEDS_SURFACE/0.05 but no bosses were made available.
+[28Jan2025 18:57:00.774] [Server thread/ERROR] [apotheosis/]: Attempted to spawn a boss in dimension eternal_starlight:starlight using configured boss spawn rule NEEDS_SURFACE/0.05 but no bosses were made available.

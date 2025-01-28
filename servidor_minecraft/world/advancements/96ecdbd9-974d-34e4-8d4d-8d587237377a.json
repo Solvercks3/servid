@@ -320,6 +320,7 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_legs": "2025-01-27 17:59:58 +0000",
+      "uncommon_chest": "2025-01-28 18:50:54 +0000",
       "kill_apothic_invader": "2025-01-28 18:05:26 +0000",
       "uncommon_hand": "2025-01-27 17:40:29 +0000",
       "uncommon_helm": "2025-01-27 20:11:03 +0000"
@@ -330,6 +331,7 @@
     "criteria": {
       "common_helm": "2025-01-27 20:11:03 +0000",
       "common_hand": "2025-01-27 17:40:29 +0000",
+      "common_chest": "2025-01-28 18:50:54 +0000",
       "common_legs": "2025-01-27 17:48:26 +0000"
     },
     "done": false
@@ -420,7 +422,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-01-27 18:22:53 +0000"
+      "apple": "2025-01-27 18:22:53 +0000",
+      "golden_apple": "2025-01-28 18:56:25 +0000"
     },
     "done": false
   },
@@ -484,6 +487,12 @@
   "ae2:main/charged_quartz": {
     "criteria": {
       "certus": "2025-01-27 21:15:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:chain_tangled_skull_explosion": {
+    "criteria": {
+      "explode": "2025-01-28 18:49:02 +0000"
     },
     "done": true
   },
