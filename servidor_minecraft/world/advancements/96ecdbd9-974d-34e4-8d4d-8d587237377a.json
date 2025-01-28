@@ -509,6 +509,18 @@
     },
     "done": true
   },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-01-28 20:12:37 +0000"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-01-28 20:06:31 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:obtain_orb_of_prophecy": {
     "criteria": {
       "has_item": "2025-01-28 18:42:29 +0000"
@@ -521,6 +533,12 @@
       "in_dark_swamp": "2025-01-28 18:44:44 +0000"
     },
     "done": false
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-01-28 20:06:00 +0000"
+    },
+    "done": true
   },
   "eternal_starlight:root": {
     "criteria": {

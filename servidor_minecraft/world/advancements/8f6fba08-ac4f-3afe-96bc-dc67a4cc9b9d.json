@@ -328,7 +328,8 @@
       "minecraft:spider": "2025-01-27 18:48:10 +0000",
       "minecraft:zombie": "2025-01-27 17:47:28 +0000",
       "minecraft:creeper": "2025-01-27 20:15:15 +0000",
-      "minecraft:zombie_villager": "2025-01-27 19:37:13 +0000"
+      "minecraft:zombie_villager": "2025-01-27 19:37:13 +0000",
+      "minecraft:husk": "2025-01-28 20:12:37 +0000"
     },
     "done": false
   },
@@ -500,6 +501,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-28 20:06:54 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:challenge_gatekeeper": {
     "criteria": {
       "challenged": "2025-01-28 18:43:43 +0000"
@@ -509,6 +516,12 @@
   "eternal_starlight:obtain_orb_of_prophecy": {
     "criteria": {
       "has_item": "2025-01-28 18:44:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-28 20:09:28 +0000"
     },
     "done": true
   },

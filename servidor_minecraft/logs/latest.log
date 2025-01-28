@@ -4691,3 +4691,22 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException
 [28Jan2025 19:48:43.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peluxiito lost connection: Disconnected
 [28Jan2025 19:48:43.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito left the game
 [28Jan2025 19:57:17.738] [Server thread/WARN] [EMI/]: [EMI] Client requested fill but screen handler has changed, aborting
+[28Jan2025 20:05:00.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Adondav the Morbius'/53832, l='ServerLevel[world]', x=99.64, y=117.00, z=-671.49] died: Adondav the Morbius was slain by tonisancho5
+[28Jan2025 20:06:00.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [A Metallur-what?]
+[28Jan2025 20:06:31.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Tricking a Rock Into Thinking]
+[28Jan2025 20:06:54.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Hot Stuff]
+[28Jan2025 20:12:37.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [The Perfect Foundation]
+[28Jan2025 20:14:03.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Peluxiito[/127.18.204.47:37355] logged in with entity id 55926 at (108.33465160197514, 120.5625, -991.2487586270166)
+[28Jan2025 20:14:03.362] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.crush.IntegratedDynamicsSqueezerProcessor
+[28Jan2025 20:14:03.417] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.crush.OccultismCrusherProcessor
+[28Jan2025 20:14:03.462] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.press.ModernIndustrializationCompressorProcessor
+[28Jan2025 20:14:03.515] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.cut.MekanismSawmillProcessor
+[28Jan2025 20:14:03.551] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.crush.MekanismCrusherProcessor
+[28Jan2025 20:14:03.577] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.crush.ModernIndustrializationMaceratorProcessor
+[28Jan2025 20:14:03.601] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.crush.ActuallyAdditionsCrusherProcessor
+[28Jan2025 20:14:03.624] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.cut.FarmersDelightCuttingBoardProcessor
+[28Jan2025 20:14:03.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito joined the game
+[28Jan2025 20:14:03.759] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{Peluxiito} with UUID 77a16019-c311-3748-8bce-0a1400b8d93d.
+[28Jan2025 20:14:05.572] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Peluxiito. Claiming: GRAVE / Robbing: INVENTORY
+[28Jan2025 20:14:06.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[28Jan2025 20:14:35.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Getting More From Less]
