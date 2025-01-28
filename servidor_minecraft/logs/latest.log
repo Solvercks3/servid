@@ -4710,3 +4710,90 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException
 [28Jan2025 20:14:05.572] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Peluxiito. Claiming: GRAVE / Robbing: INVENTORY
 [28Jan2025 20:14:06.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
 [28Jan2025 20:14:35.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Getting More From Less]
+[28Jan2025 20:16:11.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/54543, l='ServerLevel[world]', x=72.52, y=96.00, z=-397.88] died, message: 'Nitwit was slain by Zombie'
+[28Jan2025 20:18:05.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peluxiito lost connection: Disconnected
+[28Jan2025 20:18:05.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito left the game
+[28Jan2025 20:20:33.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was killed by Necromancer's magic missile
+[28Jan2025 20:20:41.332] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at 85, 117, -637, minecraft:overworld
+[28Jan2025 20:20:48.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was blown up by Creeper
+[28Jan2025 20:20:52.398] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at 81, 117, -648, minecraft:overworld
+[28Jan2025 20:20:55.000] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Masbor the Mighty'/57316, l='ServerLevel[world]', x=77.54, y=115.00, z=-659.12] died: Masbor the Mighty was slain by Solvercks
+[28Jan2025 20:21:16.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was shot by Skeleton
+[28Jan2025 20:21:20.337] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at 91, 117, -655, minecraft:overworld
+[28Jan2025 20:21:39.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was shot by Skeleton
+[28Jan2025 20:21:55.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks lost connection: Timed out
+[28Jan2025 20:21:55.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks left the game
+[28Jan2025 20:21:55.817] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jan2025 20:22:11.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 lost connection: Disconnected
+[28Jan2025 20:22:11.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 left the game
+[28Jan2025 20:22:19.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jan2025 20:22:19.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[28Jan2025 20:22:21.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Jan2025 20:22:21.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jan2025 20:22:21.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jan2025 20:22:21.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jan2025 20:22:21.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
+[28Jan2025 20:22:21.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Jan2025 20:22:22.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/jamd:end
+[28Jan2025 20:22:22.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[28Jan2025 20:22:22.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/jamd:nether
+[28Jan2025 20:22:22.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_starlight:starlight
+[28Jan2025 20:22:22.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Jan2025 20:22:22.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/jamd:mining
+[28Jan2025 20:22:22.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Jan2025 20:22:22.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/javd:void
+[28Jan2025 20:22:22.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[28Jan2025 20:22:22.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
+[28Jan2025 20:22:22.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[28Jan2025 20:22:22.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jan2025 20:22:22.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (end): All chunks are saved
+[28Jan2025 20:22:22.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[28Jan2025 20:22:22.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (nether): All chunks are saved
+[28Jan2025 20:22:22.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[28Jan2025 20:22:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jan2025 20:22:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[28Jan2025 20:22:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jan2025 20:22:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[28Jan2025 20:22:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[28Jan2025 20:22:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[28Jan2025 20:22:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[28Jan2025 20:22:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jan2025 20:22:22.187] [C2ME Storage #3/INFO] [C2ME Storage/]: Storage thread Thread[#101,C2ME Storage #3,5,SERVER] stopped
+[28Jan2025 20:22:22.199] [C2ME Storage #2/INFO] [C2ME Storage/]: Storage thread Thread[#99,C2ME Storage #2,5,SERVER] stopped
+[28Jan2025 20:22:22.208] [C2ME Storage #1/INFO] [C2ME Storage/]: Storage thread Thread[#98,C2ME Storage #1,5,SERVER] stopped
+[28Jan2025 20:22:22.208] [C2ME Storage #6/INFO] [C2ME Storage/]: Storage thread Thread[#107,C2ME Storage #6,5,SERVER] stopped
+[28Jan2025 20:22:22.209] [C2ME Storage #5/INFO] [C2ME Storage/]: Storage thread Thread[#105,C2ME Storage #5,5,SERVER] stopped
+[28Jan2025 20:22:22.209] [C2ME Storage #4/INFO] [C2ME Storage/]: Storage thread Thread[#104,C2ME Storage #4,5,SERVER] stopped
+[28Jan2025 20:22:22.209] [C2ME Storage #9/INFO] [C2ME Storage/]: Storage thread Thread[#111,C2ME Storage #9,5,SERVER] stopped
+[28Jan2025 20:22:22.210] [C2ME Storage #8/INFO] [C2ME Storage/]: Storage thread Thread[#110,C2ME Storage #8,5,SERVER] stopped
+[28Jan2025 20:22:22.210] [C2ME Storage #7/INFO] [C2ME Storage/]: Storage thread Thread[#109,C2ME Storage #7,5,SERVER] stopped
+[28Jan2025 20:22:22.211] [C2ME Storage #12/INFO] [C2ME Storage/]: Storage thread Thread[#115,C2ME Storage #12,5,SERVER] stopped
+[28Jan2025 20:22:22.212] [C2ME Storage #11/INFO] [C2ME Storage/]: Storage thread Thread[#114,C2ME Storage #11,5,SERVER] stopped
+[28Jan2025 20:22:22.212] [C2ME Storage #10/INFO] [C2ME Storage/]: Storage thread Thread[#113,C2ME Storage #10,5,SERVER] stopped
+[28Jan2025 20:22:22.216] [C2ME Storage #15/INFO] [C2ME Storage/]: Storage thread Thread[#119,C2ME Storage #15,5,SERVER] stopped
+[28Jan2025 20:22:22.242] [C2ME Storage #14/INFO] [C2ME Storage/]: Storage thread Thread[#118,C2ME Storage #14,5,SERVER] stopped
+[28Jan2025 20:22:22.248] [C2ME Storage #13/INFO] [C2ME Storage/]: Storage thread Thread[#117,C2ME Storage #13,5,SERVER] stopped
+[28Jan2025 20:22:22.249] [C2ME Storage #18/INFO] [C2ME Storage/]: Storage thread Thread[#123,C2ME Storage #18,5,SERVER] stopped
+[28Jan2025 20:22:22.250] [C2ME Storage #17/INFO] [C2ME Storage/]: Storage thread Thread[#122,C2ME Storage #17,5,SERVER] stopped
+[28Jan2025 20:22:22.250] [C2ME Storage #16/INFO] [C2ME Storage/]: Storage thread Thread[#121,C2ME Storage #16,5,SERVER] stopped
+[28Jan2025 20:22:22.250] [C2ME Storage #21/INFO] [C2ME Storage/]: Storage thread Thread[#127,C2ME Storage #21,5,SERVER] stopped
+[28Jan2025 20:22:22.250] [C2ME Storage #20/INFO] [C2ME Storage/]: Storage thread Thread[#126,C2ME Storage #20,5,SERVER] stopped
+[28Jan2025 20:22:22.251] [C2ME Storage #19/INFO] [C2ME Storage/]: Storage thread Thread[#125,C2ME Storage #19,5,SERVER] stopped
+[28Jan2025 20:22:22.251] [C2ME Storage #24/INFO] [C2ME Storage/]: Storage thread Thread[#131,C2ME Storage #24,5,SERVER] stopped
+[28Jan2025 20:22:22.252] [C2ME Storage #23/INFO] [C2ME Storage/]: Storage thread Thread[#130,C2ME Storage #23,5,SERVER] stopped
+[28Jan2025 20:22:22.253] [C2ME Storage #22/INFO] [C2ME Storage/]: Storage thread Thread[#129,C2ME Storage #22,5,SERVER] stopped
+[28Jan2025 20:22:22.253] [C2ME Storage #27/INFO] [C2ME Storage/]: Storage thread Thread[#135,C2ME Storage #27,5,SERVER] stopped
+[28Jan2025 20:22:22.255] [C2ME Storage #26/INFO] [C2ME Storage/]: Storage thread Thread[#134,C2ME Storage #26,5,SERVER] stopped
+[28Jan2025 20:22:22.255] [C2ME Storage #25/INFO] [C2ME Storage/]: Storage thread Thread[#133,C2ME Storage #25,5,SERVER] stopped
+[28Jan2025 20:22:22.256] [C2ME Storage #30/INFO] [C2ME Storage/]: Storage thread Thread[#139,C2ME Storage #30,5,SERVER] stopped
+[28Jan2025 20:22:22.257] [C2ME Storage #29/INFO] [C2ME Storage/]: Storage thread Thread[#138,C2ME Storage #29,5,SERVER] stopped
+[28Jan2025 20:22:22.257] [C2ME Storage #28/INFO] [C2ME Storage/]: Storage thread Thread[#137,C2ME Storage #28,5,SERVER] stopped
+[28Jan2025 20:22:22.257] [C2ME Storage #33/INFO] [C2ME Storage/]: Storage thread Thread[#143,C2ME Storage #33,5,SERVER] stopped
+[28Jan2025 20:22:22.258] [C2ME Storage #32/INFO] [C2ME Storage/]: Storage thread Thread[#142,C2ME Storage #32,5,SERVER] stopped
+[28Jan2025 20:22:22.259] [C2ME Storage #31/INFO] [C2ME Storage/]: Storage thread Thread[#141,C2ME Storage #31,5,SERVER] stopped
+[28Jan2025 20:22:22.260] [C2ME Storage #36/INFO] [C2ME Storage/]: Storage thread Thread[#147,C2ME Storage #36,5,SERVER] stopped
+[28Jan2025 20:22:22.260] [C2ME Storage #35/INFO] [C2ME Storage/]: Storage thread Thread[#146,C2ME Storage #35,5,SERVER] stopped
+[28Jan2025 20:22:22.260] [C2ME Storage #34/INFO] [C2ME Storage/]: Storage thread Thread[#145,C2ME Storage #34,5,SERVER] stopped
+[28Jan2025 20:22:22.264] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Jan2025 20:22:22.267] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[28Jan2025 20:22:22.270] [Server thread/INFO] [Framework/]: Finished unloading server configs
