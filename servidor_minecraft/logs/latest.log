@@ -3686,3 +3686,380 @@ java.lang.IllegalStateException: No key values in MapLike[{"replace":false,"remo
 [28Jan2025 18:17:50.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [28Jan2025 18:18:43.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito has made the advancement [Stone Age]
 [28Jan2025 18:19:17.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito has made the advancement [Getting an Upgrade]
+[28Jan2025 18:21:14.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Diamonds!]
+[28Jan2025 18:22:02.226] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Annie the Nifty'/4943, l='ServerLevel[world]', x=91.17, y=113.00, z=-739.75] died: Annie the Nifty drowned
+[28Jan2025 18:22:34.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Sneak 100]
+[28Jan2025 18:23:46.107] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:46.131] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:46.133] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:46.134] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:46.134] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:46.135] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:46.602] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:46.603] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:46.603] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:46.604] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:46.604] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:46.605] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:46.635] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:46.636] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:48.351] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:48.477] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:23:51.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tonisancho5: Teleported tonisancho5 to Solvercks]
+[28Jan2025 18:23:52.547] [c2me-worker-0/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: actuallyadditions:andrew_period_house
+[28Jan2025 18:23:54.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Sneak 100]
+[28Jan2025 18:24:11.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito has made the advancement [Sweet Dreams]
+[28Jan2025 18:26:04.762] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Faellynna the Wise'/6431, l='ServerLevel[world]', x=89.67, y=116.00, z=-620.33] died: Faellynna the Wise was slain by Solvercks
+[28Jan2025 18:27:31.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tonisancho5: Teleported tonisancho5 to Solvercks]
+[28Jan2025 18:28:19.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Peluxiito lost connection: Disconnected
+[28Jan2025 18:28:19.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito left the game
+[28Jan2025 18:29:38.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Warden
+[28Jan2025 18:30:00.935] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at 165, -41, -709, minecraft:overworld
+[28Jan2025 18:30:07.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Peluxiito[/127.18.204.47:45839] logged in with entity id 7641 at (120.5, 130.0, -1023.5)
+[28Jan2025 18:30:07.220] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.crush.IntegratedDynamicsSqueezerProcessor
+[28Jan2025 18:30:07.285] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.crush.OccultismCrusherProcessor
+[28Jan2025 18:30:07.321] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.press.ModernIndustrializationCompressorProcessor
+[28Jan2025 18:30:07.355] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.cut.MekanismSawmillProcessor
+[28Jan2025 18:30:07.391] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.crush.MekanismCrusherProcessor
+[28Jan2025 18:30:07.430] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.crush.ModernIndustrializationMaceratorProcessor
+[28Jan2025 18:30:07.466] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.crush.ActuallyAdditionsCrusherProcessor
+[28Jan2025 18:30:07.502] [Server thread/INFO] [ars_unification/]: Running processor dev.qther.ars_unification.processors.cut.FarmersDelightCuttingBoardProcessor
+[28Jan2025 18:30:07.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito joined the game
+[28Jan2025 18:30:07.680] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{Peluxiito} with UUID 77a16019-c311-3748-8bce-0a1400b8d93d.
+[28Jan2025 18:30:09.142] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Peluxiito. Claiming: GRAVE / Robbing: INVENTORY
+[28Jan2025 18:33:19.595] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at java.base/java.util.Arrays$ArrayList.set(Arrays.java:4271) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.core.NonNullList.set(NonNullList.java:72) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.inventory.TransientCraftingContainer.setItem(TransientCraftingContainer.java:67) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.impl.DefaultGridRefillHandler.lambda$refillRecipe$0(DefaultGridRefillHandler.java:66) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.impl.DefaultGridRefillHandler.refillRecipe(DefaultGridRefillHandler.java:63) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.GridRefillHandler.lambda$refillLastCrafted$0(GridRefillHandler.java:30) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.GridRefillHandler.refillLastCrafted(GridRefillHandler.java:30) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.network.RefillLastCraftedMessage.lambda$handle$0(RefillLastCraftedMessage.java:42) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.network.RefillLastCraftedMessage.handle(RefillLastCraftedMessage.java:41) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at TRANSFORMER/balm@21.0.23/net.blay09.mods.balm.neoforge.network.NeoForgeBalmNetworking$Registrations.lambda$createPayloadHandler$0(NeoForgeBalmNetworking.java:85) ~[balm-neoforge-1.21.1-21.0.23.jar%23559!/:21.0.23]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.ServerPayloadContext.enqueueWork(ServerPayloadContext.java:32) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.handle(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 14 more
+[28Jan2025 18:33:19.599] [Server thread/ERROR] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Failed to process a synchronized task of the payload: craftingtweaks:refill_last_crafted
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at java.base/java.util.Arrays$ArrayList.set(Arrays.java:4271) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.core.NonNullList.set(NonNullList.java:72) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.inventory.TransientCraftingContainer.setItem(TransientCraftingContainer.java:67) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.impl.DefaultGridRefillHandler.lambda$refillRecipe$0(DefaultGridRefillHandler.java:66) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.impl.DefaultGridRefillHandler.refillRecipe(DefaultGridRefillHandler.java:63) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.GridRefillHandler.lambda$refillLastCrafted$0(GridRefillHandler.java:30) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.GridRefillHandler.refillLastCrafted(GridRefillHandler.java:30) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.network.RefillLastCraftedMessage.lambda$handle$0(RefillLastCraftedMessage.java:42) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.network.RefillLastCraftedMessage.handle(RefillLastCraftedMessage.java:41) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at TRANSFORMER/balm@21.0.23/net.blay09.mods.balm.neoforge.network.NeoForgeBalmNetworking$Registrations.lambda$createPayloadHandler$0(NeoForgeBalmNetworking.java:85) ~[balm-neoforge-1.21.1-21.0.23.jar%23559!/:21.0.23]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.ServerPayloadContext.enqueueWork(ServerPayloadContext.java:32) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.handle(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 14 more
+[28Jan2025 18:33:34.580] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:111) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:825) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at java.base/java.util.Arrays$ArrayList.set(Arrays.java:4271) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.core.NonNullList.set(NonNullList.java:72) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.inventory.TransientCraftingContainer.setItem(TransientCraftingContainer.java:67) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.impl.DefaultGridRefillHandler.lambda$refillRecipe$0(DefaultGridRefillHandler.java:66) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.impl.DefaultGridRefillHandler.refillRecipe(DefaultGridRefillHandler.java:63) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.GridRefillHandler.lambda$refillLastCrafted$0(GridRefillHandler.java:30) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.GridRefillHandler.refillLastCrafted(GridRefillHandler.java:30) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.network.RefillLastCraftedMessage.lambda$handle$0(RefillLastCraftedMessage.java:42) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.network.RefillLastCraftedMessage.handle(RefillLastCraftedMessage.java:41) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at TRANSFORMER/balm@21.0.23/net.blay09.mods.balm.neoforge.network.NeoForgeBalmNetworking$Registrations.lambda$createPayloadHandler$0(NeoForgeBalmNetworking.java:85) ~[balm-neoforge-1.21.1-21.0.23.jar%23559!/:21.0.23]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.ServerPayloadContext.enqueueWork(ServerPayloadContext.java:32) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.handle(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 13 more
+[28Jan2025 18:33:34.584] [Server thread/ERROR] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Failed to process a synchronized task of the payload: craftingtweaks:refill_last_crafted
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:111) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:825) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at java.base/java.util.Arrays$ArrayList.set(Arrays.java:4271) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.core.NonNullList.set(NonNullList.java:72) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.inventory.TransientCraftingContainer.setItem(TransientCraftingContainer.java:67) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.impl.DefaultGridRefillHandler.lambda$refillRecipe$0(DefaultGridRefillHandler.java:66) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.impl.DefaultGridRefillHandler.refillRecipe(DefaultGridRefillHandler.java:63) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.GridRefillHandler.lambda$refillLastCrafted$0(GridRefillHandler.java:30) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.api.GridRefillHandler.refillLastCrafted(GridRefillHandler.java:30) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.network.RefillLastCraftedMessage.lambda$handle$0(RefillLastCraftedMessage.java:42) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at TRANSFORMER/craftingtweaks@21.1.5/net.blay09.mods.craftingtweaks.network.RefillLastCraftedMessage.handle(RefillLastCraftedMessage.java:41) ~[craftingtweaks-neoforge-1.21.1-21.1.5.jar%23600!/:21.1.5]
+	at TRANSFORMER/balm@21.0.23/net.blay09.mods.balm.neoforge.network.NeoForgeBalmNetworking$Registrations.lambda$createPayloadHandler$0(NeoForgeBalmNetworking.java:85) ~[balm-neoforge-1.21.1-21.0.23.jar%23559!/:21.0.23]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.ServerPayloadContext.enqueueWork(ServerPayloadContext.java:32) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.handle(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23514!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 13 more
+[28Jan2025 18:35:58.960] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[28Jan2025 18:35:58.960] [c2me-worker-0/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[28Jan2025 18:37:41.220] [c2me-worker-0/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeons_arise:infested_temple/infested_temple_main_0
+net.minecraft.nbt.NbtAccounterException: Tried to read NBT tag that was too big; tried to allocate: 209715171 + 36 bytes where max allowed: 209715200
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtAccounter.accountBytes(NbtAccounter.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:64) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readTagSafe(NbtIo.java:193) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readUnnamedTag(NbtIo.java:187) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.read(NbtIo.java:121) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readCompressed(NbtIo.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.readStructure(StructureTemplateManager.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.load(StructureTemplateManager.java:232) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.loadFromResource(StructureTemplateManager.java:136) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.tryLoad(StructureTemplateManager.java:114) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3606) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2278) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.compute(LocalCache.java:4262) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.computeIfAbsent(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.get(StructureTemplateManager.java:104) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.getOrCreate(StructureTemplateManager.java:92) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-8.0.16.jar%23102!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getTemplate(SinglePoolElement.java:94) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getBoundingBox(SinglePoolElement.java:134) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement.addPieces(JigsawPlacement.java:306) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.structures.JigsawStructure.findGenerationPoint(JigsawStructure.java:100) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.findValidGenerationPoint(Structure.java:197) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.generate(Structure.java:96) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.tryGenerateStructure(ChunkGenerator.java:555) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.lambda$createStructures$14(ChunkGenerator.java:517) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.createStructures(ChunkGenerator.java:473) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStatusTasks.generateStructureStarts(ChunkStatusTasks.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStep.apply(ChunkStep.java:33) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.50+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.statuses.VanillaWorldGenerationDelegate.lambda$upgradeToThis$8(VanillaWorldGenerationDelegate.java:137) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.50.jar%231118!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.c2me.base.common.scheduler.ScheduledTask.run(ScheduledTask.java:22) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.flowsched.executor.WorkerThread.pollTasks(WorkerThread.java:57) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.flowsched.executor.WorkerThread.run(WorkerThread.java:27) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+[28Jan2025 18:37:42.992] [c2me-worker-0/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeons_arise:keep_kayra/keep_kayra_main_0
+net.minecraft.nbt.NbtAccounterException: Tried to read NBT tag that was too big; tried to allocate: 209715189 + 12 bytes where max allowed: 209715200
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtAccounter.accountBytes(NbtAccounter.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.IntTag$1.readAccounted(IntTag.java:39) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.IntTag$1.load(IntTag.java:30) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.IntTag$1.load(IntTag.java:27) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readTagSafe(NbtIo.java:193) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readUnnamedTag(NbtIo.java:187) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.read(NbtIo.java:121) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readCompressed(NbtIo.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.readStructure(StructureTemplateManager.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.load(StructureTemplateManager.java:232) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.loadFromResource(StructureTemplateManager.java:136) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.tryLoad(StructureTemplateManager.java:114) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3606) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2278) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.compute(LocalCache.java:4262) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.computeIfAbsent(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.get(StructureTemplateManager.java:104) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.getOrCreate(StructureTemplateManager.java:92) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-8.0.16.jar%23102!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getTemplate(SinglePoolElement.java:94) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getBoundingBox(SinglePoolElement.java:134) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/dungeons_arise@2.1.64/net.aurelj.dungeons_arise.structures.ModifiedJigsawPlacement.addPieces(ModifiedJigsawPlacement.java:87) ~[DungeonsArise-1.21.x-2.1.64-release.jar%23616!/:?]
+	at TRANSFORMER/dungeons_arise@2.1.64/net.aurelj.dungeons_arise.structures.WDAGenericStructures.findGenerationPoint(WDAGenericStructures.java:129) ~[DungeonsArise-1.21.x-2.1.64-release.jar%23616!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.findValidGenerationPoint(Structure.java:197) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.generate(Structure.java:96) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.tryGenerateStructure(ChunkGenerator.java:555) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.lambda$createStructures$14(ChunkGenerator.java:517) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.createStructures(ChunkGenerator.java:473) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStatusTasks.generateStructureStarts(ChunkStatusTasks.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStep.apply(ChunkStep.java:33) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.50+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.statuses.VanillaWorldGenerationDelegate.lambda$upgradeToThis$8(VanillaWorldGenerationDelegate.java:137) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.50.jar%231118!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.c2me.base.common.scheduler.ScheduledTask.run(ScheduledTask.java:22) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.flowsched.executor.WorkerThread.pollTasks(WorkerThread.java:57) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.flowsched.executor.WorkerThread.run(WorkerThread.java:27) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+[28Jan2025 18:37:44.521] [c2me-worker-0/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeons_arise:kisegi_sanctuary/kisegi_sanctuary_main_0
+net.minecraft.nbt.NbtAccounterException: Tried to read NBT tag that was too big; tried to allocate: 209715194 + 48 bytes where max allowed: 209715200
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtAccounter.accountBytes(NbtAccounter.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:55) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readTagSafe(NbtIo.java:193) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readUnnamedTag(NbtIo.java:187) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.read(NbtIo.java:121) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readCompressed(NbtIo.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.readStructure(StructureTemplateManager.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.load(StructureTemplateManager.java:232) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.loadFromResource(StructureTemplateManager.java:136) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.tryLoad(StructureTemplateManager.java:114) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3606) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2278) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.compute(LocalCache.java:4262) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.computeIfAbsent(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.get(StructureTemplateManager.java:104) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.getOrCreate(StructureTemplateManager.java:92) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-8.0.16.jar%23102!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getTemplate(SinglePoolElement.java:94) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getBoundingBox(SinglePoolElement.java:134) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement.addPieces(JigsawPlacement.java:306) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.structures.JigsawStructure.findGenerationPoint(JigsawStructure.java:100) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.findValidGenerationPoint(Structure.java:197) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.generate(Structure.java:96) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.tryGenerateStructure(ChunkGenerator.java:555) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.lambda$createStructures$14(ChunkGenerator.java:517) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.createStructures(ChunkGenerator.java:473) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStatusTasks.generateStructureStarts(ChunkStatusTasks.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStep.apply(ChunkStep.java:33) ~[server-1.21.1-20240808.144430-srg.jar%23513!/:?]
+	at TRANSFORMER/c2me_rewrites_chunk_system@0.3.0+alpha.0.50+1.21.1/com.ishland.c2me.rewrites.chunksystem.common.statuses.VanillaWorldGenerationDelegate.lambda$upgradeToThis$8(VanillaWorldGenerationDelegate.java:137) ~[c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.50.jar%231118!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.c2me.base.common.scheduler.ScheduledTask.run(ScheduledTask.java:22) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.flowsched.executor.WorkerThread.pollTasks(WorkerThread.java:57) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+	at TRANSFORMER/c2me_base@0.3.0+alpha.0.50+1.21.1/com.ishland.flowsched.executor.WorkerThread.run(WorkerThread.java:27) [c2me-base-mc1.21.1-0.3.0+alpha.0.50-all.jar%231051!/:?]
+[28Jan2025 18:38:08.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to Peluxiito]
+[28Jan2025 18:38:31.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito was slain by jiehanlihan
+[28Jan2025 18:38:51.982] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Peluxiito claimed a grave belonging to Peluxiito at 40, 120, -1088, minecraft:overworld
+[28Jan2025 18:39:44.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was doomed to fall by jiehanlihan
+[28Jan2025 18:39:57.637] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at 7, 116, -1136, minecraft:overworld
+[28Jan2025 18:40:38.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by jiehanlihan
+[28Jan2025 18:40:46.634] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at 35, 119, -1141, minecraft:overworld
+[28Jan2025 18:41:43.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Ol' Betsy]
+[28Jan2025 18:42:08.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Duke it out!]
+[28Jan2025 18:42:08.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito has made the advancement [Duke it out!]
+[28Jan2025 18:42:14.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks burned to death
+[28Jan2025 18:42:17.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tonisancho5: Teleported tonisancho5 to Solvercks]
+[28Jan2025 18:42:22.388] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at 34, 118, -1157, minecraft:overworld
+[28Jan2025 18:42:23.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tonisancho5: Teleported tonisancho5 to Solvercks]
+[28Jan2025 18:42:29.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [The Deep Magic]
+[28Jan2025 18:42:58.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito was slain by Spider
+[28Jan2025 18:43:07.281] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Peluxiito claimed a grave belonging to Peluxiito at 18, 125, -1254, minecraft:overworld
+[28Jan2025 18:43:43.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Duke it out!]
+[28Jan2025 18:44:03.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [The Deep Magic]
+[28Jan2025 18:44:32.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5826ms or 116 ticks behind
+[28Jan2025 18:44:32.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Sky of a Million Stars]
+[28Jan2025 18:44:42.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Peluxiito: Teleported Peluxiito to Solvercks]
+[28Jan2025 18:44:44.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Sky of a Million Stars]
+[28Jan2025 18:44:46.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito has made the advancement [Sky of a Million Stars]
+[28Jan2025 18:46:07.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Watch Out for Hand Burns!]
+[28Jan2025 18:48:09.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Peluxiito was slain by Tangled Skull
+[28Jan2025 18:48:17.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to tonisancho5]
+[28Jan2025 18:48:49.720] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Peluxiito claimed a grave belonging to Peluxiito at -82, 65, -974, eternal_starlight:starlight
+[28Jan2025 18:49:02.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was blown up by Tangled Skull
+[28Jan2025 18:49:02.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has completed the challenge [It's just Friendly Fire]
+[28Jan2025 18:49:20.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to tonisancho5]
+[28Jan2025 18:49:25.714] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Solvercks claimed a grave belonging to Solvercks at -86, 69, -910, eternal_starlight:starlight
+[28Jan2025 18:50:40.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Tangled
+[28Jan2025 18:50:58.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to tonisancho5]

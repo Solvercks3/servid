@@ -5,23 +5,11 @@
     },
     "done": true
   },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-01-28 18:12:24 +0000"
-    },
-    "done": true
-  },
   "ae2wtlib:recipe/magnet_card": {
     "criteria": {
       "has_wct": "2025-01-28 18:06:07 +0000"
     },
     "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2025-01-28 18:12:24 +0000"
-    },
-    "done": false
   },
   "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
     "criteria": {
@@ -46,18 +34,6 @@
     "criteria": {
       "has_wit": "2025-01-28 18:06:07 +0000",
       "has_wct": "2025-01-28 18:06:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_mushroom_colony": {
-    "criteria": {
-      "brown_mushroom_colony": "2025-01-28 18:10:34 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_coliseum": {
-    "criteria": {
-      "location0": "2025-01-28 18:06:10 +0000"
     },
     "done": true
   },
@@ -90,13 +66,6 @@
       "has_wpt": "2025-01-28 18:06:07 +0000"
     },
     "done": true
-  },
-  "the_bumblezone:structures/enter_all_structures": {
-    "criteria": {
-      "in_goliath_honey_fountain": "2025-01-28 18:06:10 +0000",
-      "in_mite_fortress": "2025-01-28 18:06:10 +0000"
-    },
-    "done": false
   },
   "ae2wtlib:recipe/quantum_bridge_card": {
     "criteria": {
@@ -132,27 +101,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "stuffed_pumpkin": "2025-01-28 18:17:44 +0000"
-    },
-    "done": false
-  },
   "theurgy:book_root": {
     "criteria": {
       "theurgy_present": "2025-01-28 18:06:07 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2025-01-28 18:09:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2025-01-28 18:10:35 +0000"
     },
     "done": true
   },
@@ -161,26 +112,6 @@
       "instant_granted": "2025-01-28 18:06:07 +0000"
     },
     "done": true
-  },
-  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
-    "criteria": {
-      "biomeswevegone:orchard": "2025-01-28 18:06:54 +0000",
-      "biomeswevegone:allium_shrubland": "2025-01-28 18:06:10 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-01-28 18:09:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:spider": "2025-01-28 18:09:00 +0000",
-      "minecraft:zombie": "2025-01-28 18:16:24 +0000"
-    },
-    "done": false
   },
   "mekanism:root": {
     "criteria": {
@@ -194,53 +125,15 @@
     },
     "done": true
   },
-  "biomeswevegone:biomeswevegone/adventure/root": {
-    "criteria": {
-      "biomeswevegone:allium_shrubland": "2025-01-28 18:06:10 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-01-28 18:12:25 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-01-28 18:06:07 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:spider": "2025-01-28 18:09:00 +0000"
-    },
-    "done": true
-  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-01-28 18:06:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:cherry_grove": "2025-01-28 18:08:40 +0000",
-      "minecraft:sunflower_plains": "2025-01-28 18:06:56 +0000",
-      "minecraft:dripstone_caves": "2025-01-28 18:17:12 +0000"
-    },
-    "done": false
-  },
-  "biomeswevegone:biomeswevegone/husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-01-28 18:12:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2025-01-28 18:10:26 +0000"
     },
     "done": true
   },
@@ -256,12 +149,6 @@
     },
     "done": true
   },
-  "apotheosis:progression/haven": {
-    "criteria": {
-      "affixed": "2025-01-28 18:16:26 +0000"
-    },
-    "done": true
-  },
   "ae2wtlib:recipe/wireless_universal_terminal/ae": {
     "criteria": {
       "has_wit": "2025-01-28 18:06:07 +0000",
@@ -269,39 +156,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-01-28 18:12:11 +0000"
-    },
-    "done": true
-  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-28 18:06:07 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:progression/frontier": {
-    "criteria": {
-      "common_feet": "2025-01-28 18:16:30 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-01-28 18:17:44 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:progression/root": {
-    "criteria": {
-      "affixed": "2025-01-28 18:16:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-01-28 18:11:00 +0000"
     },
     "done": true
   },
@@ -314,6 +171,226 @@
   "moredelight:main/root": {
     "criteria": {
       "seeds": "2025-01-28 18:06:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-01-28 18:06:10 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2025-01-28 18:06:10 +0000",
+      "in_mite_fortress": "2025-01-28 18:06:10 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:orchard": "2025-01-28 18:06:54 +0000",
+      "biomeswevegone:allium_shrubland": "2025-01-28 18:06:10 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:allium_shrubland": "2025-01-28 18:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cherry_grove": "2025-01-28 18:08:40 +0000",
+      "minecraft:sunflower_plains": "2025-01-28 18:06:56 +0000",
+      "minecraft:dripstone_caves": "2025-01-28 18:17:12 +0000",
+      "minecraft:plains": "2025-01-28 18:23:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-28 18:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-01-28 18:39:28 +0000",
+      "minecraft:spider": "2025-01-28 18:09:00 +0000",
+      "minecraft:zombie": "2025-01-28 18:16:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-01-28 18:09:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-01-28 18:09:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-01-28 18:10:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_mushroom_colony": {
+    "criteria": {
+      "brown_mushroom_colony": "2025-01-28 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-01-28 18:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-28 18:11:00 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-28 18:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-28 18:12:11 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-28 18:12:24 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-01-28 18:12:24 +0000"
+    },
+    "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-28 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/haven": {
+    "criteria": {
+      "affixed": "2025-01-28 18:16:26 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "affixed": "2025-01-28 18:16:26 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_feet": "2025-01-28 18:16:30 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "stuffed_pumpkin": "2025-01-28 18:17:44 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-28 18:17:44 +0000"
+    },
+    "done": true
+  },
+  "moredelight:combat/wooden_knife": {
+    "criteria": {
+      "has_wood": "2025-01-28 18:18:30 +0000"
+    },
+    "done": true
+  },
+  "moredelight:combat/stone_knife": {
+    "criteria": {
+      "has_stone": "2025-01-28 18:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-28 18:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-28 18:19:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-01-28 18:21:56 +0000",
+      "golden_apple": "2025-01-28 18:22:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-01-28 18:22:35 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-01-28 18:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-28 18:24:11 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:challenge_gatekeeper": {
+    "criteria": {
+      "challenged": "2025-01-28 18:42:08 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:all_starlight_biomes": {
+    "criteria": {
+      "in_starlight_forest": "2025-01-28 18:45:34 +0000",
+      "in_torreya_forest": "2025-01-28 18:45:38 +0000",
+      "in_dark_swamp": "2025-01-28 18:44:46 +0000"
+    },
+    "done": false
+  },
+  "eternal_starlight:root": {
+    "criteria": {
+      "in_dim": "2025-01-28 18:44:46 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:enter_starlight": {
+    "criteria": {
+      "in_dim": "2025-01-28 18:44:46 +0000"
     },
     "done": true
   },
