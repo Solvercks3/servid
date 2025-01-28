@@ -496,6 +496,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-28 19:28:16 +0000"
+    },
+    "done": true
+  },
   "eternal_starlight:challenge_gatekeeper": {
     "criteria": {
       "challenged": "2025-01-28 18:42:08 +0000"
