@@ -21664,3 +21664,45 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [03Mar2025 18:21:22.609] [Worker-Main-9/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=124, y=79, z=786} Block{productivebees:spruce_wood_nest}[axis=y,facing=down]
 [03Mar2025 18:22:02.250] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_1
 [03Mar2025 18:22:02.255] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_2
+[03Mar2025 18:22:12.242] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=116, y=79, z=810} Block{productivebees:spruce_wood_nest}[axis=y,facing=north]
+[03Mar2025 18:23:01.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 18:23:01.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 18:23:06.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Best Friends Forever]
+[03Mar2025 18:23:13.830] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[03Mar2025 18:24:27.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Bison
+[03Mar2025 18:24:27.854] [Server thread/DEBUG] [tombstone/]: A new grave of the player Solvercks was created at position [x:249, y:63, z:525, dim:minecraft:overworld]
+[03Mar2025 18:24:27.908] [Server thread/INFO] [tombstone/]: The player Solvercks has successfully been saved
+[03Mar2025 18:24:30.611] [Server thread/DEBUG] [twilightforest/]: Player Solvercks (96ecdbd9-974d-34e4-8d4d-8d587237377a) respawned and received items held in storage
+[03Mar2025 18:24:56.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Set the time to 1000]
+[03Mar2025 18:26:17.295] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-90, y=-56, z=48}
+[03Mar2025 18:26:21.212] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=28}
+[03Mar2025 18:26:21.212] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
+[03Mar2025 18:26:32.051] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=30, y=-56, z=-36}
+[03Mar2025 18:26:32.051] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=32, y=-56, z=-36}
+[03Mar2025 18:26:32.052] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=37, y=-56, z=-36}
+[03Mar2025 18:26:32.057] [Worker-Main-9/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=17, y=67, z=315} Block{productivebees:spruce_wood_nest}[axis=y,facing=south]
+[03Mar2025 18:26:32.409] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=39, y=-56, z=-36}
+[03Mar2025 18:26:32.414] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=17, y=66, z=299} Block{productivebees:spruce_wood_nest}[axis=y,facing=north]
+[03Mar2025 18:26:35.194] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=37, y=-56, z=-55}
+[03Mar2025 18:26:35.194] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-56, z=-55}
+[03Mar2025 18:26:44.388] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[03Mar2025 18:26:47.171] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.349523544311523) to LOW (avg. 21.35970687866211)
+[03Mar2025 18:26:54.671] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.35970687866211) to VERY_LOW (avg. 16.69995880126953)
+[03Mar2025 18:27:08.630] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-144, y=68, z=213} Block{productivebees:snow_nest}[facing=north]
+[03Mar2025 18:28:01.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 18:28:01.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 18:28:02.976] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=28}
+[03Mar2025 18:28:02.976] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
+[03Mar2025 18:28:03.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "111" Y:" 76" Z:" 717 "It will Disappear in 4 DAYS!
+[03Mar2025 18:29:29.637] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[03Mar2025 18:29:39.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks fell from a high place
+[03Mar2025 18:29:39.380] [Server thread/DEBUG] [tombstone/]: A new grave of the player Solvercks was created at position [x:117, y:79, z:78, dim:minecraft:overworld]
+[03Mar2025 18:29:39.440] [Server thread/INFO] [tombstone/]: The player Solvercks has successfully been saved
+[03Mar2025 18:29:40.607] [Server thread/DEBUG] [twilightforest/]: Player Solvercks (96ecdbd9-974d-34e4-8d4d-8d587237377a) respawned and received items held in storage
+[03Mar2025 18:30:17.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to tonisancho5]
+[03Mar2025 18:31:40.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to tonisancho5]
+[03Mar2025 18:31:41.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks fell from a high place
+[03Mar2025 18:31:41.329] [Server thread/DEBUG] [tombstone/]: A new grave of the player Solvercks was created at position [x:128, y:78, z:596, dim:minecraft:overworld]
+[03Mar2025 18:31:41.389] [Server thread/INFO] [tombstone/]: The player Solvercks has successfully been saved
+[03Mar2025 18:31:42.716] [Server thread/DEBUG] [twilightforest/]: Player Solvercks (96ecdbd9-974d-34e4-8d4d-8d587237377a) respawned and received items held in storage
+[03Mar2025 18:31:42.909] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-95, y=-56, z=53}

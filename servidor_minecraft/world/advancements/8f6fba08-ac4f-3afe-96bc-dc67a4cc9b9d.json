@@ -603,7 +603,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-03-03 17:43:19 +0000",
-      "minecraft:lush_caves": "2025-03-03 18:17:34 +0000"
+      "minecraft:lush_caves": "2025-03-03 18:17:34 +0000",
+      "minecraft:plains": "2025-03-03 18:20:52 +0000"
     },
     "done": false
   },
@@ -623,6 +624,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-03 18:04:27 +0000",
       "minecraft:spider": "2025-03-03 18:05:13 +0000",
+      "minecraft:enderman": "2025-03-03 18:19:48 +0000",
       "minecraft:zombie": "2025-03-03 17:45:54 +0000"
     },
     "done": false
@@ -665,6 +667,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "fir_clearing": "2025-03-03 18:22:01 +0000",
       "snowy_maple_woods": "2025-03-03 18:06:44 +0000"
     },
     "done": false
@@ -681,9 +684,45 @@
     },
     "done": true
   },
+  "easy_mob_farm:root": {
+    "criteria": {
+      "crafting_table": "2025-03-03 18:19:53 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/enduring_capture_net": {
+    "criteria": {
+      "has_string": "2025-03-03 18:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-03 18:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-03 18:16:03 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/mystic_binding_crystal": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-03 18:24:46 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/filter/no_meat_filter": {
+    "criteria": {
+      "has_porkchop": "2025-03-03 18:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-03 18:19:53 +0000"
     },
     "done": true
   },
