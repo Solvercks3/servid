@@ -2475,3 +2475,28 @@ SAVING ENABLED - BACKUP COMPLETE!
 [03Mar2025 19:32:06.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3803ms or 76 ticks behind
 [03Mar2025 19:32:06.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -3.0152689404785633,-13.0,1.4806249104440212
 [03Mar2025 19:32:09.671] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 28.34630178) to VERY_LOW (avg. 12.83272771)
+[03Mar2025 19:35:25.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "288" Y:" 93" Z:" 737 "It will Disappear in 4 DAYS!
+[03Mar2025 19:36:31.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4861ms or 97 ticks behind
+[03Mar2025 19:36:35.771] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.557868003845215) to LOW (avg. 21.61212158203125)
+[03Mar2025 19:36:37.020] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 12.83272771) to LOW (avg. 18.68804785)
+[03Mar2025 19:36:43.271] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.61212158203125) to VERY_LOW (avg. 13.558507919311523)
+[03Mar2025 19:36:53.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3552ms or 71 ticks behind
+[03Mar2025 19:36:53.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -1.5,-13.0,1.5
+[03Mar2025 19:36:55.571] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 18.68804785) to VERY_LOW (avg. 11.70396216)
+[03Mar2025 19:38:09.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Undead Knight
+[03Mar2025 19:38:09.339] [Server thread/INFO] [tombstone/]: The player Solvercks has successfully been saved
+[03Mar2025 19:38:22.145] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-90, y=-56, z=48}
+[03Mar2025 19:38:22.163] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=36}
+[03Mar2025 19:38:22.163] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=38}
+[03Mar2025 19:38:22.163] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
+[03Mar2025 19:39:00.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Lore Writer]
+[03Mar2025 19:39:01.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has reached the goal [Here They Come]
+[03Mar2025 19:40:58.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Suit Up]
+[03Mar2025 19:41:43.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved wrongly!
+[03Mar2025 19:41:49.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[03Mar2025 19:41:56.420] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.897992134094238) to LOW (avg. 20.343347549438477)
+[03Mar2025 19:41:57.671] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 14.32945008) to LOW (avg. 20.81249329)
+[03Mar2025 19:42:03.921] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.343347549438477) to VERY_LOW (avg. 13.85650634765625)
+[03Mar2025 19:42:17.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "78" Y:" 64" Z:" 356 "It will Disappear in 4 DAYS!
+[03Mar2025 19:43:25.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has reached the goal [Bone Crusher]
+[03Mar2025 19:43:32.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [A Strange Grave Dust]

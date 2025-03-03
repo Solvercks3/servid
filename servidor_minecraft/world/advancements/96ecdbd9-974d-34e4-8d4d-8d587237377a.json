@@ -738,6 +738,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-03 19:39:01 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/upgrade/enchancement/loot_enhancement": {
     "criteria": {
       "has_emerald": "2025-03-03 19:24:01 +0000"
@@ -777,6 +783,12 @@
   "easy_mob_farm:recipes/upgrade/slot/big_slot_upgrade": {
     "criteria": {
       "has_chest": "2025-03-03 18:49:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-03 19:43:25 +0000"
     },
     "done": true
   },

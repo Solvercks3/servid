@@ -740,9 +740,16 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-03-03 18:28:40 +0000",
+      "baked_potato": "2025-03-03 19:43:12 +0000",
       "cooked_chicken": "2025-03-03 19:27:34 +0000"
     },
     "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-03-03 19:40:58 +0000"
+    },
+    "done": true
   },
   "minecraft:story/iron_tools": {
     "criteria": {
@@ -756,6 +763,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-03-03 19:43:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
       "hollow_oak_sapling": "2025-03-03 19:21:28 +0000"
@@ -765,6 +778,12 @@
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2025-03-03 19:33:29 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier1_mob_farm_template": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:34:36 +0000"
     },
     "done": true
   },
@@ -792,6 +811,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/enchancement/loot_enhancement": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:34:36 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_catcher/ironbound_containment_cage": {
     "criteria": {
       "has_iron_bars": "2025-03-03 19:15:56 +0000"
@@ -816,6 +841,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_farm/monster_plains_cave_farm": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-03 19:34:36 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/upgrade/slot/big_slot_upgrade": {
     "criteria": {
       "has_chest": "2025-03-03 19:22:17 +0000"
@@ -837,6 +868,12 @@
   "easy_mob_farm:recipes/mob_farm/lucky_drop_farm": {
     "criteria": {
       "has_iron_bars": "2025-03-03 19:15:56 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2025-03-03 19:39:00 +0000"
     },
     "done": true
   },

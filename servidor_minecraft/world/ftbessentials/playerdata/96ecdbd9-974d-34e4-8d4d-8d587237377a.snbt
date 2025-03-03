@@ -6,7 +6,6 @@
 	last_seen: { dim: "minecraft:overworld", x: 26, y: 101, z: 4, time: 1741025653136L, xRot: 20.399973f, yRot: -52.799744f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 306, y: 63, z: 379, time: 1741025194848L }
 		{ dim: "minecraft:overworld", x: 258, y: 65, z: 525, time: 1741026270519L }
 		{ dim: "minecraft:overworld", x: 117, y: 79, z: 78, time: 1741026580545L }
 		{ dim: "minecraft:overworld", x: 59, y: 83, z: 102, time: 1741026617045L }
@@ -16,6 +15,7 @@
 		{ dim: "minecraft:overworld", x: -9, y: 76, z: 9, time: 1741027130246L }
 		{ dim: "sololeveling:dungeon_dimension_beru", x: -9968248, y: 91, z: 12585049, time: 1741028753302L }
 		{ dim: "sololeveling:dungeon_dimension_beru", x: -9968248, y: 91, z: 12585049, time: 1741028821950L }
+		{ dim: "sololeveling:dungeon_dimension_sewers", x: 4168617, y: 105, z: 1107739, time: 1741030691350L }
 	]
 	homes: { }
 	kit_use_times: { }

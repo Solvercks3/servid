@@ -24444,3 +24444,77 @@ SAVING ENABLED - BACKUP COMPLETE!
 [03Mar2025 19:32:09.671] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 28.34630178) to VERY_LOW (avg. 12.83272771)
 [03Mar2025 19:33:30.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Mar2025 19:33:30.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 19:35:25.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "288" Y:" 93" Z:" 737 "It will Disappear in 4 DAYS!
+[03Mar2025 19:36:29.171] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_descent_0 is being run through DFU (hash 99432fb44b076deca6e67451c1b4c80e302ce68a73538f4e9cc8f966efa0278d), this will cause launch time delays
+[03Mar2025 19:36:29.248] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_spawner_skeleton_0 is being run through DFU (hash a35634cc515a1421774eecdd8a3a872dc15e3a6d258bfd10ca7320f120db80e1), this will cause launch time delays
+[03Mar2025 19:36:29.390] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_triple_0 is being run through DFU (hash b7d207f9e9204ae5d8d65d8199c23198e1b71579ed216248201d64790d7cf759), this will cause launch time delays
+[03Mar2025 19:36:29.462] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_straight_0
+[03Mar2025 19:36:29.467] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_spawner_skeleton_3 is being run through DFU (hash a481889cd1e8d7c40c23dcd34c100dbe2db2465fa70cee3440060291f81c98f0), this will cause launch time delays
+[03Mar2025 19:36:29.472] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_spawner_skeleton_2 is being run through DFU (hash ac4d6c639a806f188581433888f7af3bbc18a30f6901df21e8e73191a1a18bcc), this will cause launch time delays
+[03Mar2025 19:36:29.477] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_spawner_skeleton_1 is being run through DFU (hash e6df13eaef7a74d1965f3de3582b471f6b1f770df1b94c1df9dfeba244bd2588), this will cause launch time delays
+[03Mar2025 19:36:29.487] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_turn_0 is being run through DFU (hash e25d526a570fcd152c18558d5226a2f763e58a6bcb4c84a917fa966e79de7140), this will cause launch time delays
+[03Mar2025 19:36:31.481] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Mar2025 19:36:31.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4861ms or 97 ticks behind
+[03Mar2025 19:36:32.458] [Worker-Main-44/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-29629341, y=123, z=19041772} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[03Mar2025 19:36:35.771] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.557868003845215) to LOW (avg. 21.61212158203125)
+[03Mar2025 19:36:36.593] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-29629500 | 48 | 19041940).
+[03Mar2025 19:36:36.593] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[03Mar2025 19:36:36.593] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[03Mar2025 19:36:36.593] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[03Mar2025 19:36:36.594] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[03Mar2025 19:36:36.594] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[03Mar2025 19:36:36.594] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(3) Nodes and 6(0) Rooms
+[03Mar2025 19:36:36.594] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[03Mar2025 19:36:36.594] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 2(10) Nodes and 5(0) Rooms
+[03Mar2025 19:36:36.594] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[03Mar2025 19:36:36.594] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 5(0) Rooms
+[03Mar2025 19:36:37.020] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 12.83272771) to LOW (avg. 18.68804785)
+[03Mar2025 19:36:37.187] [Worker-Main-36/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-29629288, y=124, z=19041862} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[03Mar2025 19:36:37.530] [Worker-Main-53/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-29629404, y=121, z=19041721} Block{productivebees:jungle_wood_nest}[axis=y,facing=south]
+[03Mar2025 19:36:37.620] [Worker-Main-43/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-29629261, y=104, z=19041838} Block{productivebees:jungle_wood_nest}[axis=y,facing=south]
+[03Mar2025 19:36:43.271] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.61212158203125) to VERY_LOW (avg. 13.558507919311523)
+[03Mar2025 19:36:49.024] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers]
+[03Mar2025 19:36:53.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3552ms or 71 ticks behind
+[03Mar2025 19:36:53.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -1.5,-13.0,1.5
+[03Mar2025 19:36:55.571] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 18.68804785) to VERY_LOW (avg. 11.70396216)
+[03Mar2025 19:38:09.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Undead Knight
+[03Mar2025 19:38:09.289] [Server thread/DEBUG] [tombstone/]: A new grave of the player Solvercks was created at position [x:4168617, y:105, z:1107739, dim:sololeveling:dungeon_dimension_sewers]
+[03Mar2025 19:38:09.339] [Server thread/INFO] [tombstone/]: The player Solvercks has successfully been saved
+[03Mar2025 19:38:11.396] [Server thread/DEBUG] [twilightforest/]: Player Solvercks (96ecdbd9-974d-34e4-8d4d-8d587237377a) respawned and received items held in storage
+[03Mar2025 19:38:22.145] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-90, y=-56, z=48}
+[03Mar2025 19:38:22.156] [Worker-Main-43/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-208, y=65, z=67} Block{productivebees:spruce_wood_nest}[axis=y,facing=south]
+[03Mar2025 19:38:22.163] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=36}
+[03Mar2025 19:38:22.163] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=38}
+[03Mar2025 19:38:22.163] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
+[03Mar2025 19:38:22.230] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-207, y=64, z=97} Block{productivebees:snow_nest}[facing=north]
+[03Mar2025 19:38:38.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 19:38:38.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 19:38:39.062] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers]
+[03Mar2025 19:39:00.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Lore Writer]
+[03Mar2025 19:39:01.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has reached the goal [Here They Come]
+[03Mar2025 19:40:58.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Suit Up]
+[03Mar2025 19:41:43.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved wrongly!
+[03Mar2025 19:41:47.754] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[03Mar2025 19:41:47.774] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[03Mar2025 19:41:47.797] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[03Mar2025 19:41:47.804] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[03Mar2025 19:41:47.808] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[03Mar2025 19:41:47.831] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[03Mar2025 19:41:47.849] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1 is being run through DFU (hash b8b12295d93b5da172231e437ecb527d00901657537eae5a5a30d6f971865780), this will cause launch time delays
+[03Mar2025 19:41:47.974] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[03Mar2025 19:41:47.985] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[03Mar2025 19:41:47.986] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[03Mar2025 19:41:47.990] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_0 is being run through DFU (hash 2c9ffcc34c925591d473c7457a436981055cb31f755343e045c50f9d8d013e75), this will cause launch time delays
+[03Mar2025 19:41:47.997] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_pillager_0 is being run through DFU (hash 5b954e6c9a153dc96aee542ae8e2813d5466cd4bdc9d7627224d581e8e589b37), this will cause launch time delays
+[03Mar2025 19:41:48.046] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[03Mar2025 19:41:48.046] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0 is being run through DFU (hash 1bdbb5904e08c005d77c14cf57dae04bc3b5c0b8f46bdaf5c0a9ae4bb5d4f0a6), this will cause launch time delays
+[03Mar2025 19:41:49.253] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Mar2025 19:41:49.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[03Mar2025 19:41:56.420] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.897992134094238) to LOW (avg. 20.343347549438477)
+[03Mar2025 19:41:57.671] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 14.32945008) to LOW (avg. 20.81249329)
+[03Mar2025 19:42:03.921] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.343347549438477) to VERY_LOW (avg. 13.85650634765625)
+[03Mar2025 19:42:17.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "78" Y:" 64" Z:" 356 "It will Disappear in 4 DAYS!
+[03Mar2025 19:43:25.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has reached the goal [Bone Crusher]
+[03Mar2025 19:43:32.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [A Strange Grave Dust]
+[03Mar2025 19:43:40.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 19:43:40.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
