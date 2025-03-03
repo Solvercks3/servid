@@ -628,7 +628,9 @@
       "minecraft:skeleton": "2025-03-03 18:04:27 +0000",
       "minecraft:spider": "2025-03-03 18:05:13 +0000",
       "minecraft:creeper": "2025-03-03 19:01:03 +0000",
+      "minecraft:wither_skeleton": "2025-03-03 19:47:47 +0000",
       "minecraft:enderman": "2025-03-03 18:19:48 +0000",
+      "minecraft:stray": "2025-03-03 19:47:01 +0000",
       "minecraft:zombie": "2025-03-03 17:45:54 +0000"
     },
     "done": false
@@ -787,6 +789,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-03 19:44:15 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/root": {
     "criteria": {
       "flower": "2025-03-03 19:33:29 +0000"
@@ -853,9 +861,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-03 19:52:17 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/experience_enhancement": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-03 19:51:49 +0000"
+    },
+    "done": true
+  },
   "botania:main/functional_flower": {
     "criteria": {
       "flower": "2025-03-03 19:17:28 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/sword_enhancement": {
+    "criteria": {
+      "has_iron_sword": "2025-03-03 19:48:11 +0000"
     },
     "done": true
   },
@@ -874,6 +900,12 @@
   "enigmaticlegacy:main/lore_inscriber": {
     "criteria": {
       "etherium": "2025-03-03 19:39:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-03-03 19:46:20 +0000"
     },
     "done": true
   },
