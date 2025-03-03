@@ -2405,3 +2405,58 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [03Mar2025 19:09:23.456] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
 [03Mar2025 19:09:24.441] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-95, y=-56, z=53}
 [03Mar2025 19:10:45.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved wrongly!
+[03Mar2025 19:13:01.835] [Server thread/INFO] [computer.heather.advancedbackups.AdvancedBackups/]: 
+***************************************
+SAVING DISABLED - PREPARING FOR BACKUP!
+***************************************
+[03Mar2025 19:13:02.076] [Server thread/INFO] [computer.heather.advancedbackups.AdvancedBackups/]: 
+*************************************
+SAVE COMPLETE - PREPARING FOR BACKUP!
+*************************************
+[03Mar2025 19:13:07.080] [AB Active Backup Thread/INFO] [computer.heather.advancedbackups.AdvancedBackups/]: Preparing differential backup with name:
+  backup_2025-03-03_19-13-07
+[03Mar2025 19:13:12.082] [Server thread/INFO] [computer.heather.advancedbackups.AdvancedBackups/]: Backup in progress : 77%
+[03Mar2025 19:13:12.730] [Server thread/INFO] [computer.heather.advancedbackups.AdvancedBackups/]: 
+*********************************
+SAVING ENABLED - BACKUP COMPLETE!
+*********************************
+[03Mar2025 19:13:20.675] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=28}
+[03Mar2025 19:13:20.676] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
+[03Mar2025 19:14:10.202] [Worker-Main-36/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/26352, l='ServerLevel[world]', x=348.50, y=58.00, z=996.50] as it would cause deadlock
+[03Mar2025 19:14:15.557] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-95, y=-56, z=53}
+[03Mar2025 19:14:26.339] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/24522, l='ServerLevel[world]', x=524.42, y=4.46, z=734.33, removed=DISCARDED]
+[03Mar2025 19:14:27.121] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.315391540527344) to LOW (avg. 21.226858139038086)
+[03Mar2025 19:14:57.120] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.49343490600586) to VERY_LOW (avg. 14.794463157653809)
+[03Mar2025 19:15:19.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "151" Y:" 71" Z:" 557 "It will Disappear in 4 DAYS!
+[03Mar2025 19:17:28.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [An Ecstatic Vivace]
+[03Mar2025 19:19:39.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -1.5,-13.0,1.5
+[03Mar2025 19:21:16.135] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/24522, l='ServerLevel[world]', x=524.42, y=4.46, z=734.33, removed=DISCARDED]
+[03Mar2025 19:21:16.236] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/24523, l='ServerLevel[world]', x=525.66, y=4.59, z=734.33, removed=DISCARDED]
+[03Mar2025 19:21:22.286] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/24523, l='ServerLevel[world]', x=525.66, y=4.59, z=734.33, removed=DISCARDED]
+[03Mar2025 19:21:24.889] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/24522, l='ServerLevel[world]', x=524.42, y=4.46, z=734.33, removed=DISCARDED]
+[03Mar2025 19:21:25.087] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/24523, l='ServerLevel[world]', x=525.66, y=4.59, z=734.33, removed=DISCARDED]
+[03Mar2025 19:21:36.522] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=28}
+[03Mar2025 19:21:36.522] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
+[03Mar2025 19:21:40.999] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=36}
+[03Mar2025 19:21:40.999] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=38}
+[03Mar2025 19:21:41.000] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
+[03Mar2025 19:21:41.027] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-90, y=-56, z=48}
+[03Mar2025 19:21:42.133] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.246881484985352) to LOW (avg. 24.90749740600586)
+[03Mar2025 19:21:45.123] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-95, y=-56, z=53}
+[03Mar2025 19:21:57.543] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=28}
+[03Mar2025 19:21:57.543] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
+[03Mar2025 19:21:58.745] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=36}
+[03Mar2025 19:21:58.745] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=38}
+[03Mar2025 19:21:58.745] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
+[03Mar2025 19:21:58.793] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-90, y=-56, z=48}
+[03Mar2025 19:22:00.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "185" Y:" 75" Z:" 916 "It will Disappear in 4 DAYS!
+[03Mar2025 19:22:00.238] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-95, y=-56, z=53}
+[03Mar2025 19:22:15.408] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-90, y=-56, z=48}
+[03Mar2025 19:22:27.120] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.72330093383789) to VERY_LOW (avg. 16.16031265258789)
+[03Mar2025 19:22:33.968] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-95, y=-56, z=53}
+[03Mar2025 19:22:33.997] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=36}
+[03Mar2025 19:22:33.997] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=38}
+[03Mar2025 19:22:33.997] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
+[03Mar2025 19:22:34.068] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=28}
+[03Mar2025 19:22:34.068] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
+[03Mar2025 19:23:04.620] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.981204986572266) to LOW (avg. 25.05019760131836)

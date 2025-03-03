@@ -658,6 +658,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-03 18:59:12 +0000",
       "minecraft:spider": "2025-03-03 18:05:54 +0000",
+      "minecraft:creeper": "2025-03-03 19:17:26 +0000",
+      "minecraft:stray": "2025-03-03 19:18:02 +0000",
       "minecraft:zombie": "2025-03-03 18:24:01 +0000",
       "minecraft:drowned": "2025-03-03 18:59:32 +0000"
     },

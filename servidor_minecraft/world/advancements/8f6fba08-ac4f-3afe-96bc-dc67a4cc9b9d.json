@@ -603,6 +603,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-03-03 17:43:19 +0000",
+      "minecraft:beach": "2025-03-03 19:14:23 +0000",
       "minecraft:stony_shore": "2025-03-03 18:31:51 +0000",
       "minecraft:lush_caves": "2025-03-03 18:17:34 +0000",
       "minecraft:ocean": "2025-03-03 18:48:13 +0000",
@@ -754,9 +755,33 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_catcher/ironbound_containment_cage": {
+    "criteria": {
+      "has_iron_bars": "2025-03-03 19:15:56 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-03-03 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "flower": "2025-03-03 19:17:28 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/lucky_drop_farm": {
+    "criteria": {
+      "has_iron_bars": "2025-03-03 19:15:56 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/pollen_trap_enhancement": {
+    "criteria": {
+      "has_iron_bars": "2025-03-03 19:15:56 +0000"
     },
     "done": true
   },
