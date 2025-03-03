@@ -659,6 +659,7 @@
       "minecraft:skeleton": "2025-03-03 18:59:12 +0000",
       "minecraft:spider": "2025-03-03 18:05:54 +0000",
       "minecraft:creeper": "2025-03-03 19:17:26 +0000",
+      "minecraft:enderman": "2025-03-03 19:21:04 +0000",
       "minecraft:stray": "2025-03-03 19:18:02 +0000",
       "minecraft:zombie": "2025-03-03 18:24:01 +0000",
       "minecraft:drowned": "2025-03-03 18:59:32 +0000"
@@ -719,9 +720,27 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/enchancement/luck_enhancement": {
+    "criteria": {
+      "has_emerald": "2025-03-03 19:24:01 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_catcher/enduring_capture_net": {
     "criteria": {
       "has_feather": "2025-03-03 18:42:20 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/animal_plains_farm": {
+    "criteria": {
+      "has_egg": "2025-03-03 19:22:16 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/loot_enhancement": {
+    "criteria": {
+      "has_emerald": "2025-03-03 19:24:01 +0000"
     },
     "done": true
   },
@@ -746,6 +765,12 @@
   "easy_mob_farm:recipes/upgrade/slot/small_slot_upgrade": {
     "criteria": {
       "has_chest": "2025-03-03 18:49:45 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_eye": {
+    "criteria": {
+      "impossible": "2025-03-03 19:22:20 +0000"
     },
     "done": true
   },
@@ -788,6 +813,12 @@
     },
     "done": false
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-03 19:31:12 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/upgrade/enchancement/pollen_trap_enhancement": {
     "criteria": {
       "has_iron_bars": "2025-03-03 18:34:03 +0000"
@@ -809,6 +840,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-03 18:45:12 +0000"
+    },
+    "done": true
+  },
+  "crystalcraft_unlimited_java:the_colours_of_the_rainbow": {
+    "criteria": {
+      "the_colours_of_the_rainbow_0": "2025-03-03 19:30:48 +0000"
     },
     "done": true
   },

@@ -24422,3 +24422,25 @@ SAVING ENABLED - BACKUP COMPLETE!
 [03Mar2025 19:22:56.369] [Worker-Main-43/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=864, y=64, z=645} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
 [03Mar2025 19:23:00.398] [Worker-Main-36/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=733, y=64, z=533} Block{productivebees:sugar_cane_nest}[facing=north]
 [03Mar2025 19:23:04.620] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.981204986572266) to LOW (avg. 25.05019760131836)
+[03Mar2025 19:23:12.121] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.05019760131836) to VERY_LOW (avg. 17.954313278198242)
+[03Mar2025 19:23:26.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 19:23:26.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 19:23:27.120] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.954313278198242) to LOW (avg. 28.44792366027832)
+[03Mar2025 19:23:34.621] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.44792366027832) to VERY_LOW (avg. 18.141489028930664)
+[03Mar2025 19:24:39.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Acquire Hardware]
+[03Mar2025 19:28:26.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 19:28:26.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 19:28:38.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Isn't It Iron Pick]
+[03Mar2025 19:28:41.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "218" Y:" 64" Z:" 515 "It will Disappear in 4 DAYS!
+[03Mar2025 19:30:48.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [The colours of the rainbow]
+[03Mar2025 19:30:56.143] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=36}
+[03Mar2025 19:30:56.143] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=38}
+[03Mar2025 19:30:56.144] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
+[03Mar2025 19:30:56.154] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-90, y=-56, z=48}
+[03Mar2025 19:31:12.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Diamonds!]
+[03Mar2025 19:32:02.063] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers]
+[03Mar2025 19:32:06.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3803ms or 76 ticks behind
+[03Mar2025 19:32:06.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -3.0152689404785633,-13.0,1.4806249104440212
+[03Mar2025 19:32:09.671] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 28.34630178) to VERY_LOW (avg. 12.83272771)
+[03Mar2025 19:33:30.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 19:33:30.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

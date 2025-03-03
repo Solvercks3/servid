@@ -739,9 +739,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-03-03 18:28:40 +0000"
+      "cooked_mutton": "2025-03-03 18:28:40 +0000",
+      "cooked_chicken": "2025-03-03 19:27:34 +0000"
     },
     "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-03 19:28:38 +0000"
+    },
+    "done": true
   },
   "naturesaura:positive_imbalance": {
     "criteria": {
@@ -749,9 +756,39 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "hollow_oak_sapling": "2025-03-03 19:21:28 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2025-03-03 19:33:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2025-03-03 19:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-03 19:24:39 +0000"
+    },
+    "done": true
+  },
   "sololeveling:regeneration_level_2": {
     "criteria": {
       "regeneration_level_2": "2025-03-03 19:07:00 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/animal_plains_farm": {
+    "criteria": {
+      "has_egg": "2025-03-03 19:26:43 +0000"
     },
     "done": true
   },
@@ -767,9 +804,33 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/slot/small_slot_upgrade": {
+    "criteria": {
+      "has_chest": "2025-03-03 19:22:17 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_eye": {
+    "criteria": {
+      "impossible": "2025-03-03 19:33:07 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/slot/big_slot_upgrade": {
+    "criteria": {
+      "has_chest": "2025-03-03 19:22:17 +0000"
+    },
+    "done": true
+  },
   "botania:main/functional_flower": {
     "criteria": {
       "flower": "2025-03-03 19:17:28 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier2_mob_farm_template": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-03 19:24:39 +0000"
     },
     "done": true
   },
