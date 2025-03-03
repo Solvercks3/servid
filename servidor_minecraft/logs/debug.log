@@ -22898,3 +22898,85 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [03Mar2025 19:01:51.856] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_beru]
 [03Mar2025 19:01:55.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
 [03Mar2025 19:01:56.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! 39.5,5.0,2.5
+[03Mar2025 19:03:21.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 19:03:21.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 19:04:33.448] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_1 is being run through DFU (hash 44addb374d9ac036855183d302d2e74026c24cfbd8b8e4d2ef671fa12e214545), this will cause launch time delays
+[03Mar2025 19:04:33.529] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_0 is being run through DFU (hash 6603ea3950c25aaf2f6c0b6cb017e15a320ab1f8df25deda98bad2117e6f4cb2), this will cause launch time delays
+[03Mar2025 19:04:33.534] [Worker-Main-44/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_2 is being run through DFU (hash 1a06c488f13ce8c7d22971137ffaeed535f9d6048984f671b297d4636a860f08), this will cause launch time delays
+[03Mar2025 19:04:33.873] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snowman_1
+[03Mar2025 19:04:33.876] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snowman_2
+[03Mar2025 19:04:35.391] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_beru] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Mar2025 19:04:35.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[03Mar2025 19:04:38.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.347968101501465) to LOW (avg. 33.132450103759766)
+[03Mar2025 19:04:38.963] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-413}
+[03Mar2025 19:04:38.964] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-415}
+[03Mar2025 19:04:40.120] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 14.79070373) to LOW (avg. 23.00530973)
+[03Mar2025 19:04:40.450] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-90, y=-56, z=48}
+[03Mar2025 19:04:40.807] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=36}
+[03Mar2025 19:04:40.808] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=38}
+[03Mar2025 19:04:40.808] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
+[03Mar2025 19:04:40.819] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=28}
+[03Mar2025 19:04:40.819] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
+[03Mar2025 19:04:41.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Luscious Surroundings]
+[03Mar2025 19:04:53.871] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.132450103759766) to VERY_LOW (avg. 16.089027404785156)
+[03Mar2025 19:05:06.059] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_beru]
+[03Mar2025 19:05:06.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! 39.5,5.0,2.5
+[03Mar2025 19:05:31.308] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_beru]
+[03Mar2025 19:05:31.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 moved too quickly! 39.5,5.0,2.5
+[03Mar2025 19:05:49.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was blown up by Ant King
+[03Mar2025 19:05:49.031] [Server thread/DEBUG] [tombstone/]: A new grave of the player Solvercks was created at position [x:-9968263, y:92, z:12585131, dim:sololeveling:dungeon_dimension_beru]
+[03Mar2025 19:05:49.045] [Server thread/INFO] [tombstone/]: The player Solvercks has successfully been saved
+[03Mar2025 19:05:52.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! 5.406254777684808,-3.6090999984741217,-96.14364760555327
+[03Mar2025 19:05:53.350] [Server thread/DEBUG] [twilightforest/]: Player Solvercks (96ecdbd9-974d-34e4-8d4d-8d587237377a) respawned and received items held in storage
+[03Mar2025 19:06:00.460] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_beru]
+[03Mar2025 19:06:00.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! 39.5,5.0,2.5
+[03Mar2025 19:06:59.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Ant King
+[03Mar2025 19:06:59.680] [Server thread/DEBUG] [tombstone/]: A new grave of the player Solvercks was created at position [x:-9968248, y:91, z:12585095, dim:sololeveling:dungeon_dimension_beru]
+[03Mar2025 19:06:59.696] [Server thread/INFO] [tombstone/]: The player Solvercks has successfully been saved
+[03Mar2025 19:06:59.710] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Mar2025 19:06:59.710] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[03Mar2025 19:06:59.710] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Mar2025 19:06:59.711] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Mar2025 19:06:59.711] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Mar2025 19:07:01.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -0.3031379785388708,0.0,-44.15536995604634
+[03Mar2025 19:07:01.995] [Server thread/DEBUG] [twilightforest/]: Player Solvercks (96ecdbd9-974d-34e4-8d4d-8d587237377a) respawned and received items held in storage
+[03Mar2025 19:07:06.606] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_beru]
+[03Mar2025 19:07:06.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! 39.5,5.0,2.5
+[03Mar2025 19:08:23.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 19:08:23.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 19:08:31.938] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_beru] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Mar2025 19:08:32.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "303" Y:" 71" Z:" 769 "It will Disappear in 4 DAYS!
+[03Mar2025 19:08:42.407] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_beru] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Mar2025 19:08:42.611] [Worker-Main-1/DEBUG] [ModernFix/]: Structure awesomedungeonocean:ocean_quad is being run through DFU (hash ae4d983986e16fccc7918e7da40bfbacfce2e6c60c4c00959fe57747ee60ca5f), this will cause launch time delays
+[03Mar2025 19:08:54.375] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers]
+[03Mar2025 19:08:58.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3256ms or 65 ticks behind
+[03Mar2025 19:08:58.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 23.00530973) to VERY_LOW (avg. 8.49719398)
+[03Mar2025 19:08:58.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 moved too quickly! -1.5,-13.0,1.5
+[03Mar2025 19:09:04.457] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers]
+[03Mar2025 19:09:04.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -1.5,-13.0,1.5
+[03Mar2025 19:09:08.559] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[03Mar2025 19:09:08.664] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:maya_temple
+[03Mar2025 19:09:09.038] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ars_nouveau:wilden_den_top_defender is being run through DFU (hash 62ccdcac698f875a727174c258ebb661c6f3ccd9b1301050b979fdf9bb9fb611), this will cause launch time delays
+[03Mar2025 19:09:09.127] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ars_nouveau:wilden_den_top_hunter is being run through DFU (hash 4df74b3332b0b0a41737d16b61c2574da673b4cf25cf2db8459397ec3c03fe95), this will cause launch time delays
+[03Mar2025 19:09:09.214] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ars_nouveau:wilden_den_top_stalker is being run through DFU (hash d0dd3a662f93929e4a7387e78891f1d2bd11c6491c0fb4b7eaa7b3caa9888ae3), this will cause launch time delays
+[03Mar2025 19:09:10.702] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Mar2025 19:09:11.419] [Worker-Main-43/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=12731140, y=63, z=-25948090} Block{productivebees:sand_nest}[facing=up]
+[03Mar2025 19:09:13.935] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 8.563817024230957) to LOW (avg. 21.04665756225586)
+[03Mar2025 19:09:14.372] [Worker-Main-44/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=12731133, y=63, z=-25948062} Block{productivebees:sand_nest}[facing=up]
+[03Mar2025 19:09:16.606] [Worker-Main-36/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=12731146, y=65, z=-25948160} Block{productivebees:sand_nest}[facing=south]
+[03Mar2025 19:09:16.626] [Worker-Main-53/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=12731154, y=63, z=-25948150} Block{productivebees:sand_nest}[facing=up]
+[03Mar2025 19:09:19.570] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=36}
+[03Mar2025 19:09:19.571] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=38}
+[03Mar2025 19:09:19.572] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
+[03Mar2025 19:09:19.620] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.04665756225586) to VERY_LOW (avg. 18.70999526977539)
+[03Mar2025 19:09:19.663] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-90, y=-56, z=48}
+[03Mar2025 19:09:20.871] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 8.49719398) to LOW (avg. 15.638388630000001)
+[03Mar2025 19:09:20.905] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-95, y=-56, z=53}
+[03Mar2025 19:09:21.959] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=28}
+[03Mar2025 19:09:21.960] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
+[03Mar2025 19:09:23.194] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-90, y=-56, z=48}
+[03Mar2025 19:09:23.455] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=36}
+[03Mar2025 19:09:23.455] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=38}
+[03Mar2025 19:09:23.456] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
+[03Mar2025 19:09:24.441] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-95, y=-56, z=53}
+[03Mar2025 19:10:45.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved wrongly!
