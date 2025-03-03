@@ -1,8 +1,4 @@
-{
-  misc: {
-		merge_tags: [
-			"minecraft:base_stone_overworld"
-			"c:ores/*"
-		]
-	}
-}
+# Default config file that will be copied to world/serverconfig/ftbultimine-server.snbt if it doesn't exist!
+# Just copy any values you wish to override in here!
+
+{ }
