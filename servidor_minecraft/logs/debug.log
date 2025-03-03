@@ -22764,3 +22764,103 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [03Mar2025 18:41:38.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -1.5,-13.0,1.5
 [03Mar2025 18:41:44.264] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers]
 [03Mar2025 18:41:44.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 moved too quickly! -1.5,-13.0,1.5
+[03Mar2025 18:43:13.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 18:43:13.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 18:45:09.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Isn't It Iron Pick]
+[03Mar2025 18:47:45.862] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[03Mar2025 18:47:45.887] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[03Mar2025 18:47:45.893] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[03Mar2025 18:47:45.899] [Worker-Main-36/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_2 is being run through DFU (hash 9e1c91ef32150cb3905faf1749d9b2808c6a422b66f325c8868015cb7f7c5db7), this will cause launch time delays
+[03Mar2025 18:47:46.112] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[03Mar2025 18:47:46.117] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[03Mar2025 18:47:46.123] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[03Mar2025 18:47:46.133] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[03Mar2025 18:47:46.136] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[03Mar2025 18:47:46.137] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[03Mar2025 18:47:46.145] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[03Mar2025 18:47:46.156] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[03Mar2025 18:47:46.169] [Worker-Main-36/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[03Mar2025 18:47:47.043] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Mar2025 18:47:47.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[03Mar2025 18:47:47.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 moved too quickly! -10.33930080384016,-0.5358406250445569,-0.55429932102561
+[03Mar2025 18:47:50.074] [Worker-Main-44/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-25972860, y=64, z=-7907133} Block{productivebees:sugar_cane_nest}[facing=north]
+[03Mar2025 18:47:51.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "280" Y:" 63" Z:" 554 "It will Disappear in 4 DAYS!
+[03Mar2025 18:47:54.051] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[03Mar2025 18:47:54.052] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[03Mar2025 18:47:54.052] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[03Mar2025 18:47:54.059] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[03Mar2025 18:47:54.074] [Worker-Main-36/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-25972817, y=68, z=-7907128} Block{productivebees:acacia_wood_nest}[axis=y,facing=north]
+[03Mar2025 18:47:54.094] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[03Mar2025 18:47:54.095] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[03Mar2025 18:47:54.095] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[03Mar2025 18:47:54.095] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[03Mar2025 18:47:54.095] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[03Mar2025 18:47:54.105] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[03Mar2025 18:47:54.105] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[03Mar2025 18:48:12.951] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Mar2025 18:48:15.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 18:48:15.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 18:48:23.149] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
+[03Mar2025 18:48:23.159] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[03Mar2025 18:48:23.164] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_illusioner_0 is being run through DFU (hash 5b57aaa9c5e553e745f59ff188b11302d8f2c21d0e967d0cbe12cb2ed0ea2fdd), this will cause launch time delays
+[03Mar2025 18:48:23.172] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_0 is being run through DFU (hash ddfd5f5b304f9bb66ae85abb59f794d1fff221bf45bd3bcfc112019c236fa79a), this will cause launch time delays
+[03Mar2025 18:48:23.207] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_3 is being run through DFU (hash 05fc48174c7c7da5bf0b2165c82dc0600807b4deb5d7fba6d578cff9c4cba62f), this will cause launch time delays
+[03Mar2025 18:48:23.220] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_1 is being run through DFU (hash caea454d4d20ad79fd13ad746cb244d0e797c28aabdba2f3dc7e0aa3caeddc72), this will cause launch time delays
+[03Mar2025 18:48:23.244] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_7 is being run through DFU (hash 5b1070104d750668ed54be1b44e6c7bd81607dd0e3fb8597049003c5584e8bf2), this will cause launch time delays
+[03Mar2025 18:48:23.245] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_vindicator_0 is being run through DFU (hash 5519080555f6f49b68121691b863155727088187e1f7a2e203fb8a4230ce37f9), this will cause launch time delays
+[03Mar2025 18:48:23.249] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_pillager_0 is being run through DFU (hash 9a8799087055bc1c0b662ff1025e60e8957a87489b8bdf232c96ae1d9dba5305), this will cause launch time delays
+[03Mar2025 18:48:23.251] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_evoker_0 is being run through DFU (hash 065c8a2f1129ad60292a90abb721f0f7b1940e284bfbc372c26cf733378aa8b9), this will cause launch time delays
+[03Mar2025 18:48:23.255] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_0 is being run through DFU (hash b5a6afa3de17713924d893eba982f37379d7eef7bc688b977445a0ad45ba4a78), this will cause launch time delays
+[03Mar2025 18:48:23.260] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_8 is being run through DFU (hash 682efbcbbaaf852a113158214912621fa78c3664a9a8460a6c4db63eb53fd5c9), this will cause launch time delays
+[03Mar2025 18:48:23.265] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_5 is being run through DFU (hash b4a009e2eecb4ec4437f1771c761cfe2f42474271dca9149144326e72dd80dc1), this will cause launch time delays
+[03Mar2025 18:48:23.302] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_7 is being run through DFU (hash cfa57d7b986110bce746de8eaf6abefa877a4f6c3325fa1f99526177d102a38b), this will cause launch time delays
+[03Mar2025 18:48:23.307] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_6 is being run through DFU (hash 3903ddc52c72f424c20a4239dc879b35d4c7994d3e3bcf4df54d32eb23c7eb78), this will cause launch time delays
+[03Mar2025 18:48:23.314] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_6 is being run through DFU (hash a7c6aed6a808d6d98592a035d5cceba8235df85fd227d446acb56969828f4b0e), this will cause launch time delays
+[03Mar2025 18:48:23.322] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_2 is being run through DFU (hash cd285488ceb24102abd9219847c20b5956319f8ac58c0a8e89922bcdf8b6c4bd), this will cause launch time delays
+[03Mar2025 18:48:23.329] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_4 is being run through DFU (hash 386156950396ce23ef8dfcbf8d518e8ec111de34af801d17e1c60d7577b6ad74), this will cause launch time delays
+[03Mar2025 18:48:23.335] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_1 is being run through DFU (hash 19f9f148f5cb56b57c5e81644c69ba6ba6aaf4844ab845ddff02efda68dc3b2b), this will cause launch time delays
+[03Mar2025 18:48:23.345] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_3 is being run through DFU (hash 35cff3363737bd03bdeed08d0a32d415485e212daaed1dbd3b222869e64e8e1f), this will cause launch time delays
+[03Mar2025 18:48:23.351] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_5 is being run through DFU (hash f732cc812bd7287fec4c437823d62369d687d89df0d455f1003385295e5d42cd), this will cause launch time delays
+[03Mar2025 18:48:23.363] [Worker-Main-53/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_4 is being run through DFU (hash 88b6ea1860ba6b3976bcea9c9a19f02e318a86add91977fc5c903c8a815b6c0b), this will cause launch time delays
+[03Mar2025 18:48:24.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Luscious Surroundings]
+[03Mar2025 18:48:24.250] [Worker-Main-36/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=80, y=77, z=803} Block{productivebees:spruce_wood_nest}[axis=y,facing=north]
+[03Mar2025 18:48:29.152] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=190, y=75, z=891} Block{productivebees:spruce_wood_nest}[axis=y,facing=south]
+[03Mar2025 18:48:29.166] [Worker-Main-43/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=113, y=79, z=861} Block{productivebees:spruce_wood_nest}[axis=y,facing=south]
+[03Mar2025 18:48:31.221] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.180757522583008) to LOW (avg. 23.14289093017578)
+[03Mar2025 18:48:32.472] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 14.92197321) to LOW (avg. 17.13917126)
+[03Mar2025 18:48:46.221] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.14289093017578) to VERY_LOW (avg. 13.606803894042969)
+[03Mar2025 18:49:45.299] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[03Mar2025 18:49:45.299] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[03Mar2025 18:51:47.752] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers]
+[03Mar2025 18:51:51.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3243ms or 64 ticks behind
+[03Mar2025 18:51:51.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -1.5,-13.0,1.5
+[03Mar2025 18:51:54.490] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:scarecrow
+[03Mar2025 18:51:54.623] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[03Mar2025 18:51:54.627] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_1
+[03Mar2025 18:51:54.630] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_2
+[03Mar2025 18:51:54.868] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[03Mar2025 18:51:55.147] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[03Mar2025 18:51:55.157] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[03Mar2025 18:51:55.173] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[03Mar2025 18:51:56.245] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Mar2025 18:51:57.020] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-95, y=-56, z=53}
+[03Mar2025 18:51:58.227] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-90, y=-56, z=48}
+[03Mar2025 18:51:58.268] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=36}
+[03Mar2025 18:51:58.269] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=38}
+[03Mar2025 18:51:58.269] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
+[03Mar2025 18:51:58.790] [Worker-Main-53/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (4747332 | 27 | 13015988).
+[03Mar2025 18:51:58.791] [Worker-Main-53/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[03Mar2025 18:51:58.793] [Worker-Main-53/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[03Mar2025 18:51:58.793] [Worker-Main-53/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[03Mar2025 18:51:58.793] [Worker-Main-53/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 6(0) Rooms
+[03Mar2025 18:51:58.793] [Worker-Main-53/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[03Mar2025 18:51:58.793] [Worker-Main-53/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 7(1) Nodes and 6(0) Rooms
+[03Mar2025 18:51:58.793] [Worker-Main-53/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[03Mar2025 18:51:58.794] [Worker-Main-53/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 4(7) Nodes and 5(0) Rooms
+[03Mar2025 18:51:58.794] [Worker-Main-53/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[03Mar2025 18:51:58.794] [Worker-Main-53/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 6(0) Rooms
+[03Mar2025 18:51:58.919] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 17.13917126) to VERY_LOW (avg. 12.51138017)
+[03Mar2025 18:51:59.996] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=28}
+[03Mar2025 18:51:59.996] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
+[03Mar2025 18:52:00.840] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers]
+[03Mar2025 18:52:01.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -1.5,-13.0,1.5

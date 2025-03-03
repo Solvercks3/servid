@@ -673,6 +673,18 @@
     },
     "done": true
   },
+  "easy_mob_farm:root": {
+    "criteria": {
+      "crafting_table": "2025-03-03 18:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-03 18:45:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-03-03 18:16:58 +0000"
@@ -685,9 +697,27 @@
     },
     "done": true
   },
+  "sololeveling:regeneration_level_1": {
+    "criteria": {
+      "regeneration_level_1": "2025-03-03 18:39:23 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/enduring_capture_net": {
+    "criteria": {
+      "has_feather": "2025-03-03 18:42:20 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_catcher/ironbound_containment_cage": {
     "criteria": {
       "has_iron_bars": "2025-03-03 18:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-03 18:43:10 +0000"
     },
     "done": true
   },
@@ -709,9 +739,28 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-03-03 18:43:10 +0000",
+      "bread": "2025-03-03 18:46:00 +0000"
+    },
+    "done": false
+  },
   "easy_mob_farm:recipes/upgrade/enchancement/pollen_trap_enhancement": {
     "criteria": {
       "has_iron_bars": "2025-03-03 18:34:03 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/filter/no_meat_filter": {
+    "criteria": {
+      "has_beef": "2025-03-03 18:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-03 18:45:12 +0000"
     },
     "done": true
   },
