@@ -22864,3 +22864,37 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [03Mar2025 18:51:59.996] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
 [03Mar2025 18:52:00.840] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers]
 [03Mar2025 18:52:01.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -1.5,-13.0,1.5
+[03Mar2025 18:53:07.556] [Worker-Main-43/DEBUG] [ModernFix/]: Structure feywild:village/plains/houses/fountain is being run through DFU (hash 4a327734cf12dcb00113848421a50a4a7a2350b2652a776f141c01130d68aed9), this will cause launch time delays
+[03Mar2025 18:53:07.614] [Worker-Main-43/DEBUG] [ModernFix/]: Structure feywild:village/plains/houses/pond is being run through DFU (hash a037575a8cd22cd47669c1bcb68a4c4bb48e21916f2c87a1807e7ee52bcfe8b8), this will cause launch time delays
+[03Mar2025 18:53:07.616] [Worker-Main-43/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[03Mar2025 18:53:09.250] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=28}
+[03Mar2025 18:53:09.250] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
+[03Mar2025 18:53:18.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 18:53:18.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 18:54:35.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "281" Y:" 84" Z:" 786 "It will Disappear in 4 DAYS!
+[03Mar2025 18:54:37.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [A Strange Grave Dust]
+[03Mar2025 18:58:18.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 18:58:18.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 18:58:53.105] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Mar2025 18:58:53.667] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-95, y=-56, z=53}
+[03Mar2025 18:58:54.118] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=36}
+[03Mar2025 18:58:54.119] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=38}
+[03Mar2025 18:58:54.120] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
+[03Mar2025 18:58:54.137] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-90, y=-56, z=48}
+[03Mar2025 18:59:12.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Knowledge of Death]
+[03Mar2025 18:59:12.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Ashes 'n Bones]
+[03Mar2025 19:00:16.410] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers]
+[03Mar2025 19:00:37.705] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_sewers] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Mar2025 19:01:16.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "238" Y:" 74" Z:" 883 "It will Disappear in 4 DAYS!
+[03Mar2025 19:01:29.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Knowledge of Death]
+[03Mar2025 19:01:29.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Ashes 'n Bones]
+[03Mar2025 19:01:40.261] [Worker-Main-36/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=69, y=78, z=837} Block{productivebees:spruce_wood_nest}[axis=y,facing=north]
+[03Mar2025 19:01:50.608] [Worker-Main-36/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=118, y=78, z=912} Block{productivebees:spruce_wood_nest}[axis=y,facing=south]
+[03Mar2025 19:01:51.239] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_0
+[03Mar2025 19:01:51.247] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_0
+[03Mar2025 19:01:51.254] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_0
+[03Mar2025 19:01:51.263] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_0
+[03Mar2025 19:01:51.285] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_0
+[03Mar2025 19:01:51.856] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / sololeveling:dungeon_dimension_beru]
+[03Mar2025 19:01:55.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
+[03Mar2025 19:01:56.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! 39.5,5.0,2.5

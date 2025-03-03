@@ -2340,3 +2340,19 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [03Mar2025 18:51:59.996] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=28}
 [03Mar2025 18:51:59.996] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
 [03Mar2025 18:52:01.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -1.5,-13.0,1.5
+[03Mar2025 18:53:09.250] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=28}
+[03Mar2025 18:53:09.250] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
+[03Mar2025 18:54:35.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "281" Y:" 84" Z:" 786 "It will Disappear in 4 DAYS!
+[03Mar2025 18:54:37.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [A Strange Grave Dust]
+[03Mar2025 18:58:53.667] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-95, y=-56, z=53}
+[03Mar2025 18:58:54.118] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=36}
+[03Mar2025 18:58:54.119] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=38}
+[03Mar2025 18:58:54.120] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
+[03Mar2025 18:58:54.137] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-90, y=-56, z=48}
+[03Mar2025 18:59:12.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Knowledge of Death]
+[03Mar2025 18:59:12.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Ashes 'n Bones]
+[03Mar2025 19:01:16.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "238" Y:" 74" Z:" 883 "It will Disappear in 4 DAYS!
+[03Mar2025 19:01:29.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Knowledge of Death]
+[03Mar2025 19:01:29.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Ashes 'n Bones]
+[03Mar2025 19:01:55.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
+[03Mar2025 19:01:56.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! 39.5,5.0,2.5

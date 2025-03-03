@@ -685,6 +685,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-03-03 18:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-03-03 18:16:58 +0000"
@@ -721,6 +727,18 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/slot/small_slot_upgrade": {
+    "criteria": {
+      "has_chest": "2025-03-03 18:49:45 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/slot/big_slot_upgrade": {
+    "criteria": {
+      "has_chest": "2025-03-03 18:49:45 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/cursed_ring": {
     "criteria": {
       "has_items": "2025-03-03 18:16:38 +0000"
@@ -742,7 +760,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-03 18:43:10 +0000",
-      "bread": "2025-03-03 18:46:00 +0000"
+      "bread": "2025-03-03 18:46:00 +0000",
+      "cooked_chicken": "2025-03-03 18:51:53 +0000"
     },
     "done": false
   },

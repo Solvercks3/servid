@@ -669,6 +669,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "coniferous_forest": "2025-03-03 18:48:29 +0000",
       "fir_clearing": "2025-03-03 18:22:01 +0000",
       "snowy_maple_woods": "2025-03-03 18:06:44 +0000"
     },
@@ -739,6 +740,12 @@
       "cooked_mutton": "2025-03-03 18:28:40 +0000"
     },
     "done": false
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2025-03-03 18:48:24 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
