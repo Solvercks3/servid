@@ -647,6 +647,7 @@
       "minecraft:beach": "2025-03-03 18:27:01 +0000",
       "minecraft:river": "2025-03-03 18:27:11 +0000",
       "minecraft:snowy_plains": "2025-03-03 18:05:26 +0000",
+      "minecraft:stony_shore": "2025-03-03 18:32:07 +0000",
       "minecraft:snowy_taiga": "2025-03-03 18:06:30 +0000",
       "minecraft:snowy_beach": "2025-03-03 18:04:28 +0000",
       "minecraft:plains": "2025-03-03 18:16:14 +0000"
@@ -684,6 +685,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_catcher/ironbound_containment_cage": {
+    "criteria": {
+      "has_iron_bars": "2025-03-03 18:34:03 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/cursed_ring": {
     "criteria": {
       "has_items": "2025-03-03 18:16:38 +0000"
@@ -693,6 +700,18 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-03 18:16:56 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/lucky_drop_farm": {
+    "criteria": {
+      "has_iron_bars": "2025-03-03 18:34:03 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/pollen_trap_enhancement": {
+    "criteria": {
+      "has_iron_bars": "2025-03-03 18:34:03 +0000"
     },
     "done": true
   },

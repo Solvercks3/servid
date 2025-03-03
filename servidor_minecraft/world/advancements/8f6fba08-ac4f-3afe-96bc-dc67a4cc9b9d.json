@@ -603,6 +603,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-03-03 17:43:19 +0000",
+      "minecraft:stony_shore": "2025-03-03 18:31:51 +0000",
       "minecraft:lush_caves": "2025-03-03 18:17:34 +0000",
       "minecraft:plains": "2025-03-03 18:20:52 +0000"
     },
@@ -684,7 +685,19 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-03 18:16:03 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:root": {
+    "criteria": {
+      "crafting_table": "2025-03-03 18:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-03 18:19:53 +0000"
     },
@@ -702,12 +715,6 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-03-03 18:16:03 +0000"
-    },
-    "done": true
-  },
   "easy_mob_farm:recipes/mob_catcher/mystic_binding_crystal": {
     "criteria": {
       "has_ender_pearl": "2025-03-03 18:24:46 +0000"
@@ -720,11 +727,17 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "crafting_table": "2025-03-03 18:19:53 +0000"
+      "consumed_item": "2025-03-03 18:28:40 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-03-03 18:28:40 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

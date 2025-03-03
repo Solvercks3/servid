@@ -2270,3 +2270,43 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [03Mar2025 18:31:41.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks fell from a high place
 [03Mar2025 18:31:41.389] [Server thread/INFO] [tombstone/]: The player Solvercks has successfully been saved
 [03Mar2025 18:31:42.909] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-95, y=-56, z=53}
+[03Mar2025 18:32:18.193] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.340681076049805) to LOW (avg. 24.576583862304688)
+[03Mar2025 18:32:22.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5208ms or 104 ticks behind
+[03Mar2025 18:32:22.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 moved too quickly! -1.5,-13.0,1.5
+[03Mar2025 18:32:23.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -1.5,-13.0,1.5
+[03Mar2025 18:32:23.621] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 33.36897429) to VERY_LOW (avg. 11.96599883)
+[03Mar2025 18:32:29.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.576583862304688) to VERY_LOW (avg. 5.482677936553955)
+[03Mar2025 18:34:30.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 lost connection: Disconnected
+[03Mar2025 18:34:30.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 left the game
+[03Mar2025 18:34:44.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tonisancho5[/127.228.171.244:60881] logged in with entity id 11939 at (-3327256.0056656324, 48.0, 2.586974266780666E7)
+[03Mar2025 18:34:44.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to tonisancho5
+[03Mar2025 18:34:44.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to tonisancho5
+[03Mar2025 18:34:44.171] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to tonisancho5
+[03Mar2025 18:34:44.171] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to tonisancho5
+[03Mar2025 18:34:44.174] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to tonisancho5
+[03Mar2025 18:34:44.176] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to tonisancho5
+[03Mar2025 18:34:44.177] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to tonisancho5
+[03Mar2025 18:34:44.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 joined the game
+[03Mar2025 18:34:44.261] [Server thread/INFO] [APTweaks(Player)/]: Player tonisancho5 ServerPlayer['tonisancho5'/11939, l='ServerLevel[world]', x=-3327256.01, y=48.00, z=25869742.67] logged in and will be protected for 90 secs.
+[03Mar2025 18:34:44.266] [Server thread/INFO] [Jade/]: Syncing config to tonisancho5 (8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d)
+[03Mar2025 18:34:44.314] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to tonisancho5...
+[03Mar2025 18:34:44.315] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03Mar2025 18:34:44.316] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to tonisancho5
+[03Mar2025 18:34:58.470] [Server thread/INFO] [APTweaks(Player)/]: Protected Player tonisancho5 was successful validated after 14 secs.
+[03Mar2025 18:34:58.471] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player tonisancho5!
+[03Mar2025 18:38:45.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was shot by tonisancho5
+[03Mar2025 18:38:45.396] [Server thread/INFO] [tombstone/]: The player Solvercks has successfully been saved
+[03Mar2025 18:38:50.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to tonisancho5]
+[03Mar2025 18:40:20.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -101.52430165046826,0.0,-25.790033489465714
+[03Mar2025 18:40:29.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2761ms or 55 ticks behind
+[03Mar2025 18:40:29.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 moved too quickly! -10.425106665119529,0.0,-0.2853149175643921
+[03Mar2025 18:40:33.171] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=28}
+[03Mar2025 18:40:33.173] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=30}
+[03Mar2025 18:40:34.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A portal appeared at X: "219" Y:" 72" Z:" 604 "It will Disappear in 4 DAYS!
+[03Mar2025 18:40:34.171] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=36}
+[03Mar2025 18:40:34.171] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-56, z=38}
+[03Mar2025 18:40:34.172] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=44}
+[03Mar2025 18:40:34.878] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-95, y=-56, z=53}
+[03Mar2025 18:41:38.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4080ms or 81 ticks behind
+[03Mar2025 18:41:38.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Solvercks moved too quickly! -1.5,-13.0,1.5
+[03Mar2025 18:41:44.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 moved too quickly! -1.5,-13.0,1.5
