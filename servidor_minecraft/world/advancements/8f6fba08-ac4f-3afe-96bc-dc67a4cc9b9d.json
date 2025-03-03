@@ -602,7 +602,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:taiga": "2025-03-03 17:43:19 +0000"
+      "minecraft:taiga": "2025-03-03 17:43:19 +0000",
+      "minecraft:lush_caves": "2025-03-03 18:17:34 +0000"
     },
     "done": false
   },
@@ -620,6 +621,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-03 18:04:27 +0000",
+      "minecraft:spider": "2025-03-03 18:05:13 +0000",
       "minecraft:zombie": "2025-03-03 17:45:54 +0000"
     },
     "done": false
@@ -645,6 +648,42 @@
   "feywild:feywild/root": {
     "criteria": {
       "inventory_changed": "2025-03-03 17:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-03 18:03:21 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2025-03-03 18:03:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "snowy_maple_woods": "2025-03-03 18:06:44 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "snowy_maple_woods": "2025-03-03 18:06:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-03 18:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-03 18:16:03 +0000"
     },
     "done": true
   },
