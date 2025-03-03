@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "96ecdbd9974d34e48d4d8d587237377a"
+	name: "Solvercks#96ecdbd9"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
