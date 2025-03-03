@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "8f6fba08ac4f3afe96bcdc67a4cc9b9d"
+	name: "tonisancho5#8f6fba08"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
