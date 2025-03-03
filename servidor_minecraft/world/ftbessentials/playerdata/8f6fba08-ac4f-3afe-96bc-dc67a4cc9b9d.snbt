@@ -3,7 +3,7 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "sololeveling:dungeon_dimension_sewers", x: -3327257, y: 48, z: 25869742, time: 1741026884237L, xRot: 11.249967f, yRot: -60.0023f }
+	last_seen: { dim: "minecraft:overworld", x: 218, y: 26, z: 778, time: 1741031650083L, xRot: 26.550228f, yRot: 167.2468f }
 	recording: "none"
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: 103, y: 92, z: -84, time: 1741025215404L }

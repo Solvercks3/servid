@@ -678,6 +678,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-03 19:55:33 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:root": {
     "criteria": {
       "crafting_table": "2025-03-03 18:45:12 +0000"
@@ -807,6 +813,12 @@
   "easy_mob_farm:recipes/mob_farm/lucky_drop_farm": {
     "criteria": {
       "has_iron_bars": "2025-03-03 18:34:03 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/swamp_farm": {
+    "criteria": {
+      "has_brown_mushroom": "2025-03-03 19:54:21 +0000"
     },
     "done": true
   },
