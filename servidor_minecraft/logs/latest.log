@@ -6639,3 +6639,62 @@ java.lang.Throwable: null
 [07Jul2025 21:55:11.220] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
 [07Jul2025 21:56:53.853] [Server thread/INFO] [Daily Rewards/]: Reward player ServerPlayer['Lord_Sepia'/3913, l='ServerLevel[world]', x=-342.17, y=80.00, z=459.65] daily reward for 1 days with 1 loyalty_card_generic ...
 [07Jul2025 21:56:53.856] [Server thread/INFO] [Daily Rewards/]: Special Reward player ServerPlayer['Lord_Sepia'/3913, l='ServerLevel[world]', x=-342.17, y=80.00, z=459.65] daily reward for 1 days with 1 jaffa_cake ...
+[07Jul2025 22:00:38.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia has made the advancement [Best Friends Forever]
+[07Jul2025 22:01:25.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[07Jul2025 22:01:39.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lord_Sepia moved too quickly! -8.253233565123196,-0.0448124203990119,5.978676616791631
+[07Jul2025 22:01:45.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4505ms or 90 ticks behind
+[07Jul2025 22:01:50.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lord_Sepia moved too quickly! 4.3505243877764315,-1.0,9.079472977244905
+[07Jul2025 22:01:59.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -366.500000, 0.500000, 507.500000]
+[07Jul2025 22:01:59.885] [Server thread/INFO] [Daily Rewards/]: Daily Rewards saving reward user data for [2025-7:96ecdbd9-974d-34e4-8d4d-8d587237377a, 2025-7:8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d, 2025-7:4a4895a3-edde-3b3b-bebd-c36a6e33f4d4, 2025-7:1cada1d5-8622-3b72-a954-ba01a4969f04] ...
+[07Jul2025 22:01:59.890] [Server thread/INFO] [Daily Rewards/]: Daily Rewards saving special reward user data for [2025-7:4a4895a3-edde-3b3b-bebd-c36a6e33f4d4] ...
+[07Jul2025 22:02:05.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[07Jul2025 22:02:09.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lord_Sepia moved too quickly! 9.782362618804314,0.0,2.510864449823316
+[07Jul2025 22:03:03.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia has made the advancement [Unknown Technology]
+[07Jul2025 22:03:31.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to Lord_Sepia]
+[07Jul2025 22:03:51.563] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:03:56.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -310.500000, 15.500000, 595.500000]
+[07Jul2025 22:04:08.375] [Server thread/WARN] [dev.qther.nanny.NaNny/]: A damage event tried to deal NaN damage to Solvercks! Source: DamageSource (goety.iceBouquet)
+[07Jul2025 22:06:12.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -261.500000, -10.500000, 616.500000]
+[07Jul2025 22:07:05.538] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:07:55.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lord_Sepia: Set own game mode to Creative Mode]
+[07Jul2025 22:08:03.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lord_Sepia: Set own game mode to Adventure Mode]
+[07Jul2025 22:08:14.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lord_Sepia: Set own game mode to Survival Mode]
+[07Jul2025 22:08:27.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia has made the advancement [Sweet Dreams]
+[07Jul2025 22:08:27.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You unlocked stage normal!
+[07Jul2025 22:08:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stage normal unlocked for Lord_Sepia!
+[07Jul2025 22:08:32.792] [ForkJoinPool.commonPool-worker-3/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent com/samsthenerd/inline/impl/MatchContextImpl for class com/samsthenerd/inline/impl/MatchContextImpl$ChatMatchContextImpl in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool.commonPool-worker-3,5,SERVER]
+[07Jul2025 22:08:32.792] [ForkJoinPool.commonPool-worker-3/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: com.samsthenerd.inline.impl.MatchContextImpl
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.samsthenerd.inline.api.matching.MatchContext$ChatMatchContext.of(MatchContext.java:137) ~[?:?]
+	at com.samsthenerd.inline.forge.InlineForge.onServerChatDecoration(InlineForge.java:57) ~[?:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onServerChatSubmittedEvent(ForgeHooks.java:412) ~[?:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getServerChatSubmittedDecorator$0(ForgeHooks.java:422) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07Jul2025 22:08:32.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lord_Sepia> Dani gay
+[07Jul2025 22:08:40.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to Lord_Sepia]

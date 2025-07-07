@@ -1004,7 +1004,8 @@
   },
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
-      "has_vanilla_rod": "2025-07-07 20:19:35 +0000"
+      "has_vanilla_rod": "2025-07-07 20:19:35 +0000",
+      "has_gold": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
@@ -2207,6 +2208,7 @@
   },
   "vampirism:recipes/decorations/bat_cage": {
     "criteria": {
+      "has_gold": "2025-07-07 22:06:21 +0000",
       "has_planks": "2025-07-07 20:21:52 +0000"
     },
     "done": false
@@ -2448,13 +2450,15 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
-      "biomeswevegone:coconino_meadow": "2025-07-07 20:22:53 +0000"
+      "biomeswevegone:coconino_meadow": "2025-07-07 20:22:53 +0000",
+      "biomeswevegone:pumpkin_valley": "2025-07-07 22:01:17 +0000"
     },
     "done": false
   },
   "biomeswevegone:biomeswevegone/adventure/root": {
     "criteria": {
-      "biomeswevegone:coconino_meadow": "2025-07-07 20:22:53 +0000"
+      "biomeswevegone:coconino_meadow": "2025-07-07 20:22:53 +0000",
+      "biomeswevegone:pumpkin_valley": "2025-07-07 22:01:17 +0000"
     },
     "done": false
   },
@@ -3111,6 +3115,7 @@
   },
   "ae2:recipes/misc/misc/tiny_tnt": {
     "criteria": {
+      "has_dusts/quartz": "2025-07-07 22:02:51 +0000",
       "has_gunpowder": "2025-07-07 20:25:33 +0000"
     },
     "done": false
@@ -4256,6 +4261,12 @@
     },
     "done": false
   },
+  "vampirism:recipes/decorations/vampire/blood_pedestal": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "littlelogistics:recipes/transportation/seater_car": {
     "criteria": {
       "has_item": "2025-07-07 21:40:27 +0000"
@@ -4265,6 +4276,24 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/gold_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
@@ -4304,6 +4333,18 @@
     },
     "done": false
   },
+  "rats:recipes/misc/upgrades/basic_energy_upgrade": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/copper_button": {
     "criteria": {
       "has_thing": "2025-07-07 21:49:37 +0000"
@@ -4327,6 +4368,12 @@
       "has_item": "2025-07-07 21:40:27 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-07 22:00:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
@@ -4364,6 +4411,18 @@
     },
     "done": false
   },
+  "rats:recipes/misc/upgrades/angel_upgrade": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-07-07 21:49:37 +0000"
@@ -4376,9 +4435,21 @@
     },
     "done": false
   },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
@@ -4424,6 +4495,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "fairylights:recipes/fairylights/letter_bunting": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
@@ -4451,6 +4528,12 @@
   "infinitybuttons:recipe/redstone/waxed_copper_button": {
     "criteria": {
       "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/warrior_upgrade": {
+    "criteria": {
+      "has_armor": "2025-07-07 22:00:38 +0000"
     },
     "done": false
   },
@@ -4526,6 +4609,18 @@
     },
     "done": false
   },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-07-07 22:03:01 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "mcwwindows:recipes/metal": {
     "criteria": {
       "has_wood": "2025-07-07 21:40:27 +0000"
@@ -4562,6 +4657,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-07-07 22:02:51 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-07-07 21:49:37 +0000"
@@ -4574,6 +4681,12 @@
     },
     "done": false
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
@@ -4583,6 +4696,12 @@
   "biomancy:recipes/biomancy/decomposing/copper_ingot": {
     "criteria": {
       "has_copper_ingot": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/tools/rat_capture_net": {
+    "criteria": {
+      "has_sack": "2025-07-07 22:00:38 +0000"
     },
     "done": false
   },
@@ -4640,6 +4759,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-07-07 22:03:02 +0000",
+      "silicon": "2025-07-07 22:03:01 +0000",
+      "engineering": "2025-07-07 22:03:01 +0000",
+      "logic": "2025-07-07 22:03:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-07-07 21:49:37 +0000"
@@ -4673,6 +4807,12 @@
   "fairylights:recipes/fairylights/flower_light": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "occultism:recipes/crushing/crushing/gold_dust_from_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
@@ -4736,6 +4876,12 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/gold_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/waxed_copper_large_button_waxing": {
     "criteria": {
       "has_thing": "2025-07-07 21:49:37 +0000"
@@ -4796,6 +4942,12 @@
     },
     "done": false
   },
+  "tconstruct:recipes/redstone/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "miners_delight:recipes/decorations/copper_pot": {
     "criteria": {
       "has_copper": "2025-07-07 21:49:37 +0000"
@@ -4817,6 +4969,12 @@
   "infinitybuttons:recipe/redstone/iron_large_button": {
     "criteria": {
       "has_thing": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
@@ -4846,6 +5004,7 @@
   },
   "vampirism:recipes/decorations/vampire/candelabra_candles": {
     "criteria": {
+      "has_gold": "2025-07-07 22:06:21 +0000",
       "has_iron": "2025-07-07 21:40:27 +0000"
     },
     "done": false
@@ -4868,9 +5027,21 @@
     },
     "done": false
   },
+  "rats:recipes/misc/upgrades/advanced_energy_upgrade": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/waxed_weathered_copper_large_button": {
     "criteria": {
       "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
@@ -4883,6 +5054,18 @@
   "occultism:recipes/combat/crafting/butcher_knife": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
@@ -4916,6 +5099,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-07-07 21:40:27 +0000"
@@ -4937,6 +5126,12 @@
   "minecolonies:recipes/misc/chainmailleggings": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-07-07 22:02:51 +0000"
     },
     "done": false
   },
@@ -5006,9 +5201,27 @@
     },
     "done": false
   },
+  "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/combat/halo_hat": {
+    "criteria": {
+      "has_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
@@ -5072,9 +5285,21 @@
     },
     "done": false
   },
+  "vampirism:recipes/decorations/vampire/altar_infusion": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
@@ -5127,6 +5352,12 @@
     },
     "done": false
   },
+  "tconstruct:recipes/decorations/common/gold_bars": {
+    "criteria": {
+      "has_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/waxed_exposed_copper_large_button_waxing": {
     "criteria": {
       "has_thing": "2025-07-07 21:49:37 +0000"
@@ -5148,6 +5379,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_brown": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-07-07 22:02:51 +0000"
     },
     "done": false
   },
@@ -5217,6 +5454,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
       "has_compressor": "2025-07-07 21:40:27 +0000"
@@ -5268,6 +5511,12 @@
   "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
@@ -5481,6 +5730,12 @@
     },
     "done": false
   },
+  "rats:recipes/misc/upgrades/aristocrat_upgrade": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "fairylights:recipes/fairylights/ghost_light": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
@@ -5502,6 +5757,12 @@
   "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
     "criteria": {
       "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/golden_rat_skull": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
@@ -5553,9 +5814,21 @@
     },
     "done": false
   },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "monobank:recipes/decorations/monobank": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-07-07 22:02:51 +0000"
     },
     "done": false
   },
@@ -5597,7 +5870,14 @@
   },
   "vampirism:recipes/decorations/vampire/candelabra": {
     "criteria": {
+      "has_gold": "2025-07-07 22:06:21 +0000",
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/decorations/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
@@ -5628,6 +5908,12 @@
   "mcwlights:recipes/iron_stuff": {
     "criteria": {
       "has_wood": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
@@ -5679,6 +5965,12 @@
     },
     "done": false
   },
+  "shieldexp:recipes/golden_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
   "occultism:recipes/crushing/crushing/iron_dust_from_ingot": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
@@ -5712,6 +6004,12 @@
   "infinitybuttons:recipe/redstone/oxidized_copper_button": {
     "criteria": {
       "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/gold_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:06:21 +0000"
     },
     "done": false
   },
