@@ -1,0 +1,29 @@
+
+[cycle_length]
+	#How long (in ticks) one bee cycle should take.
+	productionCycleLength = 200
+	#How long (in ticks) an apiary should wait between re-scanning the environment for appropriate conditions.
+	enviroCycleLength = 200
+
+[research]
+	#The percentage bonus researching a mutation in the microscope should grant to that mutation's chances.
+	researchBonus = 0.2
+
+[rf]
+	#How many ticks an unupgraded centrifuge should take to process a comb
+	centrifugeBaseSpeed = 200
+	#How much rf/tick an unupgraded centrifuge should use while processing a recipe.
+	centrifugeBaseEnergy = 20
+	#How much rf/tick a generator should produce while burning a fuel.
+	furnaceGeneratorBaseEnergy = 20
+	#How much rf/tick a generator should be able to transfer out of itself.
+	furnaceGeneratorBaseTransfer = 1000
+	#How much rf/tick a generator should produce while burning a fuel.
+	furnaceGeneratorBaseStorage = 100000
+	#How much rf/tick a honey generator should produce while burning a fuel.
+	honeyGeneratorBaseEnergy = 40
+	#How much rf/tick a honey generator should be able to transfer out of itself.
+	honeyGeneratorBaseTransfer = 2000
+	#How much rf/tick a honey generator should produce while burning a fuel.
+	honeyGeneratorBaseStorage = 200000
+

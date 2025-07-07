@@ -2,21 +2,21 @@
 #Machine Energy Usage Config. This config is synced from server to client.
 [usage]
 	#Energy per operation tick (Joules).
-	enrichmentChamber = "50"
+	enrichmentChamber = "1500"
 	#Energy per operation tick (Joules).
-	osmiumCompressor = "100"
+	osmiumCompressor = "1700"
 	#Energy per operation tick (Joules).
 	combiner = "50"
 	#Energy per operation tick (Joules).
 	crusher = "50"
 	#Energy per operation tick (Joules).
-	metallurgicInfuser = "50"
+	metallurgicInfuser = "500"
 	#Energy per operation tick (Joules).
-	purificationChamber = "200"
+	purificationChamber = "1200"
 	#Energy per operation tick (Joules).
 	energizedSmelter = "50"
 	#Energy per operation tick (Joules).
-	digitalMiner = "1000"
+	digitalMiner = "10000"
 	#Energy per operation tick (Joules).
 	electricPump = "100"
 	#Energy that can be transferred at once per charge operation (Joules).

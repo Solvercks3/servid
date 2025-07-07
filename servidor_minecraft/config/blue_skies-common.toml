@@ -27,7 +27,7 @@
 	#
 	# The emerald cost for the Zeal Lighter sold by the Gatekeeper.
 	# Default: 8
-	zeal_lighter_cost = 8
+	zeal_lighter_cost = 10
 
 ["Mod Compatibility"]
 	#

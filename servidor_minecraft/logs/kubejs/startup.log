@@ -1,10 +1,37 @@
-[18:12:31] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[18:12:31] [INIT] Loaded plugins:
-[18:12:31] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[18:12:31] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[18:12:31] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[18:12:31] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[18:12:31] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[18:12:31] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[18:12:31] [INFO] Loaded script startup_scripts:example.js in 0.106 s
-[18:12:31] [INFO] Loaded 1/1 KubeJS startup scripts in 0.487 s with 0 errors and 0 warnings
+[19:53:20] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[19:53:20] [INIT] Loaded plugins:
+[19:53:20] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:53:20] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[19:53:20] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[19:53:20] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[19:53:20] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[19:53:20] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[19:53:20] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[19:53:20] [INIT] - top.theillusivec4.champions.common.integration.kubejs.ChampionsKubeJSPlugin
+[19:53:20] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[19:53:20] [INIT] - com.mceternal.eternalcurrencies.integration.kubejs.EternalCurrenciesKJSPlugin
+[19:53:20] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[19:53:20] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[19:53:20] [INIT] - com.almostreliable.morejs.Plugin
+[19:53:20] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[19:53:20] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[19:53:20] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[19:53:20] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[19:53:21] [INFO] Loaded script startup_scripts:consts.js in 0.082 s
+[19:53:21] [INFO] Loaded script startup_scripts:s_soup.js in 0.012 s
+[19:53:21] [INFO] Loaded script startup_scripts:orecleanup.js in 0.002 s
+[19:53:21] [INFO] heart_seek_ancient_city.js#2: Loaded Java class 'net.minecraft.world.entity.projectile.EyeOfEnder'
+[19:53:21] [INFO] heart_seek_ancient_city.js#3: Loaded Java class 'net.minecraft.core.registries.Registries'
+[19:53:21] [INFO] heart_seek_ancient_city.js#4: Loaded Java class 'net.minecraft.tags.TagKey'
+[19:53:21] [INFO] Loaded script startup_scripts:heart_seek_ancient_city.js in 0.029 s
+[19:53:21] [INFO] Loaded script startup_scripts:happyjaffa.js in 0.001 s
+[19:53:21] [INFO] Loaded script startup_scripts:heart_seek_nether.js in 0.004 s
+[19:53:21] [INFO] Loaded script startup_scripts:nobotaniaflowers.js in 0.0 s
+[19:53:21] [INFO] Loaded script startup_scripts:contract_burn.js in 0.001 s
+[19:53:21] [INFO] Loaded script startup_scripts:ore_processing_setup.js in 0.009 s
+[19:53:21] [INFO] Loaded script startup_scripts:custom_item_registry.js in 0.003 s
+[19:53:21] [INFO] Loaded script startup_scripts:palantir_item.js in 0.0 s
+[19:53:21] [INFO] Loaded script startup_scripts:portal_frame.js in 0.001 s
+[19:53:21] [INFO] Loaded 12/12 KubeJS startup scripts in 0.635 s with 0 errors and 0 warnings
+[19:53:21] [INFO] heart_seek_ancient_city.js#7: Loaded Java class 'net.minecraft.world.entity.item.ItemEntity'
+[19:53:21] [WARN] portal_frame.js#8: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
