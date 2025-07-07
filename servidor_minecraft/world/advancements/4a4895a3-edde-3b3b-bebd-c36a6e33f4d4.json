@@ -300,6 +300,12 @@
     },
     "done": false
   },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_bread": "2025-07-07 20:48:45 +0000"
+    },
+    "done": false
+  },
   "vc_gliders:recipes/transportation/paraglider_netherite": {
     "criteria": {
       "has_crafting_table": "2025-07-07 20:22:42 +0000"
@@ -511,6 +517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-07 20:48:38 +0000"
+    },
+    "done": false
+  },
   "mcwbyg:recipes/dacite_bricks_walls": {
     "criteria": {
       "has_sand": "2025-07-07 20:19:35 +0000"
@@ -605,6 +617,12 @@
   "mcwdoors:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-07-07 20:26:31 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/food/assorted_vegetables": {
+    "criteria": {
+      "has_a_veggie": "2025-07-07 20:48:38 +0000"
     },
     "done": false
   },
@@ -921,6 +939,12 @@
       "has_birch": "2025-07-07 20:19:35 +0000"
     },
     "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/potato": {
+    "criteria": {
+      "has_potato": "2025-07-07 20:48:38 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/flags/flag_orange": {
     "criteria": {
@@ -1312,9 +1336,21 @@
     },
     "done": false
   },
+  "vampirism:recipes/decorations/item_tent": {
+    "criteria": {
+      "has_bed": "2025-07-07 20:48:54 +0000"
+    },
+    "done": false
+  },
   "mcwbyg:recipes/red_rock_bricks_walls": {
     "criteria": {
       "has_sand": "2025-07-07 20:19:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-07-07 20:48:37 +0000"
     },
     "done": true
   },
@@ -1625,6 +1661,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 20:48:38 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/aquaculture/bobber": {
     "criteria": {
       "has_items": "2025-07-07 20:19:35 +0000"
@@ -1718,6 +1760,12 @@
   "infinitybuttons:recipe/redstone/tuff_button_stonecutter": {
     "criteria": {
       "has_tuff": "2025-07-07 20:24:50 +0000"
+    },
+    "done": false
+  },
+  "brewinandchewin:recipes/fermenting/vodka_from_water": {
+    "criteria": {
+      "has_potato": "2025-07-07 20:48:38 +0000"
     },
     "done": false
   },
@@ -1988,6 +2036,12 @@
     },
     "done": false
   },
+  "rats:recipes/food/rat_burger": {
+    "criteria": {
+      "has_bread": "2025-07-07 20:48:45 +0000"
+    },
+    "done": false
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
       "has_wit": "2025-07-07 20:19:35 +0000"
@@ -2047,6 +2101,12 @@
       "has_acacia": "2025-07-07 20:19:35 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 20:48:38 +0000"
+    },
+    "done": false
   },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
     "criteria": {
@@ -2562,6 +2622,12 @@
     },
     "done": false
   },
+  "minecolonies:recipes/food/potato_soup": {
+    "criteria": {
+      "has_potato": "2025-07-07 20:48:38 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/misc/upgrades/chicken_mount_upgrade": {
     "criteria": {
       "has_seeds": "2025-07-07 20:42:30 +0000"
@@ -2579,6 +2645,12 @@
       "has_birch": "2025-07-07 20:19:35 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-07 20:48:38 +0000"
+    },
+    "done": false
   },
   "vampirism:recipes/decorations/bat_cage": {
     "criteria": {
@@ -2883,6 +2955,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-07-07 20:48:37 +0000"
+    },
+    "done": false
+  },
   "vampiresdelight:main/root": {
     "criteria": {
       "seeds": "2025-07-07 20:19:35 +0000"
@@ -3039,6 +3117,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-07-07 20:27:22 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/health_upgrade": {
+    "criteria": {
+      "has_bread": "2025-07-07 20:48:45 +0000"
     },
     "done": false
   },
@@ -3216,6 +3300,12 @@
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-07-07 20:21:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-07 20:48:38 +0000"
     },
     "done": false
   },
