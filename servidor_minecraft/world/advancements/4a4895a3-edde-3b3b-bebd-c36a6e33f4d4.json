@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/rat_seed_bowl": {
+    "criteria": {
+      "has_seeds": "2025-07-07 20:42:30 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-07-07 20:19:35 +0000"
@@ -153,6 +159,12 @@
   "netherexp:recipes/blackstone/weeping": {
     "criteria": {
       "has_item": "2025-07-07 20:25:27 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-07 20:45:22 +0000"
     },
     "done": false
   },
@@ -222,6 +234,12 @@
     },
     "done": false
   },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-07 20:45:22 +0000"
+    },
+    "done": false
+  },
   "biomancy:recipes/biomancy/digesting/nutrient_paste_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-07 20:21:26 +0000"
@@ -285,6 +303,12 @@
   "vc_gliders:recipes/transportation/paraglider_netherite": {
     "criteria": {
       "has_crafting_table": "2025-07-07 20:22:42 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-07 20:45:22 +0000"
     },
     "done": false
   },
@@ -394,6 +418,12 @@
   "rats:recipes/building_blocks/rat_quarry": {
     "criteria": {
       "has_table": "2025-07-07 20:22:42 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_seeds": {
+    "criteria": {
+      "has_seeds": "2025-07-07 20:42:30 +0000"
     },
     "done": false
   },
@@ -547,6 +577,12 @@
     },
     "done": false
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_small_flowers": {
+    "criteria": {
+      "has_small_flowers": "2025-07-07 20:42:34 +0000"
+    },
+    "done": false
+  },
   "interiors:recipes/building_blocks/crafting/cushion/magenta_cushion": {
     "criteria": {
       "has_planks": "2025-07-07 20:21:52 +0000"
@@ -623,6 +659,12 @@
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
       "has_wt": "2025-07-07 20:19:35 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-07 20:45:22 +0000"
     },
     "done": false
   },
@@ -722,6 +764,12 @@
     },
     "done": false
   },
+  "rats:recipes/misc/upgrades/breeder_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-07-07 20:42:30 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2025-07-07 20:21:47 +0000"
@@ -795,6 +843,12 @@
       "consumed_item": "2025-07-07 20:33:49 +0000"
     },
     "done": true
+  },
+  "supplementaries:recipes/decorations/quark/sign_post_blossom": {
+    "criteria": {
+      "has_item": "2025-07-07 20:39:29 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
@@ -910,6 +964,12 @@
     },
     "done": false
   },
+  "convenientcurioscontainer:recipes/curios_container": {
+    "criteria": {
+      "has_stone": "2025-07-07 20:45:22 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-07-07 20:25:00 +0000"
@@ -958,6 +1018,12 @@
     },
     "done": false
   },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-07-07 20:45:22 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:root": {
     "criteria": {
       "show": "2025-07-07 20:19:35 +0000"
@@ -997,6 +1063,12 @@
   "supplementaries:recipes/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-07 20:25:27 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/dirt": {
+    "criteria": {
+      "has_dirt": "2025-07-07 20:42:19 +0000"
     },
     "done": false
   },
@@ -1131,6 +1203,12 @@
     },
     "done": false
   },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-07 20:45:22 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
     "criteria": {
       "has_template": "2025-07-07 20:19:35 +0000"
@@ -1171,6 +1249,12 @@
   "vc_gliders:recipes/misc/copper_upgrade": {
     "criteria": {
       "has_crafting_table": "2025-07-07 20:22:42 +0000"
+    },
+    "done": false
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2025-07-07 20:38:11 +0000"
     },
     "done": false
   },
@@ -1282,6 +1366,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-07-07 20:42:19 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/personal_key": {
     "criteria": {
       "has_template": "2025-07-07 20:19:35 +0000"
@@ -1360,6 +1450,18 @@
     },
     "done": false
   },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-07 20:45:22 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-07 20:45:22 +0000"
+    },
+    "done": false
+  },
   "mcwbyg:recipes/orange_oak_hedge": {
     "criteria": {
       "has_birch": "2025-07-07 20:19:35 +0000"
@@ -1397,6 +1499,12 @@
     },
     "done": false
   },
+  "rats:recipes/misc/upgrades/replanter_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-07-07 20:42:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-07-07 20:21:11 +0000"
@@ -1418,6 +1526,12 @@
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
       "has_items": "2025-07-07 20:19:35 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-07 20:45:22 +0000"
     },
     "done": false
   },
@@ -1589,6 +1703,12 @@
     },
     "done": false
   },
+  "rats:recipes/building_blocks/marbled_cheese_dirt": {
+    "criteria": {
+      "has_dirt": "2025-07-07 20:42:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-07-07 20:25:09 +0000"
@@ -1604,6 +1724,12 @@
   "mcwbridges:recipes/deepslate_brick_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-07 20:25:00 +0000"
+    },
+    "done": false
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-07 20:42:30 +0000"
     },
     "done": false
   },
@@ -1631,6 +1757,12 @@
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-07-07 20:21:52 +0000"
+    },
+    "done": false
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2025-07-07 20:42:19 +0000"
     },
     "done": false
   },
@@ -1754,6 +1886,12 @@
     },
     "done": false
   },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-07-07 20:42:19 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/misc/reinforced_paper_diamond": {
     "criteria": {
       "has_crafting_table": "2025-07-07 20:22:42 +0000"
@@ -1874,6 +2012,12 @@
     },
     "done": false
   },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-07 20:45:22 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/misc/upgrades/strider_mount_upgrade": {
     "criteria": {
       "has_tear": "2025-07-07 20:25:35 +0000"
@@ -1913,6 +2057,12 @@
   "netherexp:recipes/basalt/slab": {
     "criteria": {
       "has_item": "2025-07-07 20:25:09 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/farmer_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-07-07 20:42:30 +0000"
     },
     "done": false
   },
@@ -2172,6 +2322,12 @@
     },
     "done": false
   },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-07 20:45:22 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2025-07-07 20:21:47 +0000"
@@ -2268,6 +2424,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-07 20:42:34 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
     "criteria": {
       "has_template": "2025-07-07 20:19:35 +0000"
@@ -2327,6 +2489,12 @@
       "tick": "2025-07-07 20:19:35 +0000"
     },
     "done": true
+  },
+  "rats:recipes/food/herb_bundle": {
+    "criteria": {
+      "has_flower": "2025-07-07 20:42:34 +0000"
+    },
+    "done": false
   },
   "autumnity:recipes/transportation/maple_boat": {
     "criteria": {
@@ -2391,6 +2559,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-07 20:26:31 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/chicken_mount_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-07-07 20:42:30 +0000"
     },
     "done": false
   },
@@ -2508,6 +2682,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/supplycampdeployer": {
+    "criteria": {
+      "has_chest": "2025-07-07 20:45:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 20:24:53 +0000"
@@ -2572,6 +2752,12 @@
     "criteria": {
       "has_fishing_rod": "2025-07-07 20:19:35 +0000",
       "has_fillet_knife": "2025-07-07 20:19:35 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-07 20:45:22 +0000"
     },
     "done": false
   },
@@ -2954,6 +3140,13 @@
     },
     "done": false
   },
+  "rats:recipes/misc/upgrades/gardener_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-07-07 20:42:30 +0000",
+      "has_flower": "2025-07-07 20:42:34 +0000"
+    },
+    "done": false
+  },
   "ae2:recipes/misc/network/blocks/crank": {
     "criteria": {
       "has_stick": "2025-07-07 20:21:47 +0000"
@@ -2983,6 +3176,12 @@
       "has_birch": "2025-07-07 20:19:35 +0000"
     },
     "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_seeds": {
+    "criteria": {
+      "has_seeds": "2025-07-07 20:42:30 +0000"
+    },
+    "done": false
   },
   "vc_gliders:recipes/transportation/paraglider_diamond": {
     "criteria": {
@@ -3101,6 +3300,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-07 20:25:00 +0000"
+    },
+    "done": false
+  },
+  "vampiresdelight:recipes/cooking/dandelion_beer_bottle": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 20:42:34 +0000"
     },
     "done": false
   },
