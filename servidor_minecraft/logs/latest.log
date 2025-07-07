@@ -6698,3 +6698,31 @@ java.lang.ClassNotFoundException: com.samsthenerd.inline.impl.MatchContextImpl
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
 [07Jul2025 22:08:32.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lord_Sepia> Dani gay
 [07Jul2025 22:08:40.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to Lord_Sepia]
+[07Jul2025 22:09:29.381] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:09:46.524] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[07Jul2025 22:10:03.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lord_Sepia: Set own game mode to Creative Mode]
+[07Jul2025 22:11:19.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lord_Sepia: Set own game mode to Survival Mode]
+[07Jul2025 22:13:15.067] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:13:15.514] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:13:17.617] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:14:39.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Played sound bosses_of_mass_destruction:soul_star to Solvercks
+[07Jul2025 22:14:39.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has completed the challenge [Dubious Legal Matters]
+[07Jul2025 22:14:39.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Granted the advancement [Dubious Legal Matters] to Solvercks
+[07Jul2025 22:14:39.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Played sound minecraft:entity.experience_orb.pickup to Solvercks
+[07Jul2025 22:14:59.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lord_Sepia: Set own game mode to Creative Mode]
+[07Jul2025 22:15:19.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added title [the Gullible] to player Solvercks.
+[07Jul2025 22:15:56.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Amateur Archaeologist]
+[07Jul2025 22:17:18.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to Lord_Sepia]
+[07Jul2025 22:17:25.870] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:17:49.389] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:17:56.864] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:18:09.163] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:18:09.717] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:18:10.113] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:18:32.188] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify creeper attack target task for translation{key='entity.specialmobs.endercreeper', args=[]}
+[07Jul2025 22:18:52.062] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:19:11.371] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:19:13.213] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:19:16.714] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:19:16.966] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 22:19:29.525] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.

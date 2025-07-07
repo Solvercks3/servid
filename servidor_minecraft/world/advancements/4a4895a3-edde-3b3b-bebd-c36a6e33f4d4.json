@@ -4261,6 +4261,12 @@
     },
     "done": false
   },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/blood_pedestal": {
     "criteria": {
       "has_gold": "2025-07-07 22:06:21 +0000"
@@ -4270,6 +4276,18 @@
   "littlelogistics:recipes/transportation/seater_car": {
     "criteria": {
       "has_item": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
     },
     "done": false
   },
@@ -4309,6 +4327,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-07 22:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/copper_chimney": {
     "criteria": {
       "has_copper": "2025-07-07 21:49:37 +0000"
@@ -4345,6 +4369,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/asbestos_upgrade": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/copper_button": {
     "criteria": {
       "has_thing": "2025-07-07 21:49:37 +0000"
@@ -4378,6 +4414,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
     },
     "done": false
   },
@@ -4423,6 +4465,12 @@
     },
     "done": false
   },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-07-07 21:49:37 +0000"
@@ -4449,6 +4497,7 @@
   },
   "supplementaries:recipes/hourglass": {
     "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000",
       "has_gold_ingot": "2025-07-07 22:06:21 +0000"
     },
     "done": false
@@ -4462,6 +4511,18 @@
   "alekiships:recipes/crafting/crafting/anchor": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
     },
     "done": false
   },
@@ -4543,9 +4604,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/tools/rat_whistle": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2025-07-07 22:15:26 +0000"
     },
     "done": false
   },
@@ -4573,9 +4646,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "fairylights:recipes/fairylights/star_light": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
     },
     "done": false
   },
@@ -4603,11 +4688,35 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
     },
     "done": false
+  },
+  "biomancy:biomancy/root": {
+    "criteria": {
+      "has_raw_meats": "2025-07-07 22:13:11 +0000"
+    },
+    "done": true
   },
   "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
     "criteria": {
@@ -4618,6 +4727,12 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "littlelogistics:recipes/transportation/fluid_barge": {
+    "criteria": {
+      "has_item": "2025-07-07 22:15:41 +0000"
     },
     "done": false
   },
@@ -4705,6 +4820,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "shieldexp:recipes/iron_shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
@@ -4747,9 +4874,21 @@
     },
     "done": false
   },
+  "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:41 +0000"
     },
     "done": false
   },
@@ -4834,6 +4973,12 @@
     },
     "done": false
   },
+  "rats:recipes/misc/upgrades/golem_mount_upgrade": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "minecolonies:recipes/misc/chainmailhelmet": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
@@ -4876,9 +5021,39 @@
     },
     "done": false
   },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/gold_button": {
     "criteria": {
       "has_thing": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
     },
     "done": false
   },
@@ -4942,6 +5117,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/redstone/smeltery/scorched/duct": {
     "criteria": {
       "has_item": "2025-07-07 22:06:21 +0000"
@@ -4972,6 +5153,12 @@
     },
     "done": false
   },
+  "vampirism:recipes/misc/general/injection_0": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-07-07 22:06:21 +0000"
@@ -4996,6 +5183,12 @@
     },
     "done": false
   },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/combat/hunter/crossbow_arrow_normal": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
@@ -5006,6 +5199,12 @@
     "criteria": {
       "has_gold": "2025-07-07 22:06:21 +0000",
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
     },
     "done": false
   },
@@ -5030,6 +5229,18 @@
   "rats:recipes/misc/upgrades/advanced_energy_upgrade": {
     "criteria": {
       "has_gold": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
     },
     "done": false
   },
@@ -5069,6 +5280,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2025-07-07 21:40:27 +0000"
@@ -5099,6 +5322,18 @@
     },
     "done": false
   },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-07-07 22:06:21 +0000"
@@ -5114,6 +5349,12 @@
   "immersive_weathering:recipes/iron_ingot": {
     "criteria": {
       "has_copper_block": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-07 22:15:25 +0000"
     },
     "done": false
   },
@@ -5144,6 +5385,12 @@
   "vampirism:recipes/decorations/vampire/altar_tip": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "mighty_mail:recipes/decorations/birch_mail_box": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
     },
     "done": false
   },
@@ -5183,6 +5430,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-07-07 21:49:37 +0000"
@@ -5216,6 +5469,18 @@
   "rats:recipes/combat/halo_hat": {
     "criteria": {
       "has_ingot": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
+  "mcwpaths:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-07-07 22:15:26 +0000"
     },
     "done": false
   },
@@ -5255,9 +5520,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-07 22:15:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-07 22:15:25 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/maggot": {
+    "criteria": {
+      "has_maggot": "2025-07-07 22:13:11 +0000"
     },
     "done": false
   },
@@ -5279,15 +5562,33 @@
     },
     "done": false
   },
+  "rats:recipes/building_blocks/auto_curdler": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/decorations/vampire/altar_infusion": {
     "criteria": {
       "has_gold": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
     },
     "done": false
   },
@@ -5331,6 +5632,12 @@
     "criteria": {
       "has_copper": "2025-07-07 21:49:37 +0000",
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
     },
     "done": false
   },
@@ -5484,9 +5791,21 @@
     },
     "done": false
   },
+  "rats:recipes/misc/upgrades/bucket_upgrade": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-07 22:15:26 +0000"
     },
     "done": false
   },
@@ -5556,6 +5875,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-07-07 21:49:37 +0000"
@@ -5565,6 +5890,12 @@
   "infinitybuttons:recipe/redstone/waxed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
     },
     "done": false
   },
@@ -5604,6 +5935,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
@@ -5625,6 +5962,18 @@
   "mighty_mail:recipes/decorations/post_box": {
     "criteria": {
       "has_ingots": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_item": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
     },
     "done": false
   },
@@ -5682,6 +6031,12 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/birch_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
   "fairylights:recipes/fairylights/fairy_light": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
@@ -5691,6 +6046,12 @@
   "tconstruct:recipes/combat/tools/armor/travelers_pants": {
     "criteria": {
       "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
     },
     "done": false
   },
@@ -5775,6 +6136,12 @@
   "rats:recipes/misc/rat_wheel": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
     },
     "done": false
   },
@@ -5881,9 +6248,21 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/birch_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/big_console_button": {
     "criteria": {
       "has_thing": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
     },
     "done": false
   },
@@ -5914,6 +6293,12 @@
   "tconstruct:recipes/redstone/smeltery/seared/duct": {
     "criteria": {
       "has_item": "2025-07-07 22:06:21 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2025-07-07 22:15:26 +0000"
     },
     "done": false
   },
@@ -5959,6 +6344,12 @@
     },
     "done": false
   },
+  "minecolonies:recipes/misc/large_empty_bottle": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-07 21:40:55 +0000"
@@ -5983,6 +6374,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-07 22:15:26 +0000"
+    },
+    "done": false
+  },
   "exposure:recipes/tools/camera": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
@@ -5995,6 +6392,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-07-07 22:15:41 +0000"
+    },
+    "done": false
+  },
   "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
     "criteria": {
       "has_copper_ingot": "2025-07-07 21:49:37 +0000"
@@ -6004,6 +6407,12 @@
   "infinitybuttons:recipe/redstone/oxidized_copper_button": {
     "criteria": {
       "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-07-07 22:15:41 +0000"
     },
     "done": false
   },

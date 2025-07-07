@@ -1087,7 +1087,8 @@
   },
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
-      "has_vanilla_rod": "2025-07-07 20:09:44 +0000"
+      "has_vanilla_rod": "2025-07-07 20:09:44 +0000",
+      "has_gold": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -2033,7 +2034,8 @@
       "has_table": "2025-07-07 20:14:34 +0000",
       "has_pick": "2025-07-07 20:16:01 +0000",
       "has_axe": "2025-07-07 20:16:13 +0000",
-      "has_planks": "2025-07-07 20:13:40 +0000"
+      "has_planks": "2025-07-07 20:13:40 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -2136,6 +2138,7 @@
   },
   "vampirism:recipes/decorations/bat_cage": {
     "criteria": {
+      "has_gold": "2025-07-07 22:13:40 +0000",
       "has_planks": "2025-07-07 20:13:40 +0000"
     },
     "done": false
@@ -2542,7 +2545,8 @@
   },
   "rats:recipes/tools/cheese_stick": {
     "criteria": {
-      "has_stick": "2025-07-07 20:13:42 +0000"
+      "has_stick": "2025-07-07 20:13:42 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3005,6 +3009,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-07-07 21:33:17 +0000",
       "minecraft:skeleton": "2025-07-07 20:41:26 +0000",
+      "minecraft:creeper": "2025-07-07 22:09:07 +0000",
       "minecraft:spider": "2025-07-07 20:32:30 +0000",
       "minecraft:zombie": "2025-07-07 20:33:10 +0000"
     },
@@ -3014,6 +3019,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-07 20:41:26 +0000",
       "minecraft:spider": "2025-07-07 20:32:30 +0000",
+      "minecraft:creeper": "2025-07-07 22:09:07 +0000",
       "minecraft:cave_spider": "2025-07-07 21:33:17 +0000",
       "minecraft:zombie": "2025-07-07 20:33:10 +0000"
     },
@@ -3021,7 +3027,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_magenta": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3034,7 +3041,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_brown": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3058,7 +3066,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_cyan": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3102,7 +3111,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_light_blue": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3114,7 +3124,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_red": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3151,7 +3162,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_light_gray": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3181,7 +3193,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_black": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3217,7 +3230,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_pink": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3247,7 +3261,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_gray": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3259,7 +3274,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_orange": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3295,7 +3311,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_purple": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3319,13 +3336,15 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_blue": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
   "rats:recipes/misc/hammocks/rat_hammock_lime": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3356,19 +3375,22 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_green": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
   "rats:recipes/misc/hammocks/rat_hammock_white": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
   "vampirism:recipes/decorations/vampire/candelabra": {
     "criteria": {
       "has_string": "2025-07-07 20:32:39 +0000",
+      "has_gold": "2025-07-07 22:13:40 +0000",
       "has_iron": "2025-07-07 20:40:02 +0000"
     },
     "done": false
@@ -3387,7 +3409,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_yellow": {
     "criteria": {
-      "has_string": "2025-07-07 20:32:39 +0000"
+      "has_string": "2025-07-07 20:32:39 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -3541,7 +3564,8 @@
   },
   "rats:recipes/misc/upgrades/basic_energy_upgrade": {
     "criteria": {
-      "has_redstone": "2025-07-07 20:37:09 +0000"
+      "has_redstone": "2025-07-07 20:37:09 +0000",
+      "has_gold": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -3985,7 +4009,8 @@
   },
   "rats:recipes/tools/rat_whistle": {
     "criteria": {
-      "has_iron": "2025-07-07 20:40:02 +0000"
+      "has_iron": "2025-07-07 20:40:02 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -4039,7 +4064,8 @@
   },
   "rats:recipes/misc/upgrades/platter_upgrade": {
     "criteria": {
-      "has_iron": "2025-07-07 20:40:02 +0000"
+      "has_iron": "2025-07-07 20:40:02 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -4358,6 +4384,7 @@
   },
   "vampirism:recipes/decorations/vampire/candelabra_candles": {
     "criteria": {
+      "has_gold": "2025-07-07 22:13:40 +0000",
       "has_iron": "2025-07-07 20:40:02 +0000"
     },
     "done": false
@@ -4996,7 +5023,8 @@
   },
   "rats:recipes/misc/rat_wheel": {
     "criteria": {
-      "has_iron": "2025-07-07 20:40:02 +0000"
+      "has_iron": "2025-07-07 20:40:02 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -6107,7 +6135,8 @@
   },
   "rats:recipes/misc/upgrades/flight_upgrade": {
     "criteria": {
-      "has_lapis": "2025-07-07 21:24:17 +0000"
+      "has_lapis": "2025-07-07 21:24:17 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -6225,6 +6254,12 @@
     },
     "done": false
   },
+  "vampirism:recipes/decorations/vampire/blood_pedestal": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/tools/virus_necrodermal": {
     "criteria": {
       "has_alt_item": "2025-07-07 21:59:10 +0000"
@@ -6255,6 +6290,24 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/gold_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-07-07 21:51:30 +0000"
@@ -6264,6 +6317,12 @@
   "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
     "criteria": {
       "has_raw_nickel": "2025-07-07 21:52:24 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -6333,6 +6392,24 @@
     },
     "done": false
   },
+  "rats:recipes/misc/upgrades/angel_upgrade": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-07 22:05:43 +0000"
@@ -6342,6 +6419,12 @@
   "rats:recipes/misc/upgrades/ore_doubling_upgrade": {
     "criteria": {
       "has_diamond": "2025-07-07 21:51:30 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -6360,6 +6443,12 @@
   "shieldexp:recipes/diamond_shield": {
     "criteria": {
       "has_diamond": "2025-07-07 21:51:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -6471,6 +6560,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/misc/common/flint": {
     "criteria": {
       "has_item": "2025-07-07 21:51:06 +0000"
@@ -6483,6 +6578,18 @@
     },
     "done": false
   },
+  "rats:cheese": {
+    "criteria": {
+      "get_cheese": "2025-07-07 22:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-07 21:51:06 +0000"
@@ -6492,6 +6599,18 @@
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-07 22:05:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/contract_advancement": {
+    "criteria": {
+      "requirement": "2025-07-07 22:14:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -6537,6 +6656,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-07-07 21:49:54 +0000"
@@ -6576,6 +6701,12 @@
   "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
     "criteria": {
       "has_raw_gold": "2025-07-07 21:39:01 +0000"
+    },
+    "done": false
+  },
+  "occultism:recipes/crushing/crushing/gold_dust_from_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -6621,6 +6752,12 @@
     },
     "done": false
   },
+  "vampirism:recipes/decorations/item_tent": {
+    "criteria": {
+      "has_bed": "2025-07-07 22:09:30 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/building_blocks/ars_nouveau/sign_post_archwood": {
     "criteria": {
       "has_item": "2025-07-07 21:45:54 +0000"
@@ -6642,6 +6779,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-07 21:51:06 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/gold_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -6675,6 +6818,12 @@
     },
     "done": false
   },
+  "rats:recipes/building_blocks/marbled_cheese_raw_alt": {
+    "criteria": {
+      "has_cheese": "2025-07-07 22:14:15 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-07 22:05:43 +0000"
@@ -6690,6 +6839,18 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 21:34:10 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -6713,6 +6874,7 @@
   },
   "rats:recipes/misc/upgrades/advanced_energy_upgrade": {
     "criteria": {
+      "has_gold": "2025-07-07 22:13:40 +0000",
       "has_diamond": "2025-07-07 21:51:30 +0000"
     },
     "done": false
@@ -6759,9 +6921,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
   "biomancy:recipes/biomancy/decomposing/gravel": {
     "criteria": {
       "has_gravel": "2025-07-07 21:51:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -6773,7 +6953,8 @@
   },
   "rats:recipes/misc/upgrades/basic_mount_upgrade": {
     "criteria": {
-      "has_saddle": "2025-07-07 21:49:51 +0000"
+      "has_saddle": "2025-07-07 21:49:51 +0000",
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -6792,6 +6973,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-07 21:36:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -6838,6 +7025,18 @@
     },
     "done": false
   },
+  "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/combat/halo_hat": {
+    "criteria": {
+      "has_ingot": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
   "constructionwand:recipes/tools/diamond_wand": {
     "criteria": {
       "has_item": "2025-07-07 21:51:30 +0000"
@@ -6847,6 +7046,18 @@
   "enderio:recipes/misc/basic_fluid_filter": {
     "criteria": {
       "has_ingredient": "2025-07-07 21:34:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/basic_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-07-07 22:14:15 +0000"
     },
     "done": false
   },
@@ -6889,6 +7100,12 @@
   "biomancy:recipes/biomancy/decomposing/glow_ink_sac": {
     "criteria": {
       "has_glow_ink_sac": "2025-07-07 21:40:24 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/maggot": {
+    "criteria": {
+      "has_maggot": "2025-07-07 22:12:12 +0000"
     },
     "done": false
   },
@@ -6940,9 +7157,21 @@
     },
     "done": false
   },
+  "vampirism:recipes/decorations/vampire/altar_infusion": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-07-07 21:34:43 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -6967,6 +7196,12 @@
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-07 21:36:48 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/decorations/common/gold_bars": {
+    "criteria": {
+      "has_ingot": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -7030,9 +7265,21 @@
     },
     "done": false
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-07 22:15:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-07 22:05:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -7087,6 +7334,12 @@
   "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
     "criteria": {
       "has_raw_lead": "2025-07-07 21:50:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -7162,6 +7415,12 @@
     },
     "done": false
   },
+  "rats:recipes/building_blocks/block_of_cheese": {
+    "criteria": {
+      "has_cheese": "2025-07-07 22:14:15 +0000"
+    },
+    "done": false
+  },
   "biomancy:recipes/biomancy/decomposing/glow_berries": {
     "criteria": {
       "has_glow_berries": "2025-07-07 21:49:54 +0000"
@@ -7186,15 +7445,33 @@
     },
     "done": false
   },
+  "rats:recipes/building_blocks/marbled_cheese_raw": {
+    "criteria": {
+      "has_cheese": "2025-07-07 22:14:15 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/misc/purifying_liquid": {
     "criteria": {
       "has_diamond": "2025-07-07 21:51:30 +0000"
     },
     "done": false
   },
+  "rats:recipes/food/chef/string_cheese": {
+    "criteria": {
+      "has_input": "2025-07-07 22:14:15 +0000"
+    },
+    "done": false
+  },
   "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
     "criteria": {
       "has_emerald_gem": "2025-07-07 21:59:11 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/aristocrat_upgrade": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -7213,6 +7490,12 @@
   "infinitybuttons:recipe/redstone/emerald_button": {
     "criteria": {
       "has_thing": "2025-07-07 21:59:11 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/golden_rat_skull": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -7253,6 +7536,12 @@
     },
     "done": false
   },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-07 21:36:48 +0000"
@@ -7283,9 +7572,27 @@
     },
     "done": false
   },
+  "tconstruct:recipes/decorations/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 21:34:10 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/tools/rat_sack": {
+    "criteria": {
+      "has_cheese": "2025-07-07 22:14:15 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
@@ -7326,6 +7633,12 @@
     },
     "done": false
   },
+  "shieldexp:recipes/golden_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-07 21:51:30 +0000"
@@ -7335,6 +7648,12 @@
   "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-07 22:05:43 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/gold_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-07 22:13:40 +0000"
     },
     "done": false
   },
