@@ -6345,3 +6345,90 @@ java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.b
 [07Jul2025 20:15:47.509] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=-3, y=249, z=215} from item 0 air and block carrot: 
 [07Jul2025 20:15:58.922] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=36, y=238, z=153} from item 0 air and block carrot: 
 [07Jul2025 20:16:01.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Getting an Upgrade]
+[07Jul2025 20:19:34.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lord_Sepia[/127.25.172.183:41181] logged in with entity id 4577 at (6.5, 77.0, -25.5)
+[07Jul2025 20:19:34.921] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Lord_Sepia
+[07Jul2025 20:19:34.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia joined the game
+[07Jul2025 20:19:35.067] [Server thread/INFO] [Jade/]: Syncing config to Lord_Sepia (4a4895a3-edde-3b3b-bebd-c36a6e33f4d4)
+[07Jul2025 20:19:35.067] [Server thread/INFO] [com.accbdd.complicated_bees.ComplicatedBees/]: syncing tracker to literal{Lord_Sepia}
+[07Jul2025 20:22:03.946] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:22:06.379] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:22:09.532] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:22:14.336] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:22:16.927] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:22:20.033] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:22:20.525] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:24:50.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia has made the advancement [Stone Age]
+[07Jul2025 20:27:22.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia was slain by Ghost
+[07Jul2025 20:27:22.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia has made the advancement [Your First Grave]
+[07Jul2025 20:27:22.276] [Server thread/INFO] [tombstone/]: The player Lord_Sepia has successfully been saved
+[07Jul2025 20:27:22.349] [ForkJoinPool.commonPool-worker-3/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent com/samsthenerd/inline/impl/MatchContextImpl for class com/samsthenerd/inline/impl/MatchContextImpl$ChatMatchContextImpl in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool.commonPool-worker-3,5,SERVER]
+[07Jul2025 20:27:22.350] [ForkJoinPool.commonPool-worker-3/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: com.samsthenerd.inline.impl.MatchContextImpl
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.samsthenerd.inline.api.matching.MatchContext$ChatMatchContext.of(MatchContext.java:137) ~[?:?]
+	at com.samsthenerd.inline.forge.InlineForge.onServerChatDecoration(InlineForge.java:57) ~[?:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onServerChatSubmittedEvent(ForgeHooks.java:412) ~[?:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getServerChatSubmittedDecorator$0(ForgeHooks.java:422) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07Jul2025 20:27:22.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lord_Sepia> -
+[07Jul2025 20:27:23.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tonisancho5[/127.238.23.215:42005] logged in with entity id 6293 at (6.5, 71.0, -21.5)
+[07Jul2025 20:27:23.831] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player tonisancho5
+[07Jul2025 20:27:23.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 joined the game
+[07Jul2025 20:27:23.884] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.player.ModPlayerEventHandler.onPlayerName(ModPlayerEventHandler.java:468) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.player.__ModPlayerEventHandler_onPlayerName_NameFormat.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.getPlayerDisplayName(ForgeEventFactory.java:339) ~[forge-1.20.1-47.4.2-universal.jar%231098!/:?]
+	at net.minecraft.world.entity.player.Player.refreshDisplayName(Player.java:2124) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1092) ~[?:?]
+	at com.github.ewan_selkirk.dimensionviewer.PlayerListHandler.updatePlayerList(PlayerListHandler.java:200) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at com.github.ewan_selkirk.dimensionviewer.PlayerListHandler.onPlayerConnect(PlayerListHandler.java:89) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at com.github.ewan_selkirk.dimensionviewer.__PlayerListHandler_onPlayerConnect_PlayerLoggedInEvent.invoke(.dynamic) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.firePlayerLoggedIn(ForgeEventFactory.java:900) ~[forge-1.20.1-47.4.2-universal.jar%231098!/:?]
+	at net.minecraft.server.players.PlayerList.m_11261_(PlayerList.java:261) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_143699_(ServerLoginPacketListenerImpl.java:139) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_10055_(ServerLoginPacketListenerImpl.java:126) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_9933_(ServerLoginPacketListenerImpl.java:70) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Jul2025 20:27:23.980] [Server thread/INFO] [Jade/]: Syncing config to tonisancho5 (8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d)
+[07Jul2025 20:27:23.981] [Server thread/INFO] [com.accbdd.complicated_bees.ComplicatedBees/]: syncing tracker to literal{tonisancho5}

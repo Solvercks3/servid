@@ -17,6 +17,12 @@
     },
     "done": false
   },
+  "rats:recipes/food/chef/little_black_squash_balls": {
+    "criteria": {
+      "has_input": "2025-07-07 20:20:19 +0000"
+    },
+    "done": false
+  },
   "mcwbyg:recipes/fir_hedge": {
     "criteria": {
       "has_birch": "2025-07-07 20:09:44 +0000"
@@ -26,6 +32,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-07-07 20:09:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-07 20:15:45 +0000"
     },
     "done": false
   },
@@ -116,6 +128,7 @@
   },
   "vampirism:recipes/decorations/general/tombstone2": {
     "criteria": {
+      "has_stone": "2025-07-07 20:15:45 +0000",
       "has_coble": "2025-07-07 20:15:04 +0000"
     },
     "done": false
@@ -143,6 +156,12 @@
       "tick": "2025-07-07 20:09:42 +0000"
     },
     "done": true
+  },
+  "occultism:recipes/spirit_trade/spirit_trade/stone_to_otherstone": {
+    "criteria": {
+      "has_stone": "2025-07-07 20:15:45 +0000"
+    },
+    "done": false
   },
   "mcwbyg:recipes/zelkova_fences": {
     "criteria": {
@@ -317,6 +336,12 @@
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2025-07-07 20:13:42 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/christmas_upgrade": {
+    "criteria": {
+      "has_coal": "2025-07-07 20:20:19 +0000"
     },
     "done": false
   },
@@ -579,6 +604,12 @@
     },
     "done": false
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-07 20:16:01 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/green_enchanted_boat": {
     "criteria": {
       "in_water": "2025-07-07 20:11:36 +0000"
@@ -643,6 +674,12 @@
   "vampirism:recipes/decorations/general/altar_cleansing": {
     "criteria": {
       "has_vampire_book": "2025-07-07 20:13:40 +0000"
+    },
+    "done": false
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_wood": "2025-07-07 20:20:19 +0000"
     },
     "done": false
   },
@@ -921,6 +958,12 @@
     },
     "done": false
   },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-07-07 20:20:19 +0000"
+    },
+    "done": false
+  },
   "biomancy:recipes/biomancy/decomposing/sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-07 20:11:45 +0000"
@@ -1017,6 +1060,12 @@
       "has_sand": "2025-07-07 20:09:44 +0000"
     },
     "done": true
+  },
+  "rats:recipes/misc/upgrades/disenchanter_upgrade": {
+    "criteria": {
+      "has_shelf": "2025-07-07 20:15:45 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
@@ -1153,6 +1202,8 @@
   "rats:recipes/misc/upgrades/crafting_upgrade": {
     "criteria": {
       "has_table": "2025-07-07 20:14:34 +0000",
+      "has_pick": "2025-07-07 20:16:01 +0000",
+      "has_axe": "2025-07-07 20:16:13 +0000",
       "has_planks": "2025-07-07 20:13:40 +0000"
     },
     "done": false
@@ -1501,6 +1552,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/torch_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 20:16:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-07-07 20:13:42 +0000"
@@ -1591,6 +1648,12 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/torch_lever": {
+    "criteria": {
+      "has_thing": "2025-07-07 20:16:01 +0000"
+    },
+    "done": false
+  },
   "hexcasting:grant_patchi_book": {
     "criteria": {
       "tick": "2025-07-07 20:09:42 +0000"
@@ -1617,6 +1680,7 @@
   },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
+      "has_coal": "2025-07-07 20:20:19 +0000",
       "has_stick": "2025-07-07 20:13:42 +0000"
     },
     "done": false
@@ -1747,6 +1811,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-07-07 20:15:04 +0000"
+    },
+    "done": false
+  },
+  "vampirism:recipes/decorations/general/grave_cage": {
+    "criteria": {
+      "has_coal": "2025-07-07 20:20:19 +0000"
     },
     "done": false
   },
@@ -1975,6 +2045,12 @@
   "supplementaries:recipes/daub_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-07-07 20:13:42 +0000"
+    },
+    "done": false
+  },
+  "occultism:recipes/spirit_trade/spirit_trade/test": {
+    "criteria": {
+      "has_stone": "2025-07-07 20:15:45 +0000"
     },
     "done": false
   },
@@ -2362,6 +2438,12 @@
     },
     "done": false
   },
+  "sliceanddice:recipes/misc/slicer": {
+    "criteria": {
+      "has_tool": "2025-07-07 20:16:13 +0000"
+    },
+    "done": false
+  },
   "enderio:recipes/misc/wood_gear_corner": {
     "criteria": {
       "has_ingredient": "2025-07-07 20:13:42 +0000"
@@ -2622,6 +2704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-07 20:20:19 +0000"
+    },
+    "done": false
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-07-07 20:09:42 +0000"
@@ -2631,6 +2719,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-07-07 20:13:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-07-07 20:16:01 +0000"
     },
     "done": false
   },
