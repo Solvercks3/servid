@@ -6286,3 +6286,62 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Unclosed quoted string a
 [07Jul2025 20:00:04.757] [Server thread/WARN] [Daily Rewards/]: Daily Rewards unable to save special reward user data, because data are empty!
 [07Jul2025 20:00:04.759] [Server thread/INFO] [Daily Rewards/]: Daily Rewards saving reward data ... {2025-7=[1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_curio, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic, 1 loyalty_card_generic]}
 [07Jul2025 20:00:04.760] [Server thread/INFO] [Daily Rewards/]: Daily Rewards saving special reward data ... {2025-7=[1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake, 1 jaffa_cake]}
+[07Jul2025 20:02:10.561] [Netty Epoll Server IO #1/WARN] [mixin/]: @ModifyConstant conflict. Skipping connectivity.mixins.json:PacketEncoderMixin->@ModifyConstant::modifyLimit(ILio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/protocol/Packet;Lio/netty/buffer/ByteBuf;)I with priority 1000, already redirected by packetfixer-common.mixins.json:PacketEncoderMixin->@ModifyConstant::newSize(I)I with priority 9999
+[07Jul2025 20:02:10.692] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[07Jul2025 20:02:10.694] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[07Jul2025 20:02:10.696] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[07Jul2025 20:02:15.857] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1299cd56[id=<null>,name=Lord_Sepia,properties={},legacy=false] (/127.25.172.183:57657) lost connection: Disconnected
+[07Jul2025 20:09:40.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Solvercks[/127.45.231.166:42997] logged in with entity id 2557 at (-3.5, 89.0, -22.5)
+[07Jul2025 20:09:40.191] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[07Jul2025 20:09:40.192] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for com.Polarice3.Goety.common.entities.ally.Doppelganger: java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[07Jul2025 20:09:40.489] [Server thread/INFO] [Modonomicon/]: Building books ...
+[07Jul2025 20:09:40.497] [Server thread/INFO] [Modonomicon/]: Books built.
+[07Jul2025 20:09:40.634] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Solvercks
+[07Jul2025 20:09:40.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks joined the game
+[07Jul2025 20:09:41.404] [Server thread/INFO] [structurize/]: New Server UUID 3259d3c6-45c5-4d70-83c9-fde25582b46f
+[07Jul2025 20:09:41.779] [Server thread/INFO] [Jade/]: Syncing config to Solvercks (96ecdbd9-974d-34e4-8d4d-8d587237377a)
+[07Jul2025 20:09:41.783] [Server thread/INFO] [com.accbdd.complicated_bees.ComplicatedBees/]: syncing tracker to literal{Solvercks}
+[07Jul2025 20:09:42.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2672ms or 53 ticks behind
+[07Jul2025 20:09:45.767] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[07Jul2025 20:10:06.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8697ms or 173 ticks behind
+[07Jul2025 20:11:45.717] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:11:46.508] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:11:49.085] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:11:49.361] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:12:15.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has reached the goal [Sweet Sweet Speeding Up]
+[07Jul2025 20:12:24.905] [Server thread/ERROR] [net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer/]: Exception loading structure piece with id minecraft:rupo
+java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.block.Mirror.
+	at java.lang.Enum.valueOf(Enum.java:273) ~[?:?]
+	at net.minecraft.world.level.block.Mirror.valueOf(Mirror.java:11) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229165_(RuinedPortalPiece.java:121) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229185_(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.world.level.levelgen.structure.TemplateStructurePiece.<init>(TemplateStructurePiece.java:60) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.<init>(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.StructurePieceType$StructureTemplateType.m_207333_(StructurePieceType.java:101) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.m_192753_(PiecesContainer.java:73) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureStart.m_226857_(StructureStart.java:57) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188254_(ChunkSerializer.java:454) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188230_(ChunkSerializer.java:199) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.level.ChunkMap.m_288112_(ChunkMap.java:578) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:269) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:758) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Jul2025 20:12:58.454] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:13:22.040] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:13:42.929] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:15:04.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Stone Age]
+[07Jul2025 20:15:43.308] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=-19, y=238, z=122} from item 0 air and block carrot: 
+[07Jul2025 20:15:47.509] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=-3, y=249, z=215} from item 0 air and block carrot: 
+[07Jul2025 20:15:58.922] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=36, y=238, z=153} from item 0 air and block carrot: 
+[07Jul2025 20:16:01.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Getting an Upgrade]
