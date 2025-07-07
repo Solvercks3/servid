@@ -4417,6 +4417,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-07 22:19:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-07 22:15:41 +0000"
@@ -5935,6 +5941,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-07 22:19:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-07 22:15:26 +0000"
@@ -6202,6 +6214,12 @@
   "infinitybuttons:recipe/redstone/waxed_oxidized_copper_button": {
     "criteria": {
       "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-07 22:19:26 +0000"
     },
     "done": false
   },
