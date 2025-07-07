@@ -13,9 +13,10 @@
   },
   "mutantmonsters:root": {
     "criteria": {
-      "killed_by_something": "2025-07-07 20:27:22 +0000"
+      "killed_by_something": "2025-07-07 20:27:22 +0000",
+      "killed_something": "2025-07-07 21:00:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
@@ -56,6 +57,12 @@
   "constructionwand:recipes/tools/stone_wand": {
     "criteria": {
       "has_item": "2025-07-07 20:24:50 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/food/chef/little_black_squash_balls": {
+    "criteria": {
+      "has_input": "2025-07-07 20:58:09 +0000"
     },
     "done": false
   },
@@ -216,6 +223,12 @@
     },
     "done": false
   },
+  "fairylights:recipes/fairylights/oil_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-07 20:59:30 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/tools/blood_pendant": {
     "criteria": {
       "has_item": "2025-07-07 20:25:35 +0000"
@@ -224,7 +237,8 @@
   },
   "vampirism:recipes/decorations/general/tombstone2": {
     "criteria": {
-      "has_stone": "2025-07-07 20:24:50 +0000"
+      "has_stone": "2025-07-07 20:24:50 +0000",
+      "has_coble": "2025-07-07 21:06:50 +0000"
     },
     "done": false
   },
@@ -342,6 +356,18 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/jack_o_ratern": {
+    "criteria": {
+      "has_torch": "2025-07-07 20:59:30 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/tools/green_cactus_extra": {
+    "criteria": {
+      "has_material": "2025-07-07 21:06:24 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-07 20:24:50 +0000"
@@ -356,6 +382,7 @@
   },
   "supplementaries:recipes/turn_table": {
     "criteria": {
+      "has_cobblestone": "2025-07-07 21:06:50 +0000",
       "minecraft:planks": "2025-07-07 20:21:52 +0000"
     },
     "done": false
@@ -369,6 +396,12 @@
   "biomeswevegone:recipes/transportation/aspen_boat": {
     "criteria": {
       "in_water": "2025-07-07 20:21:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-07-07 21:06:50 +0000"
     },
     "done": false
   },
@@ -451,6 +484,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2025-07-07 21:06:50 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2025-07-07 20:19:35 +0000"
@@ -486,6 +531,12 @@
       "has_stone": "2025-07-07 20:19:35 +0000"
     },
     "done": true
+  },
+  "fairylights:recipes/fairylights/candle_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-07 20:59:30 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
@@ -550,6 +601,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-07-07 20:24:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-07-07 21:06:50 +0000"
     },
     "done": false
   },
@@ -653,6 +710,18 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 20:24:53 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-07-07 21:05:13 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/bow_upgrade": {
+    "criteria": {
+      "has_arrow": "2025-07-07 21:00:32 +0000"
     },
     "done": false
   },
@@ -770,6 +839,12 @@
     },
     "done": false
   },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-07-07 20:21:47 +0000"
@@ -788,9 +863,27 @@
     },
     "done": false
   },
+  "rats:recipes/misc/upgrades/undead_upgrade": {
+    "criteria": {
+      "has_bone": "2025-07-07 21:00:32 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2025-07-07 20:21:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-07 21:10:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-07 21:00:32 +0000"
     },
     "done": false
   },
@@ -870,7 +963,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-07-07 20:33:49 +0000"
+      "apple": "2025-07-07 20:33:49 +0000",
+      "potato": "2025-07-07 20:59:12 +0000"
     },
     "done": false
   },
@@ -883,6 +977,12 @@
   "vampirism:recipes/decorations/general/altar_cleansing": {
     "criteria": {
       "has_vampire_book": "2025-07-07 20:21:52 +0000"
+    },
+    "done": false
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_wood": "2025-07-07 20:58:09 +0000"
     },
     "done": false
   },
@@ -907,6 +1007,12 @@
   "rats:recipes/transportation/pirat_boat": {
     "criteria": {
       "in_water": "2025-07-07 20:21:11 +0000"
+    },
+    "done": false
+  },
+  "fairylights:recipes/fairylights/incandescent_light": {
+    "criteria": {
+      "has_torch": "2025-07-07 20:59:30 +0000"
     },
     "done": false
   },
@@ -1012,6 +1118,12 @@
     },
     "done": false
   },
+  "biomeswevegone:recipes/building_blocks/rocky_stone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/remote_group_upgrade": {
     "criteria": {
       "has_template": "2025-07-07 20:19:35 +0000"
@@ -1027,6 +1139,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-07 20:25:27 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/tools/cactus_extra": {
+    "criteria": {
+      "has_material": "2025-07-07 21:06:24 +0000"
     },
     "done": false
   },
@@ -1102,6 +1220,12 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/emerald_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:05:07 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/crimson_trim": {
     "criteria": {
       "has_planks": "2025-07-07 20:19:35 +0000"
@@ -1150,6 +1274,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 21:05:13 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/portability_upgrade": {
     "criteria": {
       "has_template": "2025-07-07 20:19:35 +0000"
@@ -1167,6 +1297,12 @@
       "has_birch": "2025-07-07 20:19:35 +0000"
     },
     "done": true
+  },
+  "domum_ornamentum:recipes/tools/cobblestone_extra": {
+    "criteria": {
+      "has_material": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
@@ -1212,6 +1348,12 @@
   "storagedrawers:recipes/storagedrawers/drawer_key": {
     "criteria": {
       "has_template": "2025-07-07 20:19:35 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-07-07 20:58:09 +0000"
     },
     "done": false
   },
@@ -1263,6 +1405,12 @@
     },
     "done": false
   },
+  "rats:recipes/misc/archeologist/gem_of_ratlantis": {
+    "criteria": {
+      "has_input": "2025-07-07 21:05:07 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/food/sushi": {
     "criteria": {
       "has_alt_items": "2025-07-07 20:19:35 +0000",
@@ -1279,6 +1427,12 @@
   "quark:get_all_blossom_saplings": {
     "criteria": {
       "yellow": "2025-07-07 20:38:11 +0000"
+    },
+    "done": false
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_wood": "2025-07-07 20:59:30 +0000"
     },
     "done": false
   },
@@ -1444,6 +1598,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2025-07-07 21:00:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-07 20:24:53 +0000"
@@ -1453,6 +1613,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-07-07 20:22:01 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/emerald": {
+    "criteria": {
+      "has_emerald": "2025-07-07 21:05:07 +0000"
     },
     "done": false
   },
@@ -1512,7 +1678,8 @@
   },
   "supplementaries:recipes/speaker_block": {
     "criteria": {
-      "minecraft:planks": "2025-07-07 20:21:52 +0000"
+      "minecraft:planks": "2025-07-07 20:21:52 +0000",
+      "has_emerald": "2025-07-07 21:05:07 +0000"
     },
     "done": false
   },
@@ -1522,9 +1689,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-07-07 21:06:24 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/misc/upgrades/crafting_upgrade": {
     "criteria": {
       "has_table": "2025-07-07 20:22:42 +0000",
+      "has_pick": "2025-07-07 21:10:46 +0000",
       "has_planks": "2025-07-07 20:21:52 +0000"
     },
     "done": false
@@ -1532,6 +1706,12 @@
   "storagedrawers:recipes/storagedrawers/bamboo_trim": {
     "criteria": {
       "has_planks": "2025-07-07 20:19:35 +0000"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-07-07 21:00:32 +0000"
     },
     "done": false
   },
@@ -1577,6 +1757,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 21:05:13 +0000"
+    },
+    "done": false
+  },
   "etched:recipes/misc/boombox": {
     "criteria": {
       "has_jukebox": "2025-07-07 20:19:35 +0000"
@@ -1610,6 +1796,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-07-07 20:26:31 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-07 21:06:50 +0000"
     },
     "done": false
   },
@@ -1769,6 +1961,12 @@
     },
     "done": false
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-07-07 21:00:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/deepslate_brick_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-07 20:25:00 +0000"
@@ -1784,6 +1982,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-07-07 20:22:20 +0000",
+      "minecraft:dripstone_caves": "2025-07-07 20:57:41 +0000",
       "autumnity:autumnity:maple_forest": "2025-07-07 20:22:33 +0000",
       "minecraft:plains": "2025-07-07 20:27:27 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-07-07 20:21:18 +0000"
@@ -1810,7 +2009,14 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
-      "dirt": "2025-07-07 20:42:19 +0000"
+      "dirt": "2025-07-07 20:42:19 +0000",
+      "silt": "2025-07-07 21:15:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-07 21:06:50 +0000"
     },
     "done": false
   },
@@ -1831,6 +2037,12 @@
       "has_birch": "2025-07-07 20:19:35 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_chimney": {
+    "criteria": {
+      "has_cobblestone": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1874,6 +2086,12 @@
     },
     "done": false
   },
+  "buildinggadgets2:recipes/misc/gadget_copy_paste": {
+    "criteria": {
+      "has_emerald": "2025-07-07 21:05:07 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/polished_blackstone_brick_secret_button": {
     "criteria": {
       "has_thing": "2025-07-07 20:25:27 +0000"
@@ -1889,6 +2107,12 @@
   "supplementaries:recipes/stonecutting/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-07 20:25:27 +0000"
+    },
+    "done": false
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_wood": "2025-07-07 20:59:30 +0000"
     },
     "done": false
   },
@@ -1964,6 +2188,12 @@
     },
     "done": false
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_cactus": {
+    "criteria": {
+      "has_cactus": "2025-07-07 21:06:24 +0000"
+    },
+    "done": false
+  },
   "mcwbyg:recipes/flowering_indigo_jacaranda_hedge": {
     "criteria": {
       "has_birch": "2025-07-07 20:19:35 +0000"
@@ -1985,6 +2215,12 @@
   "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
     "criteria": {
       "has_template": "2025-07-07 20:19:35 +0000"
+    },
+    "done": false
+  },
+  "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
+    "criteria": {
+      "has_raw_tin": "2025-07-07 21:12:19 +0000"
     },
     "done": false
   },
@@ -2024,11 +2260,23 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/strength_upgrade": {
+    "criteria": {
+      "has_bone": "2025-07-07 21:00:32 +0000"
+    },
+    "done": false
+  },
   "create:root": {
     "criteria": {
       "0": "2025-07-07 20:19:35 +0000"
     },
     "done": true
+  },
+  "infinitybuttons:recipe/redstone/torch_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:10:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
@@ -2186,6 +2434,12 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/torch_lever": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:10:46 +0000"
+    },
+    "done": false
+  },
   "hexcasting:grant_patchi_book": {
     "criteria": {
       "tick": "2025-07-07 20:19:35 +0000"
@@ -2298,6 +2552,24 @@
     },
     "done": false
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-07-07 21:00:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-07-07 20:59:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
+  },
   "delightful:recipes/food/cooking/jam_jar": {
     "criteria": {
       "has_sweet_fruit": "2025-07-07 20:28:44 +0000"
@@ -2352,9 +2624,21 @@
     },
     "done": false
   },
+  "farmersrespite:recipes/cooking/tea_curry": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 21:05:13 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-07 20:24:50 +0000"
+    },
+    "done": false
+  },
+  "vampirism:recipes/decorations/general/grave_cage": {
+    "criteria": {
+      "has_coal": "2025-07-07 20:58:09 +0000"
     },
     "done": false
   },
@@ -2367,6 +2651,18 @@
   "vampirism:recipes/combat/hunter/stake": {
     "criteria": {
       "has_sticks": "2025-07-07 20:21:47 +0000"
+    },
+    "done": false
+  },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2025-07-07 21:00:32 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/crossbow_upgrade": {
+    "criteria": {
+      "has_arrow": "2025-07-07 21:00:32 +0000"
     },
     "done": false
   },
@@ -2442,9 +2738,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-07 21:10:52 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-07-07 20:21:52 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-07 21:05:07 +0000"
     },
     "done": false
   },
@@ -2453,6 +2767,12 @@
       "has_oak": "2025-07-07 20:19:35 +0000"
     },
     "done": true
+  },
+  "rats:recipes/misc/upgrades/pickpocket_upgrade": {
+    "criteria": {
+      "has_emerald": "2025-07-07 21:05:07 +0000"
+    },
+    "done": false
   },
   "storagedrawers:recipes/storagedrawers/void_upgrade": {
     "criteria": {
@@ -2496,15 +2816,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-07 21:00:32 +0000"
+    },
+    "done": false
+  },
   "mcwbyg:recipes/orange_spruce_hedge": {
     "criteria": {
       "has_birch": "2025-07-07 20:19:35 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2025-07-07 21:00:32 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-07-07 20:21:52 +0000"
+    },
+    "done": false
+  },
+  "delightful:recipes/knives/bone_knife": {
+    "criteria": {
+      "has_bones": "2025-07-07 21:00:32 +0000"
     },
     "done": false
   },
@@ -2610,6 +2948,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_wood": "2025-07-07 20:59:30 +0000"
+    },
+    "done": false
+  },
   "delightful:recipes/smoking/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-07-07 20:26:35 +0000"
@@ -2688,6 +3032,18 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 21:05:13 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
     "criteria": {
       "has_template": "2025-07-07 20:19:35 +0000"
@@ -2706,11 +3062,23 @@
     },
     "done": false
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-07 21:00:32 +0000"
+    },
+    "done": false
+  },
   "mcwbyg:recipes/green_enchanted_hedge": {
     "criteria": {
       "has_birch": "2025-07-07 20:19:35 +0000"
     },
     "done": true
+  },
+  "mcwpaths:recipes/cobblestone": {
+    "criteria": {
+      "has_wood": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
   },
   "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
     "criteria": {
@@ -2727,6 +3095,12 @@
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2025-07-07 20:24:53 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 21:05:13 +0000"
     },
     "done": false
   },
@@ -2796,6 +3170,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-07-07 21:00:32 +0000"
+    },
+    "done": false
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-07-07 20:27:26 +0000"
@@ -2811,6 +3191,12 @@
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2025-07-07 20:21:52 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-07-07 21:05:13 +0000"
     },
     "done": false
   },
@@ -2882,6 +3268,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-07 21:00:32 +0000"
+    },
+    "done": false
+  },
   "goety:goety/root": {
     "criteria": {
       "tick": "2025-07-07 20:19:35 +0000"
@@ -2900,11 +3298,23 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
       "has_items": "2025-07-07 20:19:35 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 21:00:27 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
@@ -3116,13 +3526,20 @@
   },
   "minecraft:adventure/root": {
     "criteria": {
-      "killed_by_something": "2025-07-07 20:27:22 +0000"
+      "killed_by_something": "2025-07-07 20:27:22 +0000",
+      "killed_something": "2025-07-07 21:00:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "rats:recipes/misc/upgrades/health_upgrade": {
     "criteria": {
       "has_bread": "2025-07-07 20:48:45 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_bones": {
+    "criteria": {
+      "has_bones": "2025-07-07 21:00:32 +0000"
     },
     "done": false
   },
@@ -3180,6 +3597,12 @@
     },
     "done": false
   },
+  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+    "criteria": {
+      "has_emerald_gem": "2025-07-07 21:05:07 +0000"
+    },
+    "done": false
+  },
   "vc_gliders:recipes/misc/nether_upgrade": {
     "criteria": {
       "has_crafting_table": "2025-07-07 20:22:42 +0000"
@@ -3204,6 +3627,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/emerald_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:05:07 +0000"
+    },
+    "done": false
+  },
   "brewinandchewin:recipes/cooking/apple_jelly": {
     "criteria": {
       "has_apple": "2025-07-07 20:28:44 +0000"
@@ -3221,6 +3650,12 @@
       "has_wit": "2025-07-07 20:19:35 +0000",
       "has_wpt": "2025-07-07 20:19:35 +0000",
       "has_wct": "2025-07-07 20:19:35 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/archeologist_upgrade": {
+    "criteria": {
+      "has_bone": "2025-07-07 21:00:32 +0000"
     },
     "done": false
   },
@@ -3242,6 +3677,18 @@
       "has_end_brick": "2025-07-07 20:19:35 +0000"
     },
     "done": true
+  },
+  "domum_ornamentum:recipes/tools/blue_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 21:05:13 +0000"
+    },
+    "done": false
   },
   "rats:recipes/tools/cheese_stick": {
     "criteria": {
@@ -3369,6 +3816,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-07-07 20:59:30 +0000"
+    },
+    "done": false
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-07-07 20:19:35 +0000"
@@ -3417,6 +3870,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-07 20:58:09 +0000"
+    },
+    "done": false
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-07-07 20:19:35 +0000"
@@ -3432,6 +3891,12 @@
   "minecraft:recipes/food/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-07-07 20:22:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-07-07 21:10:46 +0000"
     },
     "done": false
   },
@@ -3508,6 +3973,12 @@
     },
     "done": false
   },
+  "domum_ornamentum:recipes/tools/green_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
+  },
   "energymeter:recipes/energymeter/meter": {
     "criteria": {
       "has_item": "2025-07-07 20:19:35 +0000"
@@ -3574,9 +4045,21 @@
     },
     "done": false
   },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-07 20:25:00 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/gem_of_ratlantis": {
+    "criteria": {
+      "has_emerald": "2025-07-07 21:05:07 +0000"
     },
     "done": false
   },
@@ -3652,6 +4135,18 @@
       "has_acacia": "2025-07-07 20:19:35 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-07 21:05:13 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/tools/purple_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2025-07-07 21:06:50 +0000"
+    },
+    "done": false
   },
   "mcwbyg:recipes/white_sandstone_walls": {
     "criteria": {

@@ -6770,3 +6770,131 @@ java.lang.Throwable: null
 [07Jul2025 20:58:21.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tonisancho5 joined the game
 [07Jul2025 20:58:21.826] [Server thread/INFO] [Jade/]: Syncing config to Tonisancho5 (1cada1d5-8622-3b72-a954-ba01a4969f04)
 [07Jul2025 20:58:21.826] [Server thread/INFO] [com.accbdd.complicated_bees.ComplicatedBees/]: syncing tracker to literal{Tonisancho5}
+[07Jul2025 20:58:37.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Jul2025 20:59:19.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tonisancho5 lost connection: Timed out
+[07Jul2025 20:59:19.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tonisancho5 left the game
+[07Jul2025 20:59:42.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tonisancho5[/127.238.23.215:50451] logged in with entity id 18365 at (-5.5, 98.0, -31.5)
+[07Jul2025 20:59:42.102] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tonisancho5
+[07Jul2025 20:59:42.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tonisancho5 joined the game
+[07Jul2025 20:59:42.202] [Server thread/INFO] [Jade/]: Syncing config to Tonisancho5 (1cada1d5-8622-3b72-a954-ba01a4969f04)
+[07Jul2025 20:59:42.203] [Server thread/INFO] [com.accbdd.complicated_bees.ComplicatedBees/]: syncing tracker to literal{Tonisancho5}
+[07Jul2025 20:59:46.091] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:59:51.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[07Jul2025 21:00:11.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5034ms or 100 ticks behind
+[07Jul2025 21:00:20.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia was doomed to fall by Skeleton
+[07Jul2025 21:00:20.483] [Server thread/INFO] [tombstone/]: The player Lord_Sepia has successfully been saved
+[07Jul2025 21:00:27.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia has reached the goal [Here They Come]
+[07Jul2025 21:00:40.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tonisancho5 lost connection: Timed out
+[07Jul2025 21:00:40.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tonisancho5 left the game
+[07Jul2025 21:02:29.130] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b60164a[id=<null>,name=Tonisancho5,properties={},legacy=false] (/127.102.189.12:36143) lost connection: Disconnected
+[07Jul2025 21:02:44.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -235.500000, 79.500000, 501.500000]
+[07Jul2025 21:03:12.143] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:03:15.887] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:03:16.346] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:03:17.188] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:03:17.389] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:03:17.888] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:03:18.986] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:03:19.739] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:03:31.634] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:03:32.982] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:04:19.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Jul2025 21:04:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Web Spider
+[07Jul2025 21:04:39.151] [Server thread/INFO] [tombstone/]: The player Solvercks has successfully been saved
+[07Jul2025 21:04:39.222] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Jul2025 21:04:39.223] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[07Jul2025 21:04:39.223] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 book
+[07Jul2025 21:04:39.223] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Jul2025 21:04:39.224] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[07Jul2025 21:04:54.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -235.500000, 79.500000, 501.500000]
+[07Jul2025 21:05:26.234] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:05:31.039] [Server thread/WARN] [dev.qther.nanny.NaNny/]: A damage event tried to deal NaN damage to Guard! Source: DamageSource (goety.iceBouquet)
+[07Jul2025 21:05:31.384] [Server thread/WARN] [dev.qther.nanny.NaNny/]: A damage event tried to deal NaN damage to Guard! Source: DamageSource (goety.iceBouquet)
+[07Jul2025 21:05:31.696] [Server thread/WARN] [dev.qther.nanny.NaNny/]: A damage event tried to deal NaN damage to Guard! Source: DamageSource (goety.iceBouquet)
+[07Jul2025 21:05:36.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tonisancho5[/127.102.189.12:38825] logged in with entity id 20709 at (-5.5, 98.0, -31.5)
+[07Jul2025 21:05:36.331] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Tonisancho5
+[07Jul2025 21:05:36.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tonisancho5 joined the game
+[07Jul2025 21:05:36.416] [Server thread/INFO] [Jade/]: Syncing config to Tonisancho5 (1cada1d5-8622-3b72-a954-ba01a4969f04)
+[07Jul2025 21:05:36.416] [Server thread/INFO] [com.accbdd.complicated_bees.ComplicatedBees/]: syncing tracker to literal{Tonisancho5}
+[07Jul2025 21:05:40.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[07Jul2025 21:05:41.026] [Server thread/WARN] [dev.qther.nanny.NaNny/]: A damage event tried to deal NaN damage to Guard! Source: DamageSource (goety.iceBouquet)
+[07Jul2025 21:05:41.396] [Server thread/WARN] [dev.qther.nanny.NaNny/]: A damage event tried to deal NaN damage to Guard! Source: DamageSource (goety.iceBouquet)
+[07Jul2025 21:05:41.784] [Server thread/WARN] [dev.qther.nanny.NaNny/]: A damage event tried to deal NaN damage to Guard! Source: DamageSource (goety.iceBouquet)
+[07Jul2025 21:05:52.183] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:05:52.574] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:05:57.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[07Jul2025 21:06:13.902] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:06:20.859] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:06:22.078] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:06:25.603] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:06:26.227] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:06:26.960] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:06:34.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tonisancho5 lost connection: Timed out
+[07Jul2025 21:06:34.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tonisancho5 left the game
+[07Jul2025 21:07:06.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia was shot by Guard
+[07Jul2025 21:07:06.509] [Server thread/INFO] [tombstone/]: The player Lord_Sepia has successfully been saved
+[07Jul2025 21:08:10.153] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:08:11.114] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:08:45.688] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:08:46.440] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:08:47.037] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:09:32.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Bison
+[07Jul2025 21:09:32.173] [Server thread/INFO] [tombstone/]: The player Solvercks has successfully been saved
+[07Jul2025 21:09:38.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -196.500000, 79.500000, 514.500000]
+[07Jul2025 21:09:47.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Knowledge of Death]
+[07Jul2025 21:09:47.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has reached the goal [Chain Death]
+[07Jul2025 21:09:47.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Bison
+[07Jul2025 21:09:47.834] [Server thread/INFO] [tombstone/]: The player Solvercks has successfully been saved
+[07Jul2025 21:09:53.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -235.500000, 79.500000, 501.500000]
+[07Jul2025 21:10:46.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia has made the advancement [Getting an Upgrade]
+[07Jul2025 21:11:50.438] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:15:23.637] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:15:56.539] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:16:15.837] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:16:21.796] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:16:22.739] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:16:34.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tonisancho5[/127.238.23.215:39483] logged in with entity id 24950 at (6.5, 71.0, -21.5)
+[07Jul2025 21:16:34.855] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player tonisancho5
+[07Jul2025 21:16:34.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 joined the game
+[07Jul2025 21:16:34.974] [Server thread/INFO] [Jade/]: Syncing config to tonisancho5 (8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d)
+[07Jul2025 21:16:34.974] [Server thread/INFO] [com.accbdd.complicated_bees.ComplicatedBees/]: syncing tracker to literal{tonisancho5}
+[07Jul2025 21:16:36.806] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['tonisancho5'/24950, l='ServerLevel[world]', x=6.50, y=71.00, z=-21.50, removed=KILLED]
+[07Jul2025 21:16:46.683] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:17:32.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 lost connection: Timed out
+[07Jul2025 21:17:32.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 left the game
+[07Jul2025 21:17:32.836] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.player.ModPlayerEventHandler.onPlayerName(ModPlayerEventHandler.java:468) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.player.__ModPlayerEventHandler_onPlayerName_NameFormat.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.getPlayerDisplayName(ForgeEventFactory.java:339) ~[forge-1.20.1-47.4.2-universal.jar%231098!/:?]
+	at net.minecraft.world.entity.player.Player.refreshDisplayName(Player.java:2124) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1092) ~[?:?]
+	at com.github.ewan_selkirk.dimensionviewer.PlayerListHandler.updatePlayerList(PlayerListHandler.java:200) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at com.github.ewan_selkirk.dimensionviewer.PlayerListHandler.onPlayerDisconnect(PlayerListHandler.java:97) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at com.github.ewan_selkirk.dimensionviewer.__PlayerListHandler_onPlayerDisconnect_PlayerLoggedOutEvent.invoke(.dynamic) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.firePlayerLoggedOut(ForgeEventFactory.java:905) ~[forge-1.20.1-47.4.2-universal.jar%231098!/:?]
+	at net.minecraft.server.players.PlayerList.m_11286_(PlayerList.java:346) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7026_(ServerGamePacketListenerImpl.java:1134) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.network.Connection.m_129541_(Connection.java:432) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:157) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Jul2025 21:17:58.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tonisancho5[/127.238.23.215:60305] logged in with entity id 25261 at (6.5, 71.0, -21.5)
+[07Jul2025 21:17:58.090] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player tonisancho5
+[07Jul2025 21:17:58.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 joined the game
+[07Jul2025 21:17:58.224] [Server thread/INFO] [Jade/]: Syncing config to tonisancho5 (8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d)
+[07Jul2025 21:17:58.224] [Server thread/INFO] [com.accbdd.complicated_bees.ComplicatedBees/]: syncing tracker to literal{tonisancho5}
+[07Jul2025 21:17:58.649] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['tonisancho5'/25261, l='ServerLevel[world]', x=6.50, y=71.00, z=-21.50, removed=KILLED]
+[07Jul2025 21:18:18.935] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.

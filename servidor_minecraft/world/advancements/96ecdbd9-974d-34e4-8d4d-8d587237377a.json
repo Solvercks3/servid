@@ -1,4 +1,10 @@
 {
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
   "mutantmonsters:root": {
     "criteria": {
       "killed_by_something": "2025-07-07 20:29:36 +0000",
@@ -256,6 +262,7 @@
   },
   "fairylights:recipes/fairylights/oil_lantern": {
     "criteria": {
+      "has_torch": "2025-07-07 20:59:23 +0000",
       "has_iron": "2025-07-07 20:40:02 +0000"
     },
     "done": false
@@ -326,6 +333,12 @@
       "tick": "2025-07-07 20:09:42 +0000"
     },
     "done": true
+  },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-07-07 21:03:18 +0000"
+    },
+    "done": false
   },
   "occultism:recipes/spirit_trade/spirit_trade/stone_to_otherstone": {
     "criteria": {
@@ -423,6 +436,12 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/jack_o_ratern": {
+    "criteria": {
+      "has_torch": "2025-07-07 20:59:23 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/misc/smeltery/copper_can": {
     "criteria": {
       "has_item": "2025-07-07 20:40:02 +0000"
@@ -438,6 +457,12 @@
   "brewinandchewin:recipes/fermenting/jerky": {
     "criteria": {
       "has_raw_meat": "2025-07-07 20:36:27 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 21:09:08 +0000"
     },
     "done": false
   },
@@ -483,6 +508,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-07 20:15:04 +0000"
+    },
+    "done": false
+  },
+  "minecolonies:recipes/food/mint_tea": {
+    "criteria": {
+      "has_mint": "2025-07-07 21:03:09 +0000"
     },
     "done": false
   },
@@ -633,6 +664,7 @@
   },
   "fairylights:recipes/fairylights/candle_lantern": {
     "criteria": {
+      "has_torch": "2025-07-07 20:59:23 +0000",
       "has_iron": "2025-07-07 20:40:02 +0000"
     },
     "done": false
@@ -690,6 +722,18 @@
   "vanillabackport:recipes/transportation/pale_oak_boat": {
     "criteria": {
       "in_water": "2025-07-07 20:11:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-07 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/misc/frostaya_crate": {
+    "criteria": {
+      "has_frostaya_pod": "2025-07-07 21:08:43 +0000"
     },
     "done": false
   },
@@ -919,9 +963,16 @@
   },
   "rats:recipes/misc/upgrades/lumberjack_upgrade": {
     "criteria": {
+      "has_axe": "2025-07-07 21:13:27 +0000",
       "has_sapling": "2025-07-07 20:13:37 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 21:09:47 +0000"
+    },
+    "done": true
   },
   "mcwfences:recipes/hedge": {
     "criteria": {
@@ -974,6 +1025,12 @@
   "domum_ornamentum:recipes/decorations/pink_floating_carpet": {
     "criteria": {
       "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
+  "minecolonies:recipes/food/mint_jelly": {
+    "criteria": {
+      "has_mint": "2025-07-07 21:03:09 +0000"
     },
     "done": false
   },
@@ -1237,8 +1294,15 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-07 20:56:59 +0000",
       "supplementaries:candy": "2025-07-07 20:41:50 +0000"
     },
     "done": false
@@ -1339,6 +1403,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/transportation/pirat_boat": {
     "criteria": {
       "in_water": "2025-07-07 20:11:36 +0000"
@@ -1353,6 +1423,7 @@
   },
   "fairylights:recipes/fairylights/incandescent_light": {
     "criteria": {
+      "has_torch": "2025-07-07 20:59:23 +0000",
       "has_iron": "2025-07-07 20:40:02 +0000"
     },
     "done": false
@@ -1392,6 +1463,12 @@
       "has_birch": "2025-07-07 20:09:44 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/flags/flag_orange": {
     "criteria": {
@@ -1575,6 +1652,12 @@
     },
     "done": false
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_mushrooms": {
+    "criteria": {
+      "has_mushrooms": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/combat/chef_toque": {
     "criteria": {
       "has_string": "2025-07-07 20:32:39 +0000"
@@ -1598,6 +1681,12 @@
       "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 21:09:47 +0000"
+    },
+    "done": true
   },
   "fairylights:recipes/fairylights/orb_lantern": {
     "criteria": {
@@ -1662,6 +1751,12 @@
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-07-07 20:09:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-07 21:09:08 +0000"
     },
     "done": false
   },
@@ -1784,6 +1879,12 @@
     },
     "done": false
   },
+  "biomancy:recipes/biomancy/decomposing/beef": {
+    "criteria": {
+      "has_beef": "2025-07-07 21:09:08 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2025-07-07 20:09:44 +0000"
@@ -1844,6 +1945,12 @@
     },
     "done": false
   },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
   "autumnity:recipes/redstone/maple_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-07 20:47:34 +0000"
@@ -1884,6 +1991,12 @@
   "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-07 20:13:37 +0000"
+    },
+    "done": false
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_wood": "2025-07-07 20:59:23 +0000"
     },
     "done": false
   },
@@ -2049,6 +2162,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/personal_key": {
     "criteria": {
       "has_template": "2025-07-07 20:09:44 +0000"
@@ -2076,6 +2195,12 @@
   "biomeswevegone:recipes/transportation/sakura_boat": {
     "criteria": {
       "in_water": "2025-07-07 20:11:36 +0000"
+    },
+    "done": false
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
+    "criteria": {
+      "has_raw_zinc": "2025-07-07 21:00:49 +0000"
     },
     "done": false
   },
@@ -2408,6 +2533,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 21:09:08 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/aquaculture/bobber": {
     "criteria": {
       "has_items": "2025-07-07 20:09:44 +0000"
@@ -2540,9 +2671,16 @@
     },
     "done": false
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-07 21:03:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-07-07 20:12:03 +0000",
+      "minecraft:dripstone_caves": "2025-07-07 20:57:49 +0000",
       "autumnity:autumnity:maple_forest": "2025-07-07 20:32:54 +0000",
       "minecraft:plains": "2025-07-07 20:09:45 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-07-07 20:11:42 +0000"
@@ -2652,6 +2790,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_wood": "2025-07-07 20:59:23 +0000"
+    },
+    "done": false
+  },
   "mcwbyg:recipes/yellow_spruce_hedge": {
     "criteria": {
       "has_birch": "2025-07-07 20:09:44 +0000"
@@ -2661,6 +2805,12 @@
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-07-07 20:13:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-07 21:09:08 +0000"
     },
     "done": false
   },
@@ -2772,6 +2922,12 @@
     },
     "done": false
   },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2025-07-07 20:09:44 +0000"
@@ -2864,9 +3020,21 @@
     },
     "done": false
   },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-07-07 21:03:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-07 21:00:49 +0000"
     },
     "done": false
   },
@@ -3032,6 +3200,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-07 20:58:05 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-07-07 20:40:02 +0000"
@@ -3065,6 +3239,42 @@
   "supplementaries:recipes/candle_holders/candle_holder_orange": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 20:40:02 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
     },
     "done": false
   },
@@ -3206,6 +3416,7 @@
   },
   "biomancy:biomancy/raw_meat_collection": {
     "criteria": {
+      "has_raw_beef": "2025-07-07 21:09:08 +0000",
       "has_raw_porkchop": "2025-07-07 20:54:45 +0000"
     },
     "done": false
@@ -3239,6 +3450,12 @@
       "has_ingredient": "2025-07-07 20:40:13 +0000"
     },
     "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-07-07 20:59:23 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
@@ -3333,7 +3550,9 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
+      "has_iron_axe": "2025-07-07 21:13:27 +0000",
       "has_iron_leggings": "2025-07-07 20:40:03 +0000",
+      "has_iron_pickaxe": "2025-07-07 20:56:12 +0000",
       "has_iron_sword": "2025-07-07 20:40:02 +0000"
     },
     "done": false
@@ -3417,6 +3636,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-07 21:00:49 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
       "has_chest": "2025-07-07 20:53:46 +0000"
@@ -3485,6 +3710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-07 20:55:46 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-07-07 20:13:40 +0000"
@@ -3506,6 +3737,12 @@
   "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-07 20:54:45 +0000"
+    },
+    "done": false
+  },
+  "minecolonies:recipes/food/veggie_soup": {
+    "criteria": {
+      "has_eggplant": "2025-07-07 21:03:22 +0000"
     },
     "done": false
   },
@@ -3806,6 +4043,12 @@
     },
     "done": false
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_wood": "2025-07-07 20:59:23 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/iron_button": {
     "criteria": {
       "has_thing": "2025-07-07 20:40:02 +0000"
@@ -3908,6 +4151,12 @@
     },
     "done": false
   },
+  "biomancy:recipes/biomancy/decomposing/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-07 20:58:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-07-07 20:41:26 +0000",
@@ -3940,6 +4189,12 @@
     },
     "done": false
   },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2025-07-07 21:08:43 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/console_button": {
     "criteria": {
       "has_thing": "2025-07-07 20:40:02 +0000"
@@ -3955,6 +4210,12 @@
   "infinitybuttons:recipe/redstone/console_lever": {
     "criteria": {
       "has_thing": "2025-07-07 20:40:02 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-07-07 21:00:49 +0000"
     },
     "done": false
   },
@@ -4069,6 +4330,12 @@
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 20:40:02 +0000"
+    },
+    "done": false
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
+    "criteria": {
+      "has_raw_copper": "2025-07-07 20:58:05 +0000"
     },
     "done": false
   },
@@ -4433,6 +4700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-07 20:58:05 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 20:40:02 +0000"
@@ -4702,6 +4975,12 @@
     },
     "done": false
   },
+  "farmersrespite:recipes/cooking/blazing_chili": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 21:09:08 +0000"
+    },
+    "done": false
+  },
   "mcwfurnitures:recipes/oak": {
     "criteria": {
       "has_wood": "2025-07-07 20:13:37 +0000"
@@ -4727,6 +5006,66 @@
     },
     "done": false
   },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2025-07-07 21:14:24 +0000"
+    },
+    "done": false
+  },
   "autumnity:recipes/redstone/maple_door": {
     "criteria": {
       "has_planks": "2025-07-07 20:47:34 +0000"
@@ -4748,6 +5087,12 @@
   "rats:recipes/misc/upgrades/dj_upgrade": {
     "criteria": {
       "has_planks": "2025-07-07 20:13:40 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/milker_upgrade": {
+    "criteria": {
+      "has_beef": "2025-07-07 21:09:08 +0000"
     },
     "done": false
   },
@@ -4815,7 +5160,14 @@
   },
   "rats:recipes/misc/upgrades/archeologist_upgrade": {
     "criteria": {
-      "has_bone": "2025-07-07 20:35:57 +0000"
+      "has_bone": "2025-07-07 20:35:57 +0000",
+      "has_pick": "2025-07-07 20:56:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-07 21:09:08 +0000"
     },
     "done": false
   },
@@ -5001,6 +5353,12 @@
     },
     "done": false
   },
+  "arsdelight:recipes/food/frostaya_pie": {
+    "criteria": {
+      "has_frostaya_pod": "2025-07-07 21:08:43 +0000"
+    },
+    "done": false
+  },
   "monobank:recipes/decorations/monobank": {
     "criteria": {
       "has_iron": "2025-07-07 20:40:02 +0000"
@@ -5064,6 +5422,12 @@
   "biomeswevegone:recipes/transportation/florus_boat": {
     "criteria": {
       "in_water": "2025-07-07 20:11:36 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-07-07 20:59:23 +0000"
     },
     "done": false
   },
@@ -5179,6 +5543,12 @@
   "infinitybuttons:recipe/redstone/small_console_button": {
     "criteria": {
       "has_thing": "2025-07-07 20:40:02 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-07 21:14:24 +0000"
     },
     "done": false
   },
@@ -5431,7 +5801,9 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
+      "has_iron_axe": "2025-07-07 21:13:27 +0000",
       "has_iron_leggings": "2025-07-07 20:40:03 +0000",
+      "has_iron_pickaxe": "2025-07-07 20:56:12 +0000",
       "has_iron_sword": "2025-07-07 20:40:02 +0000"
     },
     "done": false
@@ -5548,6 +5920,12 @@
   "domum_ornamentum:recipes/decorations/magenta_floating_carpet": {
     "criteria": {
       "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-07 20:58:05 +0000"
     },
     "done": false
   },
