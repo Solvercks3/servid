@@ -1,4 +1,17 @@
 {
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-07-07 20:29:36 +0000",
+      "killed_something": "2025-07-07 20:32:30 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_magenta": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "mcwbyg:recipes/florus_fences": {
     "criteria": {
       "has_acacia": "2025-07-07 20:09:44 +0000"
@@ -28,6 +41,24 @@
       "has_birch": "2025-07-07 20:09:44 +0000"
     },
     "done": true
+  },
+  "rats:recipes/misc/upgrades/feral_bite_upgrade": {
+    "criteria": {
+      "has_eye": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_brown": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
+  "autumnity:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-07-07 20:34:40 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
@@ -77,6 +108,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/green_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-07-07 20:09:44 +0000"
@@ -87,6 +124,12 @@
     "criteria": {
       "has_book": "2025-07-07 20:09:44 +0000",
       "has_carrot": "2025-07-07 20:09:44 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/decorations/orange_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -119,6 +162,12 @@
       "has_birch": "2025-07-07 20:09:44 +0000"
     },
     "done": true
+  },
+  "littlelogistics:recipes/transportation/spring": {
+    "criteria": {
+      "has_item": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
   },
   "mcwwindows:recipes/parapets": {
     "criteria": {
@@ -220,6 +269,12 @@
   "mcwbyg:recipes/flowering_yucca_hedge": {
     "criteria": {
       "has_birch": "2025-07-07 20:09:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 20:29:36 +0000"
     },
     "done": true
   },
@@ -333,6 +388,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_cyan": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2025-07-07 20:13:42 +0000"
@@ -350,6 +411,12 @@
       "has_stone": "2025-07-07 20:09:43 +0000"
     },
     "done": true
+  },
+  "fairylights:recipes/fairylights/tinsel_garland": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
@@ -387,6 +454,12 @@
     },
     "done": false
   },
+  "domum_ornamentum:recipes/decorations/lime_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "mcwbyg:recipes/purple_sandstone_walls": {
     "criteria": {
       "has_sand": "2025-07-07 20:09:44 +0000"
@@ -408,6 +481,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-07-07 20:15:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -457,6 +536,12 @@
     "criteria": {
       "has_stick": "2025-07-07 20:13:42 +0000",
       "has_planks": "2025-07-07 20:13:40 +0000"
+    },
+    "done": false
+  },
+  "fairylights:recipes/fairylights/letter_bunting": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -532,6 +617,12 @@
     },
     "done": false
   },
+  "domum_ornamentum:recipes/decorations/pink_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "vc_gliders:recipes/misc/reinforced_paper_iron": {
     "criteria": {
       "has_crafting_table": "2025-07-07 20:14:34 +0000"
@@ -541,6 +632,12 @@
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-07-07 20:09:44 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/decorations/light_blue_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -652,6 +749,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_light_blue": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "domum_ornamentum:recipes/building_blocks/blockbarreldeco_standing": {
     "criteria": {
       "has_stick": "2025-07-07 20:13:42 +0000",
@@ -664,6 +767,18 @@
       "consumed_item": "2025-07-07 20:12:15 +0000"
     },
     "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_red": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
   },
   "rats:recipes/tools/patrol_stick": {
     "criteria": {
@@ -683,6 +798,12 @@
     },
     "done": false
   },
+  "domum_ornamentum:recipes/decorations/purple_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "idas:idas_root": {
     "criteria": {
       "always": "2025-07-07 20:09:42 +0000"
@@ -694,6 +815,12 @@
       "has_birch": "2025-07-07 20:09:44 +0000"
     },
     "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
   },
   "rats:recipes/transportation/pirat_boat": {
     "criteria": {
@@ -821,15 +948,39 @@
     },
     "done": false
   },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "interiors:recipes/building_blocks/crafting/cushion/gray_cushion": {
     "criteria": {
       "has_planks": "2025-07-07 20:13:40 +0000"
     },
     "done": false
   },
+  "rats:recipes/combat/chef_toque": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/decorations/air_raid_siren": {
     "criteria": {
       "has_stick": "2025-07-07 20:13:42 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/decorations/cyan_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_light_gray": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -842,6 +993,12 @@
   "storagedrawers:recipes/storagedrawers/crimson_trim": {
     "criteria": {
       "has_planks": "2025-07-07 20:09:44 +0000"
+    },
+    "done": false
+  },
+  "autumnity:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-07-07 20:34:40 +0000"
     },
     "done": false
   },
@@ -946,6 +1103,12 @@
     },
     "done": false
   },
+  "domum_ornamentum:recipes/decorations/yellow_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2025-07-07 20:09:44 +0000"
@@ -955,6 +1118,12 @@
   "storagedrawers:recipes/storagedrawers/drawer_key": {
     "criteria": {
       "has_template": "2025-07-07 20:09:44 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/decorations/red_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -985,6 +1154,12 @@
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-07-07 20:13:40 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/decorations/brown_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -1037,6 +1212,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-07-07 20:15:04 +0000"
@@ -1073,6 +1254,12 @@
     },
     "done": false
   },
+  "rats:recipes/misc/hammocks/rat_hammock_black": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "mighty_mail:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_planks": "2025-07-07 20:13:40 +0000"
@@ -1100,6 +1287,12 @@
   "interiors:recipes/building_blocks/crafting/cushion/yellow_cushion": {
     "criteria": {
       "has_planks": "2025-07-07 20:13:40 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/decorations/white_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -1145,6 +1338,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:coconino_meadow": "2025-07-07 20:12:44 +0000"
@@ -1184,6 +1383,12 @@
   "enderio:recipes/misc/stick": {
     "criteria": {
       "has_ingredient": "2025-07-07 20:13:37 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/rat_breeding_lantern": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -1265,6 +1470,12 @@
   "biomeswevegone:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-07-07 20:11:36 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/bio_forging/string": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -1370,9 +1581,22 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_pink": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-07-07 20:12:03 +0000",
+      "autumnity:autumnity:maple_forest": "2025-07-07 20:32:54 +0000",
       "minecraft:plains": "2025-07-07 20:09:45 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-07-07 20:11:42 +0000"
     },
@@ -1444,6 +1668,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-07-07 20:14:34 +0000"
@@ -1471,6 +1701,12 @@
   "vc_gliders:recipes/misc/reinforced_paper_diamond": {
     "criteria": {
       "has_crafting_table": "2025-07-07 20:14:34 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/poison_upgrade": {
+    "criteria": {
+      "has_eye": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -1588,6 +1824,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2025-07-07 20:13:42 +0000"
@@ -1599,6 +1841,24 @@
       "has_acacia": "2025-07-07 20:09:44 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_gray": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/bottler_upgrade": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
   },
   "storagedrawers:recipes/storagedrawers/acacia_trim": {
     "criteria": {
@@ -1691,12 +1951,24 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_orange": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "trashcompactor:recipes/trash_compactor": {
     "criteria": {
       "has_cobblestone": "2025-07-07 20:15:04 +0000",
       "has_shears": "2025-07-07 20:09:44 +0000",
       "has_piston": "2025-07-07 20:09:44 +0000",
       "has_planks": "2025-07-07 20:13:40 +0000"
+    },
+    "done": false
+  },
+  "vampirism:recipes/decorations/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -1793,6 +2065,12 @@
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2025-07-07 20:13:42 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/decorations/light_gray_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -2060,6 +2338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-07-07 20:09:44 +0000"
@@ -2126,6 +2410,13 @@
     },
     "done": false
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-07-07 20:32:30 +0000",
+      "minecraft:zombie": "2025-07-07 20:33:10 +0000"
+    },
+    "done": false
+  },
   "mcwbyg:recipes/green_enchanted_hedge": {
     "criteria": {
       "has_birch": "2025-07-07 20:09:44 +0000"
@@ -2174,6 +2465,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/triangle_pennant": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "mcwbyg:recipes/baobab_fences": {
     "criteria": {
       "has_acacia": "2025-07-07 20:09:44 +0000"
@@ -2198,6 +2495,12 @@
     },
     "done": false
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-07-07 20:31:01 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-07 20:13:37 +0000"
@@ -2219,6 +2522,12 @@
   "mcwwindows:recipes/blinds": {
     "criteria": {
       "has_wood": "2025-07-07 20:13:40 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/decorations/gray_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -2284,6 +2593,13 @@
     },
     "done": false
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-07-07 20:32:30 +0000",
+      "minecraft:zombie": "2025-07-07 20:33:10 +0000"
+    },
+    "done": false
+  },
   "goety:goety/root": {
     "criteria": {
       "tick": "2025-07-07 20:09:42 +0000"
@@ -2314,11 +2630,23 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_purple": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "mcwbyg:recipes/flowering_skyris_hedge": {
     "criteria": {
       "has_birch": "2025-07-07 20:09:43 +0000"
     },
     "done": true
+  },
+  "rats:recipes/combat/fisherman_hat": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
   },
   "vampirism:recipes/decorations/general/throne": {
     "criteria": {
@@ -2438,6 +2766,12 @@
     },
     "done": false
   },
+  "rats:recipes/misc/upgrades/jury_rigged_upgrade": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "sliceanddice:recipes/misc/slicer": {
     "criteria": {
       "has_tool": "2025-07-07 20:16:13 +0000"
@@ -2452,6 +2786,7 @@
   },
   "supplementaries:recipes/slingshot": {
     "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000",
       "forge:rods/wooden": "2025-07-07 20:13:42 +0000"
     },
     "done": false
@@ -2459,6 +2794,12 @@
   "biomeswevegone:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-07-07 20:11:36 +0000"
+    },
+    "done": false
+  },
+  "fairylights:recipes/fairylights/spearhead_pennant": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -2480,9 +2821,28 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_blue": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "biomeswevegone:recipes/transportation/skyris_boat": {
     "criteria": {
       "in_water": "2025-07-07 20:11:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-07-07 20:29:36 +0000",
+      "killed_something": "2025-07-07 20:32:30 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_lime": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -2498,9 +2858,21 @@
     },
     "done": false
   },
+  "titles:frigid": {
+    "criteria": {
+      "code_triggered": "2025-07-07 20:33:27 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
       "has_items": "2025-07-07 20:09:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -2528,9 +2900,27 @@
     },
     "done": false
   },
+  "fairylights:recipes/fairylights/swallowtail_pennant": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/decorations/black_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-07-07 20:09:44 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/bio_forging/cobweb": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -2692,6 +3082,24 @@
     },
     "done": false
   },
+  "rats:recipes/misc/hammocks/rat_hammock_green": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_white": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
+  "vampirism:recipes/decorations/vampire/candelabra": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2025-07-07 20:13:37 +0000"
@@ -2703,6 +3111,12 @@
       "consumed_item": "2025-07-07 20:12:15 +0000"
     },
     "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_string": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
@@ -2819,6 +3233,12 @@
     },
     "done": false
   },
+  "fairylights:recipes/fairylights/square_pennant": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-07 20:13:37 +0000"
@@ -2843,6 +3263,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_yellow": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/flags/flag_yellow": {
     "criteria": {
       "has_stick": "2025-07-07 20:13:42 +0000"
@@ -2858,6 +3284,12 @@
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-07-07 20:15:04 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/decorations/blue_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },
@@ -2937,6 +3369,12 @@
   "interiors:recipes/building_blocks/crafting/cushion/light_gray_cushion": {
     "criteria": {
       "has_planks": "2025-07-07 20:13:40 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/decorations/magenta_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-07 20:32:39 +0000"
     },
     "done": false
   },

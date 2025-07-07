@@ -6432,3 +6432,146 @@ java.lang.Throwable: null
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [07Jul2025 20:27:23.980] [Server thread/INFO] [Jade/]: Syncing config to tonisancho5 (8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d)
 [07Jul2025 20:27:23.981] [Server thread/INFO] [com.accbdd.complicated_bees.ComplicatedBees/]: syncing tracker to literal{tonisancho5}
+[07Jul2025 20:28:21.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 lost connection: Timed out
+[07Jul2025 20:28:21.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 left the game
+[07Jul2025 20:28:21.851] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jul2025 20:28:31.513] [Server thread/WARN] [tconstruct/]: Missing Tinkers NBT on entity entity.iceandfire.dread_lich_skull, this should not happen
+[07Jul2025 20:28:41.729] [Server thread/WARN] [tconstruct/]: Missing Tinkers NBT on entity entity.iceandfire.dread_lich_skull, this should not happen
+[07Jul2025 20:28:47.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tonisancho5[/127.238.23.215:51125] logged in with entity id 6658 at (6.5, 71.0, -21.5)
+[07Jul2025 20:28:47.129] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player tonisancho5
+[07Jul2025 20:28:47.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 joined the game
+[07Jul2025 20:28:47.271] [Server thread/INFO] [Jade/]: Syncing config to tonisancho5 (8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d)
+[07Jul2025 20:28:47.271] [Server thread/INFO] [com.accbdd.complicated_bees.ComplicatedBees/]: syncing tracker to literal{tonisancho5}
+[07Jul2025 20:29:11.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia was slain by Ghost
+[07Jul2025 20:29:11.299] [Server thread/INFO] [tombstone/]: The player Lord_Sepia has successfully been saved
+[07Jul2025 20:29:12.790] [Server thread/WARN] [tconstruct/]: Missing Tinkers NBT on entity entity.iceandfire.dread_lich_skull, this should not happen
+[07Jul2025 20:29:17.775] [Server thread/WARN] [tconstruct/]: Missing Tinkers NBT on entity entity.iceandfire.dread_lich_skull, this should not happen
+[07Jul2025 20:29:22.825] [Server thread/WARN] [tconstruct/]: Missing Tinkers NBT on entity entity.iceandfire.dread_lich_skull, this should not happen
+[07Jul2025 20:29:32.777] [Server thread/WARN] [tconstruct/]: Missing Tinkers NBT on entity entity.iceandfire.dread_lich_skull, this should not happen
+[07Jul2025 20:29:36.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks was slain by Spider
+[07Jul2025 20:29:36.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Your First Grave]
+[07Jul2025 20:29:36.946] [Server thread/INFO] [tombstone/]: The player Solvercks has successfully been saved
+[07Jul2025 20:29:45.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 lost connection: Timed out
+[07Jul2025 20:29:45.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 left the game
+[07Jul2025 20:29:45.119] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.player.ModPlayerEventHandler.onPlayerName(ModPlayerEventHandler.java:468) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.player.__ModPlayerEventHandler_onPlayerName_NameFormat.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.getPlayerDisplayName(ForgeEventFactory.java:339) ~[forge-1.20.1-47.4.2-universal.jar%231098!/:?]
+	at net.minecraft.world.entity.player.Player.refreshDisplayName(Player.java:2124) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1092) ~[?:?]
+	at com.github.ewan_selkirk.dimensionviewer.PlayerListHandler.updatePlayerList(PlayerListHandler.java:200) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at com.github.ewan_selkirk.dimensionviewer.PlayerListHandler.onPlayerDisconnect(PlayerListHandler.java:97) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at com.github.ewan_selkirk.dimensionviewer.__PlayerListHandler_onPlayerDisconnect_PlayerLoggedOutEvent.invoke(.dynamic) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.firePlayerLoggedOut(ForgeEventFactory.java:905) ~[forge-1.20.1-47.4.2-universal.jar%231098!/:?]
+	at net.minecraft.server.players.PlayerList.m_11286_(PlayerList.java:346) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7026_(ServerGamePacketListenerImpl.java:1134) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.network.Connection.m_129541_(Connection.java:432) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:157) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Jul2025 20:29:45.367] [Server thread/WARN] [tconstruct/]: Missing Tinkers NBT on entity entity.iceandfire.dread_lich_skull, this should not happen
+[07Jul2025 20:31:06.768] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4eba1dbb[id=<null>,name=tonisancho5,properties={},legacy=false] (/127.238.23.215:59403) lost connection: Disconnected
+[07Jul2025 20:31:28.548] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify creeper attack target task for translation{key='entity.specialmobs.endercreeper', args=[]}
+[07Jul2025 20:31:30.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tonisancho5[/127.238.23.215:60853] logged in with entity id 7259 at (6.5, 71.0, -21.5)
+[07Jul2025 20:31:30.714] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player tonisancho5
+[07Jul2025 20:31:30.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 joined the game
+[07Jul2025 20:31:30.852] [Server thread/INFO] [Jade/]: Syncing config to tonisancho5 (8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d)
+[07Jul2025 20:31:30.853] [Server thread/INFO] [com.accbdd.complicated_bees.ComplicatedBees/]: syncing tracker to literal{tonisancho5}
+[07Jul2025 20:31:37.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Lord_Sepia a server operator
+[07Jul2025 20:31:57.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Solvercks a server operator
+[07Jul2025 20:31:57.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has reached the goal [Ouch... ouch...]
+[07Jul2025 20:31:57.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 was shot by Skeleton
+[07Jul2025 20:31:57.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 has made the advancement [Your First Grave]
+[07Jul2025 20:31:57.493] [Server thread/INFO] [tombstone/]: The player tonisancho5 has successfully been saved
+[07Jul2025 20:32:01.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made tonisancho5 a server operator
+[07Jul2025 20:32:28.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 lost connection: Timed out
+[07Jul2025 20:32:28.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 left the game
+[07Jul2025 20:32:28.685] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.player.ModPlayerEventHandler.onPlayerName(ModPlayerEventHandler.java:468) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.player.__ModPlayerEventHandler_onPlayerName_NameFormat.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.getPlayerDisplayName(ForgeEventFactory.java:339) ~[forge-1.20.1-47.4.2-universal.jar%231098!/:?]
+	at net.minecraft.world.entity.player.Player.refreshDisplayName(Player.java:2124) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1092) ~[?:?]
+	at com.github.ewan_selkirk.dimensionviewer.PlayerListHandler.updatePlayerList(PlayerListHandler.java:200) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at com.github.ewan_selkirk.dimensionviewer.PlayerListHandler.onPlayerDisconnect(PlayerListHandler.java:97) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at com.github.ewan_selkirk.dimensionviewer.__PlayerListHandler_onPlayerDisconnect_PlayerLoggedOutEvent.invoke(.dynamic) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.firePlayerLoggedOut(ForgeEventFactory.java:905) ~[forge-1.20.1-47.4.2-universal.jar%231098!/:?]
+	at net.minecraft.server.players.PlayerList.m_11286_(PlayerList.java:346) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7026_(ServerGamePacketListenerImpl.java:1134) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.network.Connection.m_129541_(Connection.java:432) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:157) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Jul2025 20:32:55.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tonisancho5[/127.238.23.215:33019] logged in with entity id 7908 at (6.5, 71.0, -21.5)
+[07Jul2025 20:32:55.354] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player tonisancho5
+[07Jul2025 20:32:55.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 joined the game
+[07Jul2025 20:32:55.525] [Server thread/INFO] [Jade/]: Syncing config to tonisancho5 (8f6fba08-ac4f-3afe-96bc-dc67a4cc9b9d)
+[07Jul2025 20:32:55.525] [Server thread/INFO] [com.accbdd.complicated_bees.ComplicatedBees/]: syncing tracker to literal{tonisancho5}
+[07Jul2025 20:32:55.978] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['tonisancho5'/7908, l='ServerLevel[world]', x=6.50, y=71.00, z=-21.50, removed=KILLED]
+[07Jul2025 20:33:04.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Set the time to 1000]
+[07Jul2025 20:33:27.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Ice Age]
+[07Jul2025 20:33:53.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonisancho5 lost connection: Timed out
+[07Jul2025 20:33:53.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonisancho5 left the game
+[07Jul2025 20:33:53.325] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.player.ModPlayerEventHandler.onPlayerName(ModPlayerEventHandler.java:468) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.player.__ModPlayerEventHandler_onPlayerName_NameFormat.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%231073!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.getPlayerDisplayName(ForgeEventFactory.java:339) ~[forge-1.20.1-47.4.2-universal.jar%231098!/:?]
+	at net.minecraft.world.entity.player.Player.refreshDisplayName(Player.java:2124) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1092) ~[?:?]
+	at com.github.ewan_selkirk.dimensionviewer.PlayerListHandler.updatePlayerList(PlayerListHandler.java:200) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at com.github.ewan_selkirk.dimensionviewer.PlayerListHandler.onPlayerDisconnect(PlayerListHandler.java:97) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at com.github.ewan_selkirk.dimensionviewer.__PlayerListHandler_onPlayerDisconnect_PlayerLoggedOutEvent.invoke(.dynamic) ~[dimensionviewer-1.20-1.4.0.jar%23736!/:1.4.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.firePlayerLoggedOut(ForgeEventFactory.java:905) ~[forge-1.20.1-47.4.2-universal.jar%231098!/:?]
+	at net.minecraft.server.players.PlayerList.m_11286_(PlayerList.java:346) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7026_(ServerGamePacketListenerImpl.java:1134) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.network.Connection.m_129541_(Connection.java:432) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:157) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%231093!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Jul2025 20:34:34.807] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=38, y=239, z=153} from item 0 air and block carrot: 
+[07Jul2025 20:34:58.729] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f6e4039[id=<null>,name=tonisancho5,properties={},legacy=false] (/127.238.23.215:56339) lost connection: Disconnected
+[07Jul2025 20:35:01.777] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:35:02.480] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:35:03.035] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 20:35:39.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia was slain by Raccoon
+[07Jul2025 20:35:39.501] [Server thread/INFO] [tombstone/]: The player Lord_Sepia has successfully been saved
+[07Jul2025 20:36:21.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Who You Gonna Call?]
