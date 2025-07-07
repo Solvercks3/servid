@@ -6626,3 +6626,16 @@ java.lang.Throwable: null
 [07Jul2025 21:47:12.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lord_Sepia has reached the goal [How Low Can You Go?]
 [07Jul2025 21:47:16.220] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
 [07Jul2025 21:49:04.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Suit Up]
+[07Jul2025 21:49:15.422] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:49:42.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -338.500000, -18.500000, 559.500000]
+[07Jul2025 21:51:23.377] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:51:30.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Solvercks has made the advancement [Diamonds!]
+[07Jul2025 21:51:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -235.500000, 79.500000, 501.500000]
+[07Jul2025 21:52:04.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -360.500000, -40.500000, 584.500000]
+[07Jul2025 21:53:09.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -235.500000, 79.500000, 501.500000]
+[07Jul2025 21:53:34.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -360.500000, -40.500000, 584.500000]
+[07Jul2025 21:54:23.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -235.500000, 79.500000, 501.500000]
+[07Jul2025 21:54:34.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Solvercks: Teleported Solvercks to -360.500000, -40.500000, 584.500000]
+[07Jul2025 21:55:11.220] [Server thread/WARN] [tconstruct/]: Tool stack constructed using non-modifiable tool, this may cause issues as it has no NBT. To debug this issue or disable the warning, use logInvalidToolStack in the config.
+[07Jul2025 21:56:53.853] [Server thread/INFO] [Daily Rewards/]: Reward player ServerPlayer['Lord_Sepia'/3913, l='ServerLevel[world]', x=-342.17, y=80.00, z=459.65] daily reward for 1 days with 1 loyalty_card_generic ...
+[07Jul2025 21:56:53.856] [Server thread/INFO] [Daily Rewards/]: Special Reward player ServerPlayer['Lord_Sepia'/3913, l='ServerLevel[world]', x=-342.17, y=80.00, z=459.65] daily reward for 1 days with 1 jaffa_cake ...

@@ -1971,7 +1971,8 @@
   },
   "ae2:recipes/misc/network/blocks/crank": {
     "criteria": {
-      "has_stick": "2025-07-07 20:21:47 +0000"
+      "has_stick": "2025-07-07 20:21:47 +0000",
+      "has_copper_ingot": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -2026,7 +2027,8 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "has_cobblestone": "2025-07-07 21:06:50 +0000",
-      "minecraft:planks": "2025-07-07 20:21:52 +0000"
+      "minecraft:planks": "2025-07-07 20:21:52 +0000",
+      "has_copper_ingot": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4278,6 +4280,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/copper_chimney": {
+    "criteria": {
+      "has_copper": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_boots": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
@@ -4287,6 +4301,18 @@
   "etched:recipes/decorations/etching_table": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/copper_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4314,9 +4340,33 @@
     },
     "done": false
   },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/misc/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4356,6 +4406,18 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/sticky_weathered_copper_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "pneumaticcraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
@@ -4383,6 +4445,12 @@
   "ad_astra:recipes/misc/coal_generator": {
     "criteria": {
       "has_coal_generator": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_copper_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4434,6 +4502,12 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/weathered_copper_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
@@ -4455,6 +4529,12 @@
   "mcwwindows:recipes/metal": {
     "criteria": {
       "has_wood": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4482,6 +4562,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "ae2:recipes/misc/decorative/light_detector": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
@@ -4494,9 +4580,39 @@
     },
     "done": false
   },
+  "biomancy:recipes/biomancy/decomposing/copper_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "shieldexp:recipes/iron_shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "chimes:recipes/decorations/copper_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/exposed_copper_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4512,9 +4628,45 @@
     },
     "done": false
   },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "fairylights:recipes/fairylights/orb_lantern": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-07 21:54:22 +0000"
+    },
+    "done": false
+  },
+  "miners_delight:recipes/food/copper_carrot": {
+    "criteria": {
+      "has_copper": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
+    "criteria": {
+      "has_raw_gold": "2025-07-07 21:54:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4530,6 +4682,12 @@
     },
     "done": false
   },
+  "tconstruct:recipes/misc/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-07-07 21:40:27 +0000"
@@ -4539,6 +4697,18 @@
   "minecolonies:recipes/misc/chainmailhelmet": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_oxidized_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4560,6 +4730,18 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/exposed_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_copper_large_button_waxing": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
@@ -4569,6 +4751,24 @@
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4590,15 +4790,39 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/waxed_exposed_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "miners_delight:recipes/decorations/copper_pot": {
+    "criteria": {
+      "has_copper": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/building_blocks/trash_can": {
     "criteria": {
       "has_ingot": "2025-07-07 21:40:27 +0000"
     },
     "done": false
   },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/iron_large_button": {
     "criteria": {
       "has_thing": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4632,9 +4856,27 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_weathered_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4662,6 +4904,18 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/decorations/common/copper_platform": {
+    "criteria": {
+      "has_bars": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-07-07 21:40:27 +0000"
@@ -4671,6 +4925,12 @@
   "immersive_weathering:recipes/iron_ingot": {
     "criteria": {
       "has_copper_block": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4698,15 +4958,45 @@
     },
     "done": false
   },
+  "titles:spelunker": {
+    "criteria": {
+      "spelunking": "2025-07-07 21:47:12 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/decorations/copper_cup": {
+    "criteria": {
+      "has_copper": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "chimes:recipes/decorations/iron_chimes": {
     "criteria": {
       "has_wood_slabs": "2025-07-07 21:40:27 +0000"
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4728,6 +5018,12 @@
     },
     "done": false
   },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
@@ -4740,9 +5036,21 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/sticky_exposed_copper_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4764,6 +5072,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "majruszsaccessories:lucky_rock": {
     "criteria": {
       "picked_up_accessory": "2025-07-07 21:43:48 +0000"
@@ -4776,8 +5090,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/copper_ingot_from_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_oxidized_copper_large_button_waxing": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "etched:recipes/decorations/radio": {
     "criteria": {
+      "has_copper": "2025-07-07 21:49:37 +0000",
       "has_iron": "2025-07-07 21:40:27 +0000"
     },
     "done": false
@@ -4794,15 +5121,39 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/weathered_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_exposed_copper_large_button_waxing": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-07-07 21:40:27 +0000"
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/waxed_exposed_copper_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_brown": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4818,6 +5169,12 @@
     },
     "done": false
   },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "fairylights:recipes/fairylights/oil_lantern_light": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
@@ -4827,6 +5184,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_black": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4890,6 +5253,18 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/sticky_copper_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-07 21:40:27 +0000"
@@ -4920,9 +5295,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-07 21:54:22 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-07-07 21:49:37 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/waxed_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4941,6 +5334,12 @@
   "vampirism:recipes/combat/weapontable/crucifix_enhanced": {
     "criteria": {
       "iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_weathered_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4968,15 +5367,33 @@
     },
     "done": false
   },
+  "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "mighty_mail:recipes/decorations/post_box": {
     "criteria": {
       "has_ingots": "2025-07-07 21:40:27 +0000"
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "fairylights:recipes/fairylights/jack_o_lantern": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -4989,6 +5406,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-07 21:54:22 +0000"
     },
     "done": false
   },
@@ -5016,15 +5439,39 @@
     },
     "done": false
   },
+  "tconstruct:recipes/combat/tools/armor/travelers_pants": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-07 21:40:27 +0000"
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/sticky_oxidized_copper_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "alekiships:recipes/crafting/crafting/cleat": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-07 21:54:22 +0000"
     },
     "done": false
   },
@@ -5046,6 +5493,18 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/sticky_weathered_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "alekiships:recipes/crafting/crafting/oarlock": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
@@ -5058,6 +5517,12 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/waxed_weathered_copper_large_button_waxing": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/big_console_lever": {
     "criteria": {
       "has_thing": "2025-07-07 21:40:27 +0000"
@@ -5067,6 +5532,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -5085,6 +5556,12 @@
   "monobank:recipes/decorations/monobank": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_oxidized_copper_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -5130,6 +5607,12 @@
     },
     "done": false
   },
+  "infinitybuttons:recipe/redstone/oxidized_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 21:40:27 +0000"
@@ -5160,6 +5643,12 @@
     },
     "done": false
   },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/misc/rattling_gun": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
@@ -5169,6 +5658,18 @@
   "fairylights:recipes/fairylights/spider_light": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_weathered_copper_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
@@ -5193,6 +5694,24 @@
   "exposure:recipes/tools/camera": {
     "criteria": {
       "has_iron": "2025-07-07 21:40:27 +0000"
+    },
+    "done": false
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-07-07 21:49:37 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 21:49:37 +0000"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/oxidized_copper_button": {
+    "criteria": {
+      "has_thing": "2025-07-07 21:49:37 +0000"
     },
     "done": false
   },
