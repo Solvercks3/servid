@@ -1,6 +1,6 @@
 === FTB Ranks ===
 
-Last README file update: Mon Jul 07 20:49:15 CEST 2025
+Last README file update: Tue Jul 08 12:38:02 UTC 2025
 Wiki: https://www.notion.so/feedthebeast/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168
 To refresh this file, run /ftbranks refresh_readme
 
